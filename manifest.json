@@ -1,7 +1,7 @@
 {
 	"name": "ASANA Translate",
 	"description": "Because we want ASANA in our language :D",
-	"version": "0.1.0",
+	"version": "0.1",
 	"manifest_version": 2,
 	"default_locale": "es",
 	"permissions": [
@@ -18,6 +18,7 @@
     	"scripts": ["background.js"]
     },
     "icons": {
-		"128": "icon_128.png"
+		"128": "icon_128.png",
+		"48": "icon_48.png"
 	}
 }
