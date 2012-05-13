@@ -1,0 +1,86 @@
+{
+	// Left menu
+	"Search": { "message": "Buscar" },
+	"MyTasks": { "message": "Mis tareas" },
+	"PROJECTS": { "message": "PROJECTS" },
+	"TABS": { "message": "ETIQUETAS" },
+	"PEOPLE": { "message": "GENTE" },
+	"InviteManageMembers": { "message": "Invitar y Gestionar Personas" },
+	"EditWorkspaceSettings": { "message": "Editar el Espacio de Trabajo" },
+	"RemoveMeFromWorkspace": { "message": "Eliminarme del Espacio de Trabajo" },
+	"UpgradeWorkspace": { "message": "Mejorar al Espacio de Trabajo" },
+	"ShowArchivedProjects": { "message": "Mostrar Proyectos Archivados" },
+	"HideArchivedProjects": { "message": "Ocultar Proyectos Archivados" },
+	"AccountSettings": { "message": "Preferencias de la cuenta" },
+	"NewWorkspace": { "message": "Nuevo Espacio de Trabajo" },
+	"LogOut": { "message": "Desconectar" },
+
+	// Task info
+	"MarkComplete": { "message": "Completar Tarea" },
+	"AddNotes": { "message": "Añadir Notas" },
+	"DueDate": { "message": "F.Límite" },
+	"Tags": { "message": "Etiquetas" },
+	"AttachFile": { "message": "Adjuntar archivo" },
+	"Assignee": { "message": "Asignar" },
+	"Projects": { "message": "Proyectos" },
+	"AddToProject": { "message": "añadir al proyecto" },
+	"Followers": { "message": "Seguidores" },
+	"AddFollowers": { "message": " añadir seguidores" },
+	"Follow": { "message": "Seguir" },
+	"Unfollow": { "message": "No seguir" },
+	"DeleteTask": { "message": "Borrar Tarea" },
+	"MakePriorityHeading": { "message": "Hacer cabecera de prioridad" },
+	"NewItem": { "message": "(nueva tarea)" },
+	"AssignToMe": { "message": "Asignarmela" },
+	"ActivityFeed": { "message": "Actividad" },
+	"Comment": { "message": "Comentar" },
+
+	// Project tasks
+	"AddTask": { "message": "Añadir una tarea" },
+	"Archive": { "message": "Archivar" },
+	"ArchiveCompletedTasks": { "message": "Archivar tareas completadas" },
+	"ShowArchivedTasks": { "message": "Mostrar tareas archivadas" },
+	"HideArchivedTasks": { "message": "Ocultar tareas archivadas" },
+	"New": { "message": "Nuevo" },
+	"NewPriorityHeading": { "message": "Nueva Cabecera de Prioridad" },
+	"Share": { "message": "Share" }, // Cannot be longer than this or will break the page...
+	"CollapseAll": { "message": "Colapsar Todo" },
+	"ExpandAll": { "message": "Expander Todo" },
+	"Priority": { "message": "Prioridad" },
+	"Date": { "message": "Fecha" },
+	"Project": { "message": "Proyecto" },
+
+	// Tips
+	"TIP_MarkedForUpcoming": { "message": "Marcada Próximamente. Click para cambiar." },
+	"TIP_MarkedForToday": { "message": "Marcada para Hoy. Click para cambiar." },
+	"TIP_CreateTasksAndHeadings": { "message": "Crear tareas y cabeceras" },
+	"TIP_HideCompletedTasks": { "message": "Ocultar tareas completadas" },
+	"TIP_UnfollowTask": { "message": "Dejar de seguir la tarea para no recibir mas emails sobre ella." },
+	"TIP_FollowTask": { "message": "Sigue la tarea si quieres recibir emails cuando alguien comente en ella." },
+	"TIP_ActivityFeedInfo": { "message": "Aquí podrá ver el historial de la tarea." },
+
+	// Bottom menu
+	"NewProject": { "message": "Nuevo Proyecto" },
+	"NewTask": { "message": "Nueva Tarea" },
+	"MoveDown": { "message": "Mover Abajo" },
+	"JumpDown": { "message": "Saltar Abajo" },
+	"CloseDetails": { "message": "Cerrar Detalles" },
+	"QuickAdd": { "message": "Tarea Rápida" },
+	"More": { "message": "mas..." },
+
+	// Days and dates
+	"Today": { "message": "Hoy" },
+	"Yesterday": { "message": "Ayer" },
+	"Tomorrow": { "message": "Mañana" },
+	"Upcoming": { "message": "Próximamente" },
+	"Later": { "message": "Después" },
+	"LATER": { "message": "DESPUÉS" },
+	"Monday": { "message": "Lunes" },
+	"Tuesday": { "message": "Martes" },
+	"Wednesday": { "message": "Miércoles" },
+	"Thursday": { "message": "Jueves" },
+	"Friday": { "message": "Viernes" },
+	"Saturday": { "message": "Sábado" },
+	"Sunday": { "message": "Domingo" }
+	
+}

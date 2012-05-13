@@ -1,0 +1,23 @@
+{
+	"name": "ASANA Translate",
+	"description": "Because we want ASANA in our language :D",
+	"version": "0.1.0",
+	"manifest_version": 2,
+	"default_locale": "es",
+	"permissions": [
+		"tabs",
+		"webRequest",
+		"webRequestBlocking",
+		"*://app.asana.com/*"
+	],
+	"content_scripts": [{
+		"matches": ["*://app.asana.com/*"],
+		"js": ["mootools-core-1.4.5.js", "translate.js"]
+    }],
+    "background": {
+    	"scripts": ["background.js"]
+    },
+    "icons": {
+		"128": "icon_128.png"
+	}
+}
