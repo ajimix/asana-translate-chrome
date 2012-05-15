@@ -17,6 +17,8 @@
 
 	// Task info
 	"MarkComplete": { "message": "Completar Tarea" },
+	"MarkIncomplete": { "message": "Marcar Incompleta" },
+	"Completed": { "message": "Completada" },
 	"AddNotes": { "message": "Añadir Notas" },
 	"DueDate": { "message": "F.Límite" },
 	"Tags": { "message": "Etiquetas" },
