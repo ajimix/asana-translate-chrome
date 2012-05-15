@@ -35,7 +35,7 @@ Known issues
 ------------
 
 - Sometimes strings under task info are not translated at first but end up being translated after a second ajax call from Asana.
-- In some rare cases Asana asks to refresh page.
+- **(fixed)** In some rare cases Asana asks to refresh page.
 
 
 Author
