@@ -76,7 +76,7 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($$('.people_tab'), 'PEOPLE');
 
 		// Task info
-		stringToElement($$('.complete-text'), 'MarkComplete');
+		replaceFromElement($$('.complete-text'), { 'Mark Complete': 'MarkComplete', 'Mark Incomplete': 'MarkIncomplete', 'Completed': 'Completed' });
 		stringToElement($$('.description .placeholder-content'), 'AddNotes');
 		stringToElement($$('.assigned_to .property-name'), 'Assignee');
 		stringToElement($$('.projects .property-name'), 'Projects');
@@ -102,8 +102,8 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($$('.comment-placeholder'), 'Comment');
 
 		// Project tasks
-		replaceFromElement($$('.upcoming_group .group_header'), {'Upcoming': 'Upcoming'});
-		replaceFromElement($$('.today_group .group_header'), {'Today': 'Today'});
+		// replaceFromElement($$('.upcoming_group .group_header'), {'Upcoming': 'Upcoming'}); // Crashes ASANA
+		// replaceFromElement($$('.today_group .group_header'), {'Today': 'Today'}); // Crashes ASANA
 		stringToElement($$('.all-my-tasks-bar .label'), 'LATER');
 		replaceFromElement($$('.grid_due_date'), days);
 		stringToElement($$('.grid_pseudorow_no_prioritized .grid_cell_string'), 'AddTask');
