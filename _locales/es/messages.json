@@ -1,5 +1,7 @@
 {
-	// Left menu
+	"__comment": { "message": "This strings are used for comments, refer to: http://stackoverflow.com/questions/244777/can-i-comment-a-json-file" },
+
+	"__comment": { "message": "Left menu" },
 	"Search": { "message": "Buscar" },
 	"MyTasks": { "message": "Mis tareas" },
 	"PROJECTS": { "message": "PROJECTS" },
@@ -15,7 +17,7 @@
 	"NewWorkspace": { "message": "Nuevo Espacio de Trabajo" },
 	"LogOut": { "message": "Desconectar" },
 
-	// Task info
+	"__comment": { "message": "Task info" },
 	"MarkComplete": { "message": "Completar Tarea" },
 	"MarkIncomplete": { "message": "Marcar Incompleta" },
 	"Completed": { "message": "Completada" },
@@ -37,7 +39,7 @@
 	"ActivityFeed": { "message": "Actividad" },
 	"Comment": { "message": "Comentar" },
 
-	// Project tasks
+	"__comment": { "message": "Project tasks" },
 	"AddTask": { "message": "Añadir una tarea" },
 	"Archive": { "message": "Archivar" },
 	"ArchiveCompletedTasks": { "message": "Archivar tareas completadas" },
@@ -45,7 +47,7 @@
 	"HideArchivedTasks": { "message": "Ocultar tareas archivadas" },
 	"New": { "message": "Nuevo" },
 	"NewPriorityHeading": { "message": "Nueva Cabecera de Prioridad" },
-	"Share": { "message": "Share" }, // Cannot be longer than this or will break the page...
+	"Share": { "message": "Share" }, "__comment": { "message": "Cannot be longer than this or will break the page..." },
 	"CollapseAll": { "message": "Colapsar Todo" },
 	"ExpandAll": { "message": "Expander Todo" },
 	"Priority": { "message": "Prioridad" },
@@ -53,7 +55,7 @@
 	"Project": { "message": "Proyecto" },
 	"All": { "message": "Todas" },
 
-	// Tips
+	"__comment": { "message": "Tips" },
 	"TIP_MarkedForUpcoming": { "message": "Marcada Próximamente. Click para cambiar." },
 	"TIP_MarkedForToday": { "message": "Marcada para Hoy. Click para cambiar." },
 	"TIP_CreateTasksAndHeadings": { "message": "Crear tareas y cabeceras" },
@@ -62,7 +64,7 @@
 	"TIP_FollowTask": { "message": "Sigue la tarea si quieres recibir emails cuando alguien comente en ella." },
 	"TIP_ActivityFeedInfo": { "message": "Aquí podrá ver el historial de la tarea." },
 
-	// Bottom menu
+	"__comment": { "message": "Bottom menu" },
 	"NewProject": { "message": "Nuevo Proyecto" },
 	"NewTask": { "message": "Nueva Tarea" },
 	"MoveDown": { "message": "Mover Abajo" },
@@ -71,7 +73,7 @@
 	"QuickAdd": { "message": "Tarea Rápida" },
 	"More": { "message": "mas..." },
 
-	// Days and dates
+	"__comment": { "message": "Days and dates" },
 	"Today": { "message": "Hoy" },
 	"Yesterday": { "message": "Ayer" },
 	"Tomorrow": { "message": "Mañana" },
