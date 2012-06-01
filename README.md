@@ -10,11 +10,17 @@ Right now only supports Spanish. Want your own language? You can help! Read belo
 How to install extension
 ------------------------
 
-**Download**
+Choose your flavour:
 
-Download from [Chrome Web Store](https://chrome.google.com/webstore/detail/mmmjfjdbamonmaajclfcpicaanaonlfc)
+**Easy as pie**
 
-**Manual install**
+- Download from [Chrome Web Store](https://chrome.google.com/webstore/detail/mmmjfjdbamonmaajclfcpicaanaonlfc)
+
+- Enjoy!
+
+**Geek install**
+
+- Download the github project
 
 - Go to your Google Chrome extensions page or enter **chrome://extensions** into chrome url bar
 
