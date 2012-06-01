@@ -10,6 +10,12 @@ Right now only supports Spanish. Want your own language? You can help! Read belo
 How to install extension
 ------------------------
 
+**Download**
+
+Download from [Chrome Web Store](https://chrome.google.com/webstore/detail/mmmjfjdbamonmaajclfcpicaanaonlfc)
+
+**Manual install**
+
 - Go to your Google Chrome extensions page or enter **chrome://extensions** into chrome url bar
 
 - Enable developer mode.

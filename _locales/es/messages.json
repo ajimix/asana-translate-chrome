@@ -51,6 +51,7 @@
 	"Priority": { "message": "Prioridad" },
 	"Date": { "message": "Fecha" },
 	"Project": { "message": "Proyecto" },
+	"All": { "message": "Todas" },
 
 	// Tips
 	"TIP_MarkedForUpcoming": { "message": "Marcada Próximamente. Click para cambiar." },
