@@ -102,6 +102,7 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($('make_priority_heading'), 'MakePriorityHeading');
 		stringToElement($$('.details-pane-title .header-name')[2], 'NewItem', 'placeholder');
 		stringToElement($$('.assign-to-me-button .button-text'), 'AssignToMe');
+		stringToElement($$('.assigned_to .placeholder'), 'AssignToTeammate');
 		stringToElement($$('.comments .section-name'), 'ActivityFeed');
 		stringToElement($$('.comment-placeholder'), 'Comment');
 

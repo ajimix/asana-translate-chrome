@@ -36,6 +36,7 @@
 	"MakePriorityHeading": { "message": "Hacer cabecera de prioridad" },
 	"NewItem": { "message": "(nueva tarea)" },
 	"AssignToMe": { "message": "Asignarmela" },
+	"AssignToTeammate": { "message": "asignar a un compañero" },
 	"ActivityFeed": { "message": "Actividad" },
 	"Comment": { "message": "Comentar" },
 
