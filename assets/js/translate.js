@@ -31,7 +31,9 @@ var stringToElement = function(element, string, property){ // Quick function to 
 			element.each(function(el){ // Do the same for each element in array of elements
 				var newHtml = el.get('html');
 				Object.each(strings, function(item, key){
-					newHtml = newHtml.replace(key, chrome.i18n.getMessage(item));
+					if(newHtml.indexOf(key) !== -1){
+						newHtml = newHtml.replace(key, chrome.i18n.getMessage(item));
+					}
 				});
 				el.set('html', newHtml);
 			});
@@ -56,6 +58,8 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		};
 
 		console.time("Asana translate:");
+
+		// Try to not refer direct > child as Asana could change element structure
 
 		// Left menu
 		stringToElement($('nav_search_input'), 'Search', 'placeholder');
@@ -101,6 +105,22 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($$('.comments .section-name'), 'ActivityFeed');
 		stringToElement($$('.comment-placeholder'), 'Comment');
 
+		// Task activity
+		replaceFromElement($$('.comments .feed-story .comment-text'), {
+			'created task': 'ACT_CreatedTask',
+			'added to': 'ACT_AddedTo',
+			'assigned to': 'ACT_AssignedTo',
+			'changed the due date to': 'ACT_ChangedDueDate',
+			'added attachment': 'ACT_AddedAttachment',
+			'marked complete': 'ACT_MarkedComplete',
+			'marked incomplete': 'ACT_MarkedIncomplete',
+			'unmarked today': 'ACT_UnmarkedToday',
+			'marked today': 'ACT_MarkedToday',
+			'created project': 'ACT_CreatedProject',
+			'removed from': 'ACT_RemovedFrom',
+			'moved from': 'ACT_MovedFrom'
+		});
+
 		// Project tasks
 		// replaceFromElement($$('.upcoming_group .group_header'), {'Upcoming': 'Upcoming'}); // Crashes ASANA
 		// replaceFromElement($$('.today_group .group_header'), {'Today': 'Today'}); // Crashes ASANA
@@ -119,6 +139,7 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($$('#group_by_assignee .button-text'), 'Assignee');
 		stringToElement($$('#group_by_due_date .button-text'), 'Date');
 		stringToElement($$('#group_by_project .button-text'), 'Project');
+		stringToElement($$('.filter-buttons > .toggle-button > .button-text'), 'All');
 
 		// Tips info
 		replaceFromElement($$('.tooltip-body'), {
@@ -128,7 +149,8 @@ var stringToElement = function(element, string, property){ // Quick function to 
 			'Hide completed tasks.': 'TIP_HideCompletedTasks',
 			'Unfollow this task to stop receiving emails about it.': 'TIP_UnfollowTask',
 			'Follow this task if you want to receive emails when other people comment on it.': 'TIP_FollowTask',
-			'The Activity Feed shows the history of this task.': 'TIP_ActivityFeedInfo'
+			'The Activity Feed shows the history of this task.': 'TIP_ActivityFeedInfo',
+			'Remove Follower': 'TIP_RemoveFollower'
 		});
 
 		// Bottom buttons
