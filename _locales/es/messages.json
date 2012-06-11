@@ -39,6 +39,20 @@
 	"ActivityFeed": { "message": "Actividad" },
 	"Comment": { "message": "Comentar" },
 
+	"__comment": { "message": "Task activity" },
+	"ACT_CreatedTask": { "message": "creó la tarea" },
+	"ACT_AddedTo": { "message": "la añadió a" },
+	"ACT_AssignedTo": { "message": "la asignó a" },
+	"ACT_ChangedDueDate": { "message": "cambió la fecha límite a" },
+	"ACT_AddedAttachment": { "message": "adjuntó un archivo" },
+	"ACT_MarkedComplete": { "message": "la marcó como completa" },
+	"ACT_MarkedIncomplete": { "message": "la marcó como incompleta" },
+	"ACT_MarkedToday": { "message": "la marcó para hoy" },
+	"ACT_UnmarkedToday": { "message": "la desmarcó de hoy" },
+	"ACT_CreatedProject": { "message": "creó el proyecto" },
+	"ACT_MovedFrom": { "message": "la movió de" },
+	"ACT_RemovedFrom": { "message": "la eliminó de" },
+
 	"__comment": { "message": "Project tasks" },
 	"AddTask": { "message": "Añadir una tarea" },
 	"Archive": { "message": "Archivar" },
@@ -63,6 +77,7 @@
 	"TIP_UnfollowTask": { "message": "Dejar de seguir la tarea para no recibir mas emails sobre ella." },
 	"TIP_FollowTask": { "message": "Sigue la tarea si quieres recibir emails cuando alguien comente en ella." },
 	"TIP_ActivityFeedInfo": { "message": "Aquí podrá ver el historial de la tarea." },
+	"TIP_RemoveFollower": { "message": "Quitar seguidor" },
 
 	"__comment": { "message": "Bottom menu" },
 	"NewProject": { "message": "Nuevo Proyecto" },
