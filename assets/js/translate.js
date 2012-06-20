@@ -63,7 +63,11 @@ var stringToElement = function(element, string, property){ // Quick function to 
 
 		// Left menu
 		stringToElement($('nav_search_input'), 'Search', 'placeholder');
-		stringToElement($$('.atm-name'), 'MyTasks');
+		replaceFromElement($$('.atm-name'), {
+			'My Tasks': 'MyTasks',
+			'My': 'My_Tasks',
+			'Tasks': 'Tasks'
+		});
 		stringToElement($$('#list_navigation_view__new_pot_button .button-text'), 'NewProject');
 		stringToElement($('manage_members'), 'InviteManageMembers');
 		stringToElement($('edit_workspace_settings'), 'EditWorkspaceSettings');
@@ -73,6 +77,10 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($('user_menu_account_settings'), 'AccountSettings');
 		stringToElement($('user_menu_new_workspace'), 'NewWorkspace');
 		stringToElement($('user_menu_logout'), 'LogOut');
+		stringToElement($$('.workspace-link'), 'ViewProjectsTagsPeople');
+		stringToElement($$('#add_project_button .button-text'), 'LEFT_NewProject');
+		stringToElement($$('#add_person_button .button-text'), 'AddPerson');
+		replaceFromElement($$('#navigation_dock_header .title-text'), { 'Workspace Overview': 'WorkspaceOverview' });
 
 		// Left tabs under menu
 		stringToElement($$('.projects_tab'), 'PROJECTS');
@@ -151,7 +159,9 @@ var stringToElement = function(element, string, property){ // Quick function to 
 			'Unfollow this task to stop receiving emails about it.': 'TIP_UnfollowTask',
 			'Follow this task if you want to receive emails when other people comment on it.': 'TIP_FollowTask',
 			'The Activity Feed shows the history of this task.': 'TIP_ActivityFeedInfo',
-			'Remove Follower': 'TIP_RemoveFollower'
+			'Remove Follower': 'TIP_RemoveFollower',
+			'Recently Viewed': 'TIP_RecentlyViewed',
+			'Marked as Favorite': 'TIP_MarkedFavorite'
 		});
 
 		// Bottom buttons

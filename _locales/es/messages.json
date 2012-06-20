@@ -4,6 +4,8 @@
 	"__comment": { "message": "Left menu" },
 	"Search": { "message": "Buscar" },
 	"MyTasks": { "message": "Mis tareas" },
+	"My_Tasks": { "message": "" },
+	"Tasks": { "message": "Tareas" },
 	"PROJECTS": { "message": "PROJECTS" },
 	"TABS": { "message": "ETIQUETAS" },
 	"PEOPLE": { "message": "GENTE" },
@@ -16,6 +18,10 @@
 	"AccountSettings": { "message": "Preferencias de la cuenta" },
 	"NewWorkspace": { "message": "Nuevo Espacio de Trabajo" },
 	"LogOut": { "message": "Desconectar" },
+	"ViewProjectsTagsPeople": { "message": "Ver proyectos, tags y gente" },
+	"LEFT_NewProject": { "message": "Crear Proyecto" },
+	"AddPerson": { "message": "Añadir Gente" },
+	"WorkspaceOverview": { "message": "Espacios de Trabajo" },
 
 	"__comment": { "message": "Task info" },
 	"MarkComplete": { "message": "Completar Tarea" },
@@ -79,6 +85,8 @@
 	"TIP_FollowTask": { "message": "Sigue la tarea si quieres recibir emails cuando alguien comente en ella." },
 	"TIP_ActivityFeedInfo": { "message": "Aquí podrá ver el historial de la tarea." },
 	"TIP_RemoveFollower": { "message": "Quitar seguidor" },
+	"TIP_RecentlyViewed": { "message": "Visto Recientemente" },
+	"TIP_MarkedFavorite": { "message": "Marcado como Favorito" },
 
 	"__comment": { "message": "Bottom menu" },
 	"NewProject": { "message": "Nuevo Proyecto" },
