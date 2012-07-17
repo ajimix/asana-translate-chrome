@@ -13,7 +13,9 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		if(typeOf(property) === 'null'){ property = 'text'; } // By default we change text, but we can also change for example placeholders (for inputs)
 
 		if(instanceOf(element, Element) || (instanceOf(element, Elements) && element.length > 0)){ // We only update the text if we found the element
-			element.set(property, chrome.i18n.getMessage(string));
+			var newValue = chrome.i18n.getMessage(string);
+			if (newValue)  // If empty then no change
+				element.set(property, newValue);
 			return true;
 		}
 		return false;
@@ -35,7 +37,8 @@ var stringToElement = function(element, string, property){ // Quick function to 
 						newHtml = newHtml.replace(key, chrome.i18n.getMessage(item));
 					}
 				});
-				el.set('html', newHtml);
+				if (newHtml)  // If empty then no change
+					el.set('html', newHtml);
 			});
 			return true;
 		}
@@ -81,11 +84,17 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($$('#add_project_button .button-text'), 'LEFT_NewProject');
 		stringToElement($$('#add_person_button .button-text'), 'AddPerson');
 		replaceFromElement($$('#navigation_dock_header .title-text'), { 'Workspace Overview': 'WorkspaceOverview' });
+		stringToElement($$('#new_workspace'), 'LEFT_NewWorkspace');
+		//replaceFromElement($$('#navigation_dock_workspace'), { 'Inbox': 'Inbox' });  // Crashes ASANA
 
 		// Left tabs under menu
 		stringToElement($$('.projects_tab'), 'PROJECTS');
 		stringToElement($$('.tags_tab'), 'TAGS');
 		stringToElement($$('.people_tab'), 'PEOPLE');
+
+		// Left menu bottom
+		// replaceFromElement($$('#footer'), { 'Feedback': 'Feedback' });  // Crashes ASANA
+		stringToElement($$('#about_menu'), 'About');
 
 		// Task info
 		replaceFromElement($$('.complete-text'), { 'Mark Complete': 'MarkComplete', 'Mark Incomplete': 'MarkIncomplete', 'Completed': 'Completed' });
@@ -113,6 +122,13 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($$('.assigned_to .placeholder'), 'AssignToTeammate');
 		stringToElement($$('.comments .section-name'), 'ActivityFeed');
 		stringToElement($$('.comment-placeholder'), 'Comment');
+
+		stringToElement($$('#ical'), 'ICal');
+		stringToElement($$('#print'), 'Print');
+		stringToElement($$('#duplicate_project'), 'DuplicateProject');
+		stringToElement($$('#set_archived_pot'), 'ArchiveProject');
+		stringToElement($$('#delete_pot'), 'DeleteProject');
+		stringToElement($$('#details_property_sheet__new_comment_button .button-text'), 'BUTTON_Comment');
 
 		// Task activity
 		replaceFromElement($$('.comments .feed-story .comment-text'), {
