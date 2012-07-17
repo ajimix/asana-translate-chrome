@@ -128,6 +128,7 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($$('#duplicate_project'), 'DuplicateProject');
 		stringToElement($$('#set_archived_pot'), 'ArchiveProject');
 		stringToElement($$('#delete_pot'), 'DeleteProject');
+		stringToElement($$('#convert_pot'), 'ConvertProjectToTag');
 		stringToElement($$('#details_property_sheet__new_comment_button .button-text'), 'BUTTON_Comment');
 
 		// Task activity

@@ -9,7 +9,7 @@
 	"PROJECTS": { "message": "ПРОЕКТЫ" },
 	"TABS": { "message": "ЯРЛЫКИ" },
 	"PEOPLE": { "message": "ЛЮДИ" },
-	"InviteManageMembers": { "message": "Пригласить менеджера" },
+	"InviteManageMembers": { "message": "Редактировать список пользователей" },
 	"EditWorkspaceSettings": { "message": "Редактировать настройки рабочей области" },
 	"RemoveMeFromWorkspace": { "message": "Удалить меня из рабочей области" },
 	"UpgradeWorkspace": { "message": "Обновить рабочую область" },
@@ -54,6 +54,7 @@
 	"DuplicateProject": { "message": "Дублировать проект" },
 	"ArchiveProject": { "message": "Отправить проект в архив" },
 	"DeleteProject": { "message": "Удалить проект" },
+	"ConvertProjectToTag": { "message": "Конвертировать проект в ярлык" },
 	"BUTTON_Comment": { "message": "Комментировать" },
 
 	"__comment": { "message": "Task activity" },
