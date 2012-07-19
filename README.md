@@ -4,7 +4,7 @@ Asana Translate Chrome extension
 I asked ASANA team if they had planned to translate Asana into multiple languages.
 Response was: not in roadmap. So I decided to create my own chrome extension to translate it.
 
-Right now only supports Spanish. Want your own language? You can help! Read below :)
+Want your own language? You can help! Read below :)
 
 
 How to install extension
