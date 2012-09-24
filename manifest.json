@@ -3,7 +3,7 @@
 	"description": "Because we want ASANA in our language",
 	"version": "0.7",
 	"manifest_version": 2,
-	"default_locale": "es",
+	"default_locale": "en",
 	"permissions": [
 		"tabs",
 		"webRequest",
