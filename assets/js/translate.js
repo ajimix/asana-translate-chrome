@@ -3,7 +3,7 @@
 * Extension to translate ASANA.
 *
 * This script file is injected into ASANA and translate function it's called each time ASANA does an XMLHttpRequest translating string of the site
-* 
+*
 * Licensed under the Apache License 2.0
 *
 * Author: Ajimix [github.com/ajimix]
@@ -14,8 +14,9 @@ var stringToElement = function(element, string, property){ // Quick function to 
 
 		if(instanceOf(element, Element) || (instanceOf(element, Elements) && element.length > 0)){ // We only update the text if we found the element
 			var newValue = chrome.i18n.getMessage(string);
-			if (newValue)  // If empty then no change
+			if (newValue){ // If empty then no change
 				element.set(property, newValue);
+			}
 			return true;
 		}
 		return false;
@@ -37,8 +38,9 @@ var stringToElement = function(element, string, property){ // Quick function to 
 						newHtml = newHtml.replace(key, chrome.i18n.getMessage(item));
 					}
 				});
-				if (newHtml)  // If empty then no change
+				if (newHtml){ // If empty then no change
 					el.set('html', newHtml);
+				}
 			});
 			return true;
 		}
@@ -192,7 +194,7 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($('more_shortcuts_link'), 'More');
 
 		console.timeEnd("Asana translate:");
-		
+
 	};
 
 // This is the request that sends the background.js
