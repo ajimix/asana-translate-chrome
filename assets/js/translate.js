@@ -110,7 +110,7 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		if(!stringToElement($$('.tags.property-name'), 'Tags')){ // This is for assigned tags
 			stringToElement($$('.tags .property-name'), 'Tags'); // Unassigned ones
 		}
-		stringToElement($$('.attach_label'), 'AttachFile');
+		stringToElement($$('.attach-label'), 'AttachFile');
 		stringToElement($$('.followers_du .property-name'), 'Followers');
 		stringToElement($$('.followers_du .placeholder'), 'AddFollowers');
 		replaceFromElement($$('.follow-button .button-text'), {'Follow': 'Follow', 'Unfollow': 'Unfollow'});
