@@ -5,6 +5,7 @@
 	"Search": { "message": "Szukaj" },
 	"MyTasks": { "message": "Moje Zadania" },
 	"My_Tasks": { "message": "" },
+	"Inbox": { "message": "Skrzynka" },
 	"Tasks": { "message": "Zadania" },
 	"PROJECTS": { "message": "PROJEKTY" },
 	"TABS": { "message": "KARTY" },
@@ -75,6 +76,9 @@
 	"Date": { "message": "Data" },
 	"Project": { "message": "Projekt" },
 	"All": { "message": "Wszystko" },
+	"AddADescription": { "message": "Dodaj opis" },	
+	"Sort": { "message": "Sortuj" },	
+	"Filter": { "message": "Filtruj" },
 
 	"__comment": { "message": "Tips" },
 	"TIP_MarkedForUpcoming": { "message": "Zaznaczone jako Niedługo. Kliknij, aby zmienić." },
