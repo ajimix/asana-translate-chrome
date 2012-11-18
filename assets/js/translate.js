@@ -73,6 +73,7 @@ var stringToElement = function(element, string, property){ // Quick function to 
 			'My': 'My_Tasks',
 			'Tasks': 'Tasks'
 		});
+		stringToElement($$('.list-item.feed .list-item-caption'), 'Inbox');
 		stringToElement($$('#list_navigation_view__new_pot_button .button-text'), 'NewProject');
 		stringToElement($('manage_members'), 'InviteManageMembers');
 		stringToElement($('edit_workspace_settings'), 'EditWorkspaceSettings');
@@ -168,6 +169,15 @@ var stringToElement = function(element, string, property){ // Quick function to 
 		stringToElement($$('#group_by_due_date .button-text'), 'Date');
 		stringToElement($$('#group_by_project .button-text'), 'Project');
 		stringToElement($$('.filter-buttons > .toggle-button > .button-text'), 'All');
+		stringToElement($$('#project_notes .description-placeholder'), 'AddADescription');
+		stringToElement($$('.sort-button .new-button-text'), 'Sort');
+		stringToElement($$('.filter-button .new-button-text'), 'Filter');
+		replaceFromElement($('pot_groupby_menu_dropdown_menu'), {
+			'Priority': 'Priority',
+			'Assignee': 'Assignee',
+			'Project': 'Project',
+			'Date': 'Date'
+		});
 
 		// Tips info
 		replaceFromElement($$('.tooltip-body'), {

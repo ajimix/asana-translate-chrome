@@ -5,6 +5,7 @@
 	"Search": { "message": "Buscar" },
 	"MyTasks": { "message": "Mis tareas" },
 	"My_Tasks": { "message": "" },
+	"Inbox": { "message": "Bandeja de entrada" },
 	"Tasks": { "message": "Tareas" },
 	"PROJECTS": { "message": "PROJECTS" },
 	"TABS": { "message": "ETIQUETAS" },
@@ -75,6 +76,9 @@
 	"Date": { "message": "Fecha" },
 	"Project": { "message": "Proyecto" },
 	"All": { "message": "Todas" },
+	"AddADescription": { "message": "añade una descripción" },
+	"Sort": { "message": "Ordenar" },
+	"Filter": { "message": "Filtrar" },
 
 	"__comment": { "message": "Tips" },
 	"TIP_MarkedForUpcoming": { "message": "Marcada Próximamente. Click para cambiar." },
@@ -111,5 +115,5 @@
 	"Friday": { "message": "Viernes" },
 	"Saturday": { "message": "Sábado" },
 	"Sunday": { "message": "Domingo" }
-	
+
 }
