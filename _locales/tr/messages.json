@@ -1,6 +1,6 @@
 {
-  "__comment": { "message": "This strings are used for comments, refer to: http://stackoverflow.com/questions/244777/can-i-comment-a-json-file" },
-  "__comment": { "message": "Turkish Translation" },
+	"__comment": { "message": "This strings are used for comments, refer to: http://stackoverflow.com/questions/244777/can-i-comment-a-json-file" },
+	"__comment": { "message": "Turkish Translation" },
 
 	"__comment": { "message": "Left menu" },
 	"Search": { "message": "Ara" },
@@ -112,5 +112,5 @@
 	"Friday": { "message": "Cuma" },
 	"Saturday": { "message": "Cumartesi" },
 	"Sunday": { "message": "Pazar" }
-	
+
 }
