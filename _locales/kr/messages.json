@@ -1,7 +1,7 @@
-}                                      {
+{
 	"__comment": { "message": "This strings are used for comments, refer to: http://stackoverflow.com/questions/244777/can-i-comment-a-json-file" },
 
-	"__comment": { "message": "Left menu" },       
+	"__comment": { "message": "Left menu" },
 	"Search": { "message": "검색" },
 	"MyTasks": { "message": "나의 작업" },
 	"My_Tasks": { "message": "나의 작업" },
@@ -111,5 +111,5 @@
 	"Friday": { "message": "금요일" },
 	"Saturday": { "message": "토요일" },
 	"Sunday": { "message": "일요일" }
-	
+
 }
