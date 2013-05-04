@@ -8,10 +8,10 @@
 	"Tasks": { "message": "작업" },
 	"PROJECTS": { "message": "프로젝트" },
 	"TABS": { "message": "탭" },
-	"PEOPLE": { "message": "사람(들)" }, //user = 사용자(들)
+	"PEOPLE": { "message": "사람(들)" },
 	"InviteManageMembers": { "message": "관리자 초대" },
 	"EditWorkspaceSettings": { "message": "작업공간 설정 변경" },
-	"RemoveMeFromWorkspace": { "message": "작업공간에서 나가기" }, //literally means going out from the workspace or you can say 작업공간에서 제거
+	"RemoveMeFromWorkspace": { "message": "작업공간에서 나가기" },
 	"UpgradeWorkspace": { "message": "작업공간 업그레이드" },
 	"ShowArchivedProjects": { "message": "보관 프로젝트 표시" },
 	"HideArchivedProjects": { "message": "보관 프로젝트 숨기기" },
@@ -25,7 +25,7 @@
 
 	"__comment": { "message": "Task info" },
 	"MarkComplete": { "message": "완료 표시" },
-	"MarkIncomplete": { "message": "작업중 표시" }, //작업중 = still working
+	"MarkIncomplete": { "message": "작업중 표시" },
 	"Completed": { "message": "완료" },
 	"AddNotes": { "message": "노트 추가" },
 	"DueDate": { "message": "마감 기한" },
@@ -34,13 +34,13 @@
 	"Assignee": { "message": "지정자" },
 	"Projects": { "message": "프로젝트" },
 	"AddToProject": { "message": "프로젝트에 추가" },
-	"Followers": { "message": "팔로워" }, // Twitter diction in Korea: 팔로우 or (따라가기 = follow)
+	"Followers": { "message": "팔로워" },
 	"AddFollowers": { "message": " 팔로워 추가" },
 	"Follow": { "message": "팔로우" },
 	"Unfollow": { "message": "언팔로우" },
 	"DeleteTask": { "message": "작업 삭제" },
 	"MakePriorityHeading": { "message": "우선순위 헤더 만들기" },
-	"NewItem": { "message": "(새 아이템)" }, // if 'new work' then 새 작업
+	"NewItem": { "message": "(새 아이템)" },
 	"AssignToMe": { "message": "나에게 지정" },
 	"AssignToTeammate": { "message": "팀원에게 지정" },
 	"ActivityFeed": { "message": "활동 피드" },
@@ -57,7 +57,7 @@
 	"ACT_MarkedToday": { "message": "오늘로 표시" },
 	"ACT_UnmarkedToday": { "message": "오늘 아닌것으로 표시" },
 	"ACT_CreatedProject": { "message": "프로젝트 생성" },
-	"ACT_MovedFrom": { "message": "...에서 이동" }, // ...has to be the initial location. if not just 이동
+	"ACT_MovedFrom": { "message": "...에서 이동" },
 	"ACT_RemovedFrom": { "message": "...에서 해제" },
 
 	"__comment": { "message": "Project tasks" },
@@ -66,7 +66,7 @@
 	"ArchiveCompletedTasks": { "message": "완료된 작업 보관" },
 	"ShowArchivedTasks": { "message": "보관 작업 표시" },
 	"HideArchivedTasks": { "message": "보관 작업 숨기기" },
-	"New": { "message": "새" }, // or 새로운
+	"New": { "message": "새" },
 	"NewPriorityHeading": { "message": "새로운 우선 순위 헤더" },
 	"Share": { "message": "공유" }, "__comment": { "message": "이 이상이 되면 페이지가 제대로 보이지 않습니다..." },
 	"CollapseAll": { "message": "모두 축소" },
@@ -81,8 +81,8 @@
 	"TIP_MarkedForToday": { "message": "오늘로 표시 변경합니다." },
 	"TIP_CreateTasksAndHeadings": { "message": "작업과 헤더 생성" },
 	"TIP_HideCompletedTasks": { "message": "완료 작업 숨기기" },
-	"TIP_UnfollowTask": { "message": "작업 언팔로우, 메일 수신 거부."}, // Dejar de seguir la tarea para no recibir mas mensajes sobre ella." },
-	"TIP_FollowTask": { "message": "메세지를 받기 원하는 경우 작업 유지."}, // not sure if i translated it correctly. "Sigue la tarea si quieres recibir mensajes sobre la actividad de ella." },
+	"TIP_UnfollowTask": { "message": "작업 언팔로우, 메일 수신 거부."},
+	"TIP_FollowTask": { "message": "메세지를 받기 원하는 경우 작업 유지."},
 	"TIP_ActivityFeedInfo": { "message": "활동 피드를 볼 수 있습니다." },
 	"TIP_RemoveFollower": { "message": "팔로워 삭제" },
 	"TIP_RecentlyViewed": { "message": "최근 목록" },
@@ -111,5 +111,4 @@
 	"Friday": { "message": "금요일" },
 	"Saturday": { "message": "토요일" },
 	"Sunday": { "message": "일요일" }
-
 }
