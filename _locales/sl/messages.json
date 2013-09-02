@@ -1,0 +1,390 @@
+{
+    "PEOPLE": {
+        "message": "SODELAVCI",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Nov projekt",
+        "description": ""
+    },
+    "LATER": {
+        "message": "KASNEJE",
+        "description": ""
+    },
+    "Sunday": {
+        "message": "nedelja",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Delovna okolja",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Strni vse",
+        "description": ""
+    },
+    "Today": {
+        "message": "danes",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Skrij končane naloge",
+        "description": ""
+    },
+    "MyTasks": {
+        "message": "Moje naloge",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Pooblastite sebe",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Končano",
+        "description": ""
+    },
+    "Friday": {
+        "message": "petek",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Nov projekt",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Nastavitve računa",
+        "description": ""
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Naloga je nedokončana",
+        "description": ""
+    },
+    "Project": {
+        "message": "Projekt",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Skrij arhivirane projekte",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Novo delovno okolje",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Skrij podrobnosti",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Označi kot nedokončano",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Prenehaj slediti",
+        "description": ""
+    },
+    "Share": {
+        "message": "Deli",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "ACT_ChangedDueDate": {
+        "message": "je spremenil/a rok",
+        "description": "Someone changed due date"
+    },
+    "My_Tasks": {
+        "message": "Moje naloge",
+        "description": ""
+    },
+    "EditWorkspaceSettings": {
+        "message": "Uredite nastavitve delovnega okolja",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Nedavne dejavnosti",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "je prenehal/a delati na tej nalogi, ki naj bi bila končana danes.",
+        "description": "Someone unmarked the task from today"
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Nedavno ogledano",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "je dodal/a nalogo v",
+        "description": "Someone added the task to..."
+    },
+    "Priority": {
+        "message": "Prioriteta",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Sledilci",
+        "description": ""
+    },
+    "New": {
+        "message": "Novo",
+        "description": ""
+    },
+    "More": {
+        "message": "več ...",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Tukaj boste lahko dostopali do zgodovine naloge.",
+        "description": ""
+    },
+    "Upcoming": {
+        "message": "Kmalu",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Ustvarite naloge in naslove.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "že dela na tej nalogi. Končana bo danes.",
+        "description": "SOmeone marked the task for today"
+    },
+    "QuickAdd": {
+        "message": "Bližnjica",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Končaj nalogo",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Prenehajte slediti nalogi in ne boste več prejemali obvestil.",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Dodano med priljubljene.",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Rok",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Projekti",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "je objavil/a nalogo",
+        "description": "Someone created the task"
+    },
+    "ACT_CreatedProject": {
+        "message": "je ustvaril/a projekt",
+        "description": "Someone created the project"
+    },
+    "NewTask": {
+        "message": "Nova naloga",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "je bila prestavljena iz",
+        "description": "Someone moved the task from"
+    },
+    "ExpandAll": {
+        "message": "Razširi vse",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Naloge",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "torek",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "pomaknite navzdol",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Arhiv",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Dodaj nalogo",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Odjava",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "je zaključil/a nalogo",
+        "description": "Someone marked the task as complete"
+    },
+    "PROJECTS": {
+        "message": "PROJEKTI",
+        "description": "Note that exceding this size will make the interface brea."
+    },
+    "ACT_AddedAttachment": {
+        "message": "je pripel/a datoteko",
+        "description": "Someone added an attachment to the task"
+    },
+    "Monday": {
+        "message": "ponedeljek",
+        "description": ""
+    },
+    "Tags": {
+        "message": "Značke",
+        "description": ""
+    },
+    "ShowArchivedTasks": {
+        "message": "Pokaži arhivirane naloge",
+        "description": ""
+    },
+    "Date": {
+        "message": "datum",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Poglejte projekte, značke in sodelavce",
+        "description": ""
+    },
+    "NewItem": {
+        "message": "(nova vsebina)",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Komentar",
+        "description": ""
+    },
+    "Search": {
+        "message": "Iskanje",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Dodajte opis",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "sreda",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Sledite tej nalogi, če želite biti obveščeni o dejavnosti svojih sodelavcev.",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Dodajte sodelavca",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "Odstranite sledilca",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Skrij arhivirane naloge",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Ustvarite naslov",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Povabi in urejaj sodelavce",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Pokaži arhivirane projekte",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Pooblaščenec",
+        "description": ""
+    },
+    "Follow": {
+        "message": "Sledi",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Pooblasti sodelavca",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "jutri",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "je bila zaupana osebi",
+        "description": "Someone assigned the task to..."
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Arhiviraj zaključene naloge",
+        "description": ""
+    },
+    "TABS": {
+        "message": "ZNAČKE",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Pripnite datoteko",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Naloga bo dokončana KMALU. Kliknite za spremembo.",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "četrtek",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "je odstranil/a nalogo iz",
+        "description": "Someone removed the task from..."
+    },
+    "JumpDown": {
+        "message": "Skočite navzdol",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Odstrani me iz delovnega okolja",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "včeraj",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "dodajte sledilce",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Nadgradite delovno okolje",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Nov naslov",
+        "description": ""
+    },
+    "Later": {
+        "message": "Kasneje",
+        "description": ""
+    },
+    "All": {
+        "message": "Vse",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "dodajte projektu",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Naloga bo dokončana DANES, Kliknite za spremembo.",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Zbriši nalogo",
+        "description": ""
+    },
+    "Saturday": {
+        "message": "sobota",
+        "description": ""
+    }
+}
