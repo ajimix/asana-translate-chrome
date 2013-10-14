@@ -78,7 +78,7 @@
 	"ShowArchivedTasks": { "message": "Показать архивные задачи" },
 	"HideArchivedTasks": { "message": "Скрыть архивные задачи" },
 	"New": { "message": "Новая задача" },
-	"NewPriorityHeading": { "message": "Новый заголовок верхнего уровня" },
+	"NewPriorityHeading": { "message": "Новый заголовок" },
 	"Share": { "message": "Share" }, "__comment": { "message": "Не может быть длиннее, иначе нарушит верстку страницы ..." },
 	"CollapseAll": { "message": "Cвернуть все" },
 	"ExpandAll": { "message": "Развернуть все" },
@@ -86,6 +86,9 @@
 	"Date": { "message": "Дата" },
 	"Project": { "message": "Проект" },
 	"All": { "message": "Все" },
+	"AddADescription": { "message": "Добавить описание" },
+	"Sort": { "message": "Сортировка" },
+	"Filter": { "message": "Фильтр" },
 
 	"__comment": { "message": "Советы" },
 	"TIP_MarkedForUpcoming": { "message": "Помечено как в ближайшее время. Нажмите чтобы изменить." },
