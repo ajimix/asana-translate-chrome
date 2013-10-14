@@ -190,6 +190,7 @@ var stringToElement = function ( element, string, property ) {
 		stringToElement( $( 'new_menu_item_new_task' ), 'NewTask' );
 		stringToElement( $( 'new_menu_item_new_priority_heading' ), 'NewPriorityHeading' );
 		stringToElement( $$( '#project_share_button .button-text' ), 'Share' );
+		stringToElement( $$( '.share-dropdown-footer .header' ), 'ShareWithAnotherPerson' );
 		replaceFromElement( $$( '.collapse-expand-all .button-text' ), { 'Collapse All': 'CollapseAll', 'Expand All': 'ExpandAll' } );
 		stringToElement( $$( '#group_by_priority .button-text' ), 'Priority' );
 		stringToElement( $$( '#group_by_assignee .button-text' ), 'Assignee' );
