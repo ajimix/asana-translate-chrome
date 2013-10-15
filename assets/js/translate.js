@@ -89,12 +89,13 @@ var stringToElement = function ( element, string, property ) {
 			'Tasks': 'Tasks'
 		});
 		stringToElement( $$( '.list-item.feed .list-item-caption' ), 'Inbox' );
+		replaceFromElement( $$( '.recents-zipper .more-link' ), { 'Show Recents and more…': 'ShowRecents', 'Show less': 'ShowLess'} );
 		stringToElement( $$( '#list_navigation_view__new_pot_button .button-text' ), 'NewProject' );
 		stringToElement( $( 'manage_members' ), 'InviteManageMembers' );
 		stringToElement( $( 'edit_workspace_settings' ), 'EditWorkspaceSettings' );
 		stringToElement( $( 'remove_self' ), 'RemoveMeFromWorkspace' );
 		stringToElement( $( 'upgrade_workspace' ), 'UpgradeWorkspace' );
-		replaceFromElement( $( 'toggle_show_archived_projects' ), { 'Show Archived Projects': 'ShowArchivedProjects', 'Hide Archived Projects': 'HideArchivedProjects' } );
+		replaceFromElement( $$( '.team-projects .more-link' ), { 'More Projects': 'MoreProjects', 'Show Archived Projects': 'ShowArchivedProjects', 'Hide Archived Projects': 'HideArchivedProjects' } );
 		stringToElement( $( 'user_menu_account_settings' ), 'AccountSettings' );
 		stringToElement( $( 'user_menu_new_workspace' ), 'NewWorkspace' );
 		stringToElement( $( 'user_menu_logout' ), 'LogOut' );
@@ -107,18 +108,24 @@ var stringToElement = function ( element, string, property ) {
 
 		// Left tabs under menu
 		stringToElement( $$( '.projects_tab' ), 'PROJECTS' );
-		stringToElement( $$( '.tags_tab' ), 'TAGS' );
+		stringToElement( $$( '.new-project-text' ), 'PROJECTS' );
+		//stringToElement( $$( 'recents-zipper .more-link' ), 'ShowArchivedProjects' );
+		//stringToElement( $$( '.team-projects .more-link' ), 'ShowArchivedProjects' );		
+		//stringToElement( $$( '.tags_tab' ), 'TAGS' ); //seems like layout has been changed
+		replaceFromElement( $$( '#tags_browser' ), { 'Tags': 'TAGS' });
 		stringToElement( $$( '.people_tab' ), 'PEOPLE' );
 
 		// Left menu bottom
-		// replaceFromElement( $$( '#footer' ), { 'Feedback': 'Feedback' });  // Crashes ASANA
+		//replaceFromElement( $$( '#footer' ), { 'Feedback': 'Feedback' });  // Crashes ASANA// upd_by_hellt: direct access via class .feedback-link doesnt crash
+		stringToElement( $$( '.feedback-link' ), 'Feedback' );
+		stringToElement( $$( '.help-menu-label' ), 'Help' );
 		stringToElement( $$( '#about_menu' ), 'About' );
 
 		// Task info
 		replaceFromElement( $$( '.complete-text' ), { 'Mark Complete': 'MarkComplete', 'Mark Incomplete': 'MarkIncomplete', 'Completed': 'Completed' } );
 		stringToElement( $$( '.description .placeholder-content' ), 'AddNotes' );
 		stringToElement( $$( '.assigned_to .property-name' ), 'Assignee' );
-		stringToElement( $$( '.projects .property-name' ), 'Projects' );
+		//stringToElement( $$( '.projects .property-name' ), 'Projects' ); //if enabled: displays text instead of picture left from projects names
 		stringToElement( $$( '.projects .placeholder' ), 'AddToProject' );
 		if( !stringToElement( $$( '.due_date.property-name' ), 'DueDate' ) ) { // This is for assigned due dates
 			stringToElement( $$( '.due_date .property-name' ), 'DueDate' ); // Unassigned ones
@@ -137,6 +144,8 @@ var stringToElement = function ( element, string, property ) {
 		stringToElement( $( 'make_priority_heading' ), 'MakePriorityHeading' );
 		stringToElement( $$( '.details-pane-title .header-name' )[2], 'NewItem', 'placeholder' );
 		stringToElement( $$( '.assign-to-me-button .button-text' ), 'AssignToMe' );
+		stringToElement( $$( '.assignee-field-name' ), 'Assignee' );
+		stringToElement( $( 'assignee_popup_typeahead_input' ), 'NameOrEmail', 'placeholder' );
 		stringToElement( $$( '.assigned_to .placeholder' ), 'AssignToTeammate' );
 		stringToElement( $$( '.comments .section-name' ), 'ActivityFeed' );
 		stringToElement( $$( '.comment-placeholder' ), 'Comment' );
@@ -144,10 +153,13 @@ var stringToElement = function ( element, string, property ) {
 		stringToElement( $$( '#ical' ), 'ICal' );
 		stringToElement( $$( '#print' ), 'Print' );
 		stringToElement( $$( '#duplicate_project' ), 'DuplicateProject' );
+		stringToElement( $$( '#task_creation_email .dropdown-menu-item-label' ), 'AddTasksByEmail' );
 		stringToElement( $$( '#set_archived_pot' ), 'ArchiveProject' );
 		stringToElement( $$( '#delete_pot' ), 'DeleteProject' );
 		stringToElement( $$( '#convert_pot' ), 'ConvertProjectToTag' );
 		stringToElement( $$( '#details_property_sheet__new_comment_button .button-text' ), 'BUTTON_Comment' );
+		
+		stringToElement( $$( '.nothing-selected-text' ), 'NothingSelected' ); // en: Select a task to view its details. Displays in right pane when no task is selected
 
 		// Task activity
 		replaceFromElement( $$( '.comments .feed-story .comment-text' ), {
@@ -162,8 +174,14 @@ var stringToElement = function ( element, string, property ) {
 			'marked today': 'ACT_MarkedToday',
 			'created project': 'ACT_CreatedProject',
 			'removed from': 'ACT_RemovedFrom',
-			'moved from': 'ACT_MovedFrom'
+			'moved from': 'ACT_MovedFrom',
+			'removed the due date.': 'ACT_RemovedDueDate',
+			'added subtask to task': 'ACT_AddedSubtask'
+			//'attached': 'ACT_Attached' //cant figure out how to make "attached" this translatable.
+			//'changed the description.': 'ACT_ChangedDescription', //cant figure out how to make this translatable.
 		});
+		replaceFromElement( $$( '.comment-content' ), { ' completed this task': 'ACT_MarkedComplete' } );
+		
 
 		// Project tasks
 		// replaceFromElement( $$( '.upcoming_group .group_header' ), { 'Upcoming': 'Upcoming' }); // Crashes ASANA
@@ -171,13 +189,15 @@ var stringToElement = function ( element, string, property ) {
 		stringToElement( $$( '.all-my-tasks-bar .label' ), 'LATER' );
 		replaceFromElement( $$( '.grid_due_date' ), days );
 		stringToElement( $$( '.grid_pseudorow_no_prioritized .grid_cell_string' ), 'AddTask' );
-		stringToElement( $$( '#archive_menu .button-text' ), 'Archive' );
+		stringToElement( $$( '#archive_menu .new-button-text' ), 'Archive' );
 		stringToElement( $( 'archive_menu_item' ), 'ArchiveCompletedTasks' );
 		replaceFromElement( $( 'toggle_archived_menu_item' ), { 'Show archived tasks': 'ShowArchivedTasks', 'Hide archived tasks': 'HideArchivedTasks' } );
-		stringToElement( $$( '#new_menu .button-text' ), 'New' );
+		stringToElement( $$( '#new_menu .new-button-text' ), 'New' );
 		stringToElement( $( 'new_menu_item_new_task' ), 'NewTask' );
 		stringToElement( $( 'new_menu_item_new_priority_heading' ), 'NewPriorityHeading' );
 		stringToElement( $$( '#project_share_button .button-text' ), 'Share' );
+		stringToElement( $$( '.share-dropdown-members .header' ), 'MEMBERS' );
+		stringToElement( $$( '.share-dropdown-footer .header' ), 'ShareWithAnotherPerson' );
 		replaceFromElement( $$( '.collapse-expand-all .button-text' ), { 'Collapse All': 'CollapseAll', 'Expand All': 'ExpandAll' } );
 		stringToElement( $$( '#group_by_priority .button-text' ), 'Priority' );
 		stringToElement( $$( '#group_by_assignee .button-text' ), 'Assignee' );
@@ -193,6 +213,8 @@ var stringToElement = function ( element, string, property ) {
 			'Project': 'Project',
 			'Date': 'Date'
 		} );
+		
+		
 
 		// Tips info
 		replaceFromElement( $$( '.tooltip-body' ), {
