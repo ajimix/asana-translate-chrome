@@ -23,6 +23,9 @@
 	"LEFT_NewProject": { "message": "Crear Proyecto" },
 	"AddPerson": { "message": "Añadir Gente" },
 	"WorkspaceOverview": { "message": "Espacios de Trabajo" },
+	"ShowRecents": { "message": "Mostrar recientes..." },
+	"ShowLess": { "message": "Mostrar menos" },
+	"MoreProjects": { "message": "Más proyectos" },
 
 	"__comment": { "message": "Task info" },
 	"MarkComplete": { "message": "Completar Tarea" },
@@ -69,7 +72,7 @@
 	"HideArchivedTasks": { "message": "Ocultar tareas archivadas" },
 	"New": { "message": "Nuevo" },
 	"NewPriorityHeading": { "message": "Nueva Cabecera de Prioridad" },
-	"Share": { "message": "Share" }, "__comment": { "message": "Cannot be longer than this or will break the page..." },
+	"Share": { "message": "Compartir" },
 	"CollapseAll": { "message": "Colapsar Todo" },
 	"ExpandAll": { "message": "Expander Todo" },
 	"Priority": { "message": "Prioridad" },
