@@ -90,7 +90,7 @@
 	"HideArchivedTasks": { "message": "Скрыть архивные задачи" },
 	"New": { "message": "Новая задача" },
 	"NewPriorityHeading": { "message": "Новый заголовок" },
-	"Share": { "message": "Добавить" },
+	"Share": { "message": "Добав." }, "__comment": { "message": "Добавить перевод длиннее нельзя, т.к. ломается верстка (появляется лишний перенос строки)" },
 	"MEMBERS": { "message": "УЧАСТНИКИ" },
 	"ShareWithAnotherPerson": { "message": "Добавить в проект участника" },
 	"CollapseAll": { "message": "Cвернуть все" },
