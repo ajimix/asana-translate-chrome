@@ -61,7 +61,7 @@ Author
 Copyright and license
 ---------------------
 
-Copyright 2012 Ajimix
+Copyright 2013 Ajimix
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.
