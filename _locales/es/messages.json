@@ -49,6 +49,9 @@
 	"AssignToTeammate": { "message": "asignar a un compañero" },
 	"ActivityFeed": { "message": "Actividad" },
 	"Comment": { "message": "Comentar" },
+	"NameOrEmail": { "message": "Nombre o email" },
+	"AddTasksByEmail": { "message": "Añadir tareas por email" },
+	"NothingSelected": { "message": "Selecciona una tarea para ver los detalles." },
 
 	"__comment": { "message": "Task activity" },
 	"ACT_CreatedTask": { "message": "creó la tarea" },
@@ -63,6 +66,11 @@
 	"ACT_CreatedProject": { "message": "creó el proyecto" },
 	"ACT_MovedFrom": { "message": "la movió de" },
 	"ACT_RemovedFrom": { "message": "la eliminó de" },
+	"ACT_RemovedDueDate": { "message": "eliminó la fecha de finalización." },
+	"ACT_AddedSubtask": { "message": "añadió una subtarea a la tarea" },
+	"ACT_Attached": { "message": "adjuntó" },
+	"ACT_AddedDescription": { "message": "añadió la descripción." },
+	"ACT_ChangedDescription": { "message": "cambió la descripción." },
 
 	"__comment": { "message": "Project tasks" },
 	"AddTask": { "message": "Añadir una tarea" },
@@ -72,7 +80,7 @@
 	"HideArchivedTasks": { "message": "Ocultar tareas archivadas" },
 	"New": { "message": "Nuevo" },
 	"NewPriorityHeading": { "message": "Nueva Cabecera de Prioridad" },
-	"Share": { "message": "Compartir" },
+	"Share": { "message": "Share" }, "__comment": { "message": "Cannot be longer than this or will break the page..." },
 	"CollapseAll": { "message": "Colapsar Todo" },
 	"ExpandAll": { "message": "Expander Todo" },
 	"Priority": { "message": "Prioridad" },
@@ -82,6 +90,8 @@
 	"AddADescription": { "message": "añade una descripción" },
 	"Sort": { "message": "Ordenar" },
 	"Filter": { "message": "Filtrar" },
+	"MEMBERS": { "message": "PERSONAS" },
+	"ShareWithAnotherPerson": { "message": "Compartir con otra persona" },
 
 	"__comment": { "message": "Tips" },
 	"TIP_MarkedForUpcoming": { "message": "Marcada Próximamente. Click para cambiar." },
@@ -103,6 +113,8 @@
 	"CloseDetails": { "message": "Cerrar Detalles" },
 	"QuickAdd": { "message": "Tarea Rápida" },
 	"More": { "message": "mas..." },
+	"Help": { "message": "Ayuda" },
+	"Feedback": { "message": "Feedback" },
 
 	"__comment": { "message": "Days and dates" },
 	"Today": { "message": "Hoy" },

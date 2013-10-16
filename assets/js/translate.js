@@ -1,5 +1,4 @@
 /**
- *
  * Extension to translate ASANA.
  *
  * This script file is injected into ASANA and translate function it's called each time ASANA does an XMLHttpRequest translating string of the site
@@ -7,7 +6,6 @@
  * Licensed under the Apache License 2.0
  *
  * Author: Ajimix [github.com/ajimix]
- *
  */
 
 ( function ( doc, _UNDEFINED_ ) {
@@ -77,7 +75,7 @@ var stringToElement = function ( element, string, property ) {
 			'Sunday': 'Sunday'
 		};
 
-		console.time( "Asana translate:" );
+		console.time( 'Asana translate:' );
 
 		// Try to not refer direct > child as Asana could change element structure
 
@@ -109,14 +107,10 @@ var stringToElement = function ( element, string, property ) {
 		// Left tabs under menu
 		stringToElement( $$( '.projects_tab' ), 'PROJECTS' );
 		stringToElement( $$( '.new-project-text' ), 'PROJECTS' );
-		//stringToElement( $$( 'recents-zipper .more-link' ), 'ShowArchivedProjects' );
-		//stringToElement( $$( '.team-projects .more-link' ), 'ShowArchivedProjects' );		
-		//stringToElement( $$( '.tags_tab' ), 'TAGS' ); //seems like layout has been changed
-		replaceFromElement( $$( '#tags_browser' ), { 'Tags': 'TAGS' });
+		replaceFromElement( $( 'tags_browser' ), { 'Tags': 'TAGS' });
 		stringToElement( $$( '.people_tab' ), 'PEOPLE' );
 
 		// Left menu bottom
-		//replaceFromElement( $$( '#footer' ), { 'Feedback': 'Feedback' });  // Crashes ASANA// upd_by_hellt: direct access via class .feedback-link doesnt crash
 		stringToElement( $$( '.feedback-link' ), 'Feedback' );
 		stringToElement( $$( '.help-menu-label' ), 'Help' );
 		stringToElement( $$( '#about_menu' ), 'About' );
@@ -125,7 +119,6 @@ var stringToElement = function ( element, string, property ) {
 		replaceFromElement( $$( '.complete-text' ), { 'Mark Complete': 'MarkComplete', 'Mark Incomplete': 'MarkIncomplete', 'Completed': 'Completed' } );
 		stringToElement( $$( '.description .placeholder-content' ), 'AddNotes' );
 		stringToElement( $$( '.assigned_to .property-name' ), 'Assignee' );
-		//stringToElement( $$( '.projects .property-name' ), 'Projects' ); //if enabled: displays text instead of picture left from projects names
 		stringToElement( $$( '.projects .placeholder' ), 'AddToProject' );
 		if( !stringToElement( $$( '.due_date.property-name' ), 'DueDate' ) ) { // This is for assigned due dates
 			stringToElement( $$( '.due_date .property-name' ), 'DueDate' ); // Unassigned ones
@@ -140,7 +133,7 @@ var stringToElement = function ( element, string, property ) {
 		stringToElement( $$( '.status-toggle-group .status-text' )[0], 'Today' );
 		stringToElement( $$( '.status-toggle-group .status-text' )[1], 'Upcoming' );
 		stringToElement( $$( '.status-toggle-group .status-text' )[2], 'Later' );
-		stringToElement( $( 'delete_items' ), 'DeleteTask' );
+		stringToElement( $$( '#delete_items .dropdown-menu-item-label' )[0], 'DeleteTask' );
 		stringToElement( $( 'make_priority_heading' ), 'MakePriorityHeading' );
 		stringToElement( $$( '.details-pane-title .header-name' )[2], 'NewItem', 'placeholder' );
 		stringToElement( $$( '.assign-to-me-button .button-text' ), 'AssignToMe' );
@@ -158,7 +151,7 @@ var stringToElement = function ( element, string, property ) {
 		stringToElement( $$( '#delete_pot' ), 'DeleteProject' );
 		stringToElement( $$( '#convert_pot' ), 'ConvertProjectToTag' );
 		stringToElement( $$( '#details_property_sheet__new_comment_button .button-text' ), 'BUTTON_Comment' );
-		
+
 		stringToElement( $$( '.nothing-selected-text' ), 'NothingSelected' ); // en: Select a task to view its details. Displays in right pane when no task is selected
 
 		// Task activity
@@ -177,11 +170,12 @@ var stringToElement = function ( element, string, property ) {
 			'moved from': 'ACT_MovedFrom',
 			'removed the due date.': 'ACT_RemovedDueDate',
 			'added subtask to task': 'ACT_AddedSubtask'
-			//'attached': 'ACT_Attached' //cant figure out how to make "attached" this translatable.
-			//'changed the description.': 'ACT_ChangedDescription', //cant figure out how to make this translatable.
-		});
+			// Those 3 are being refreshed by asana and seems not possible to be translated.
+			// 'attached': 'ACT_Attached',
+			// 'added the description.': 'ACT_AddedDescription',
+			// 'changed the description.': 'ACT_ChangedDescription'
+		} );
 		replaceFromElement( $$( '.comment-content' ), { ' completed this task': 'ACT_MarkedComplete' } );
-		
 
 		// Project tasks
 		// replaceFromElement( $$( '.upcoming_group .group_header' ), { 'Upcoming': 'Upcoming' }); // Crashes ASANA
@@ -213,8 +207,6 @@ var stringToElement = function ( element, string, property ) {
 			'Project': 'Project',
 			'Date': 'Date'
 		} );
-		
-		
 
 		// Tips info
 		replaceFromElement( $$( '.tooltip-body' ), {
@@ -240,7 +232,7 @@ var stringToElement = function ( element, string, property ) {
 		stringToElement( $$( '#quick_add_button .key-action' ), 'QuickAdd' );
 		stringToElement( $( 'more_shortcuts_link' ), 'More' );
 
-		console.timeEnd( "Asana translate:" );
+		console.timeEnd( 'Asana translate:' );
 
 	};
 
