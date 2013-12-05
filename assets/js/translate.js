@@ -175,7 +175,7 @@ var stringToElement = function ( element, string, property ) {
 			// 'added the description.': 'ACT_AddedDescription',
 			// 'changed the description.': 'ACT_ChangedDescription'
 		} );
-		replaceFromElement( $$( '.comment-content' ), { ' completed this task': 'ACT_MarkedComplete' } );
+		// replaceFromElement( $$( '.comment-content' ), { ' completed this task': 'ACT_MarkedComplete' } ); // Removed as it causes conflict with the show more button in the comments.
 
 		// Project tasks
 		// replaceFromElement( $$( '.upcoming_group .group_header' ), { 'Upcoming': 'Upcoming' }); // Crashes ASANA
@@ -187,26 +187,22 @@ var stringToElement = function ( element, string, property ) {
 		stringToElement( $( 'archive_menu_item' ), 'ArchiveCompletedTasks' );
 		replaceFromElement( $( 'toggle_archived_menu_item' ), { 'Show archived tasks': 'ShowArchivedTasks', 'Hide archived tasks': 'HideArchivedTasks' } );
 		stringToElement( $$( '#new_menu .new-button-text' ), 'New' );
-		stringToElement( $( 'new_menu_item_new_task' ), 'NewTask' );
+		stringToElement( $$( '#new_menu_item_new_task .dropdown-menu-item-label' ), 'NewTask' );
+		stringToElement( $$( '#new_menu_item_new_section .dropdown-menu-item-label' ), 'NewSection' );
 		stringToElement( $( 'new_menu_item_new_priority_heading' ), 'NewPriorityHeading' );
 		stringToElement( $$( '#project_share_button .button-text' ), 'Share' );
 		stringToElement( $$( '.share-dropdown-members .header' ), 'MEMBERS' );
 		stringToElement( $$( '.share-dropdown-footer .header' ), 'ShareWithAnotherPerson' );
 		replaceFromElement( $$( '.collapse-expand-all .button-text' ), { 'Collapse All': 'CollapseAll', 'Expand All': 'ExpandAll' } );
-		stringToElement( $$( '#group_by_priority .button-text' ), 'Priority' );
-		stringToElement( $$( '#group_by_assignee .button-text' ), 'Assignee' );
-		stringToElement( $$( '#group_by_due_date .button-text' ), 'Date' );
-		stringToElement( $$( '#group_by_project .button-text' ), 'Project' );
+		stringToElement( $$( '#group_by_priority .dropdown-menu-item-label' ), 'Priority' );
+		stringToElement( $$( '#group_by_assignee .dropdown-menu-item-label' ), 'Assignee' );
+		stringToElement( $$( '#group_by_due_date .dropdown-menu-item-label' ), 'Date' );
+		stringToElement( $$( '#group_by_project .dropdown-menu-item-label' ), 'Project' );
+		stringToElement( $$( '#group_by_heart .dropdown-menu-item-label' ), 'Hearts' );
 		stringToElement( $$( '.filter-buttons > .toggle-button > .button-text' ), 'All' );
 		stringToElement( $$( '#project_notes .description-placeholder' ), 'AddADescription' );
 		stringToElement( $$( '.sort-button .new-button-text' ), 'Sort' );
 		stringToElement( $$( '.filter-button .new-button-text' ), 'Filter' );
-		replaceFromElement( $( 'pot_groupby_menu_dropdown_menu' ), {
-			'Priority': 'Priority',
-			'Assignee': 'Assignee',
-			'Project': 'Project',
-			'Date': 'Date'
-		} );
 
 		// Tips info
 		replaceFromElement( $$( '.tooltip-body' ), {
