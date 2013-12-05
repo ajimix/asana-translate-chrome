@@ -1,0 +1,390 @@
+{
+    "Follow": {
+        "message": "Követés",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Nemrég megnézett",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Kész feladatok elrejtése",
+        "description": ""
+    },
+    "All": {
+        "message": "Mind",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Elsőbbségi",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Új Projekt",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "mégsem ma",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Archivált Feladatok megtekintése",
+        "description": ""
+    },
+    "Date": {
+        "message": "Dátum",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Jegyzet hozzáadása",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Kijelentkezés",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Mind elrejtése",
+        "description": ""
+    },
+    "LATER": {
+        "message": "KÉSŐBB",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Határidő",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Projektek",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Nem követem",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Elsőbbségi főcímnek jelöl",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Csatolmány hozzáadása",
+        "description": ""
+    },
+    "More": {
+        "message": "több...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Új elsőbbségi főcím",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Tegnap",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Kedvencnek jelölve",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Komment",
+        "description": ""
+    },
+    "Search": {
+        "message": "Keresés",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Archivál",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Társ felelőssé tétele",
+        "description": ""
+    },
+    "New": {
+        "message": "Új",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Minden megnyitása",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "követők hozzáadása",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Kövesd a feladatot, ha értesítést szeretnél kapni az aktivitásról",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "mára tervezve",
+        "description": "SOmeone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "határidő megváltoztatva",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Szombat",
+        "description": ""
+    },
+    "Later": {
+        "message": "Később",
+        "description": ""
+    },
+    "Tags": {
+        "message": "Tag-ek",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Szüntesd meg a követést, ha nem akarsz értesítést kapni.",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Feladat hozzásadása",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Én csinálom",
+        "description": ""
+    },
+    "Today": {
+        "message": "Ma",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "készre jelölve",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Vasárnap",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "eltávolítva",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Később",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Csütörtök",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Fiók beállítások",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Felelős",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Feladatok",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Múltbeli feladatok",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Munkaállomások",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Elvégzett feladatok archiválása",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "feladat elkészítve",
+        "description": "Someone created the task"
+    },
+    "TIP_RemoveFollower": {
+        "message": "Követő eltávolítása",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Készként jelöl",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Munkaállomás fejlesztése",
+        "description": ""
+    },
+    "EditWorkspaceSettings": {
+        "message": "Munkaállomás beállításainak módosítása",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Ugrás Le",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Új Projekt",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Követők",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Feladat törlése",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Még nincs kész",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Projektek, Személyek, Tag-ek megmutatása",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Új Feladat",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Archivált feladatok elrejtése",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "hozzáadva",
+        "description": "Someone added the task to..."
+    },
+    "PEOPLE": {
+        "message": "EMBEREK",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Személy hozzáadása",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Péntek",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Feladatok és főcímek készítése",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Később-nek jelölve. Klikk a változtatásért.",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "projekthez hozzáad",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Saját magam eltávolítása a Munkaállomásról",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Holnap",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Társak meghívása és kezelése",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Hétfő",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Aktivitásfolyam",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Archivált projektek elrejtése",
+        "description": ""
+    },
+    "MyTasks": {
+        "message": "Feladataim",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Kész",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Archivált Projektek mutatása",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Szerda",
+        "description": ""
+    },
+    "Share": {
+        "message": "Megosztás",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "ACT_AssignedTo": {
+        "message": "felelőssé tette",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "csatolmány hozzáadva",
+        "description": "Someone added an attachment to the task"
+    },
+    "TIP_MarkedForToday": {
+        "message": "Mára tervezve. Klikk a változtatásért.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "TAG-ek",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "projekt létrehozva",
+        "description": "Someone created the project"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Jelölve: Még nincs kész",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Részletek bezárása",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Kedd",
+        "description": ""
+    },
+    "Project": {
+        "message": "Projekt",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "átrakva",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(új tétel)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Gyors hozzáadás",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Új Munkaállomás",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Feladataim",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Mozgatás lefelé",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROJEKTEK",
+        "description": "Note that exceding this size will make the interface brea."
+    }
+}
