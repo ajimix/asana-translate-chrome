@@ -1,0 +1,458 @@
+{
+    "Follow": {
+        "message": "ติดตาม",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "ดูล่าสุด",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "ซ่อนงานที่เสร็จแล้ว",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "สมาชิก",
+        "description": ""
+    },
+    "All": {
+        "message": "ทั้งหมด",
+        "description": ""
+    },
+    "Priority": {
+        "message": "ความสำคัญ",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "สร้างโครงการใหม่",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "นำออกจากวันนี้แล้ว",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "แสดงงานที่เก็บไว้",
+        "description": ""
+    },
+    "Date": {
+        "message": "วันที่",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "เพิ่มโน้ต",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "ออกจากระบบ",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "ซ่อนทั้งหมด",
+        "description": ""
+    },
+    "LATER": {
+        "message": "ทีหลัง",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "วันครบกำหนด",
+        "description": ""
+    },
+    "Projects": {
+        "message": "โครงการ",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "เลิกติดตาม",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "ชื่อหรืออีเมล",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Make Priority Heading",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "แนบไฟล์",
+        "description": ""
+    },
+    "More": {
+        "message": "เพิ่มเติม",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "New Priority Heading",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "เมื่อวาน",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "ทำเครื่องหมายว่าชื่นชอบ",
+        "description": ""
+    },
+    "Comment": {
+        "message": "ความคิดเห็น",
+        "description": ""
+    },
+    "Search": {
+        "message": "ค้นหา",
+        "description": ""
+    },
+    "Archive": {
+        "message": "เก็บไว้",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "มอบหมายให้เพื่อนร่วมงาน",
+        "description": ""
+    },
+    "New": {
+        "message": "สร้างใหม่",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "แสดงทั้งหมด",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "เพิ่มผู้ติดตาม",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "ติดตามงานเพื่อรับการแจ้งเตือน",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "ทำเครื่องหมายว่าเป็นวันนี้",
+        "description": "SOmeone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "เปลี่ยนวันครบกำหนดแล้ว",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "วันเสาร์",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "โครงการอื่นๆ",
+        "description": ""
+    },
+    "Later": {
+        "message": "ทีหลัง",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "ได้เปลี่ยนแปลงรายละเอียด",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "ป้ายกำกับ",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "เลิกติดตามงานนี้เพื่กยกเลิกการแจ้งเตือน",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "เพิ่มงาน",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "มอบหมายให้ฉัน",
+        "description": ""
+    },
+    "Today": {
+        "message": "วันนี้",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "ได้ทำเครื่องหมายว่าเสร็จแล้ว",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "วันอาทิตย์",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "ได้ลบจาก",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "เร็วๆ นี้",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "วันพฤหัสบดี",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "ตั้งค่าบัญชี",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "ผู้มอบหมาย",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "งาน",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "คุณสามารถดูประวัติของงานได้ที่นี่",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "พื้นที่ทำงาน",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "เก็บงานที่เสร็จแล้ว",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "งานได้ถูกสร้าง",
+        "description": "Someone created the task"
+    },
+    "TIP_RemoveFollower": {
+        "message": "ลบผู้ติดตาม",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "ซ่อน",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "ทำเครื่องหมายว่าเสร็จแล้ว",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "ไม่ได้เลือก",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "ปรับปรุงพื้นที่ทำงาน",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "แสดงล่าสุด..",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "แก้ไขการตั้งค่าพื้นที่ทำงาน",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "เลื่อนลง",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "สร้างโครงการใหม่",
+        "description": ""
+    },
+    "Followers": {
+        "message": "ผู้ติดตาม",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "ลบงาน",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "แบ่งปันกับผู้อื่น",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "ทำเครื่องหมายว่ายังไม่เสร็จ",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "สร้างหมวดใหม่",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "ดูโครงการ ป้ายกำกับ และผู้คน",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "สร้างงานใหม่",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "ซ่อนงานที่เก็บไว้",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "เพิ่มไปยัง",
+        "description": "Someone added the task to..."
+    },
+    "PEOPLE": {
+        "message": "คน",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "เพิ่มคน",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "ถูกใจ",
+        "description": ""
+    },
+    "Friday": {
+        "message": "วันศุกร์",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "สร้างงานและหัวข้อ",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "เพิ่มงานย่อย",
+        "description": "Someone added a subtask to the task..."
+    },
+    "AddTasksByEmail": {
+        "message": "เพิ่มงานจากอีเมล",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "ได้เลือกเป็น \"เร็วๆ นี้\", คลิกเพื่อเปลี่ยน",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "เพิ่มไปยังโครงการ",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "ออกจากพื้นที่ทำงาน",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "พรุ่งนี้",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "เชิญและจัดการสมาชิก",
+        "description": ""
+    },
+    "Monday": {
+        "message": "วันจันทร์",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "แสดงกิจกรรม",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "โครงการที่เก็บไว้",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "ได้แนบ",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "งานของฉัน",
+        "description": ""
+    },
+    "Completed": {
+        "message": "เสร็จ",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "แสดงโครงการที่เก็บไว้",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "วันพุทธ",
+        "description": ""
+    },
+    "Share": {
+        "message": "แบ่งปัน",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "ช่วยเหลือ",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "ได้มอบหมายงานให้",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "ได้เพิ่มไฟล์แนบ",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "ได้เพิ่มรายละเอียด",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "ข้อเสนอแนะ",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "ได้เลือกเป็น \"วันนี้\", คลิกเพื่อนเปลี่ยน",
+        "description": ""
+    },
+    "TABS": {
+        "message": "ป้ายกำกับ",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "ได้สร้างโครงการ",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "ลบวันครบกำหนด",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "ถูกทำเครื่องหมายว่ายังไม่เสร็จ",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "ซ่อนรายละเอียด",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "วันอังคาร",
+        "description": ""
+    },
+    "Project": {
+        "message": "โครงการ",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "ได้ย้ายมาจาก",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(ใหม่)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "เพิ่ม",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "สร้างพื้นที่ทำงานใหม่",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "งานของฉัน",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "เลื่อนลง",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "โครงการ",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
