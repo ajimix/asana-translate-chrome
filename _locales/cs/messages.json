@@ -1,119 +1,458 @@
 {
-	"__comment": { "message": "This strings are used for comments, refer to: http://stackoverflow.com/questions/244777/can-i-comment-a-json-file" },
-
-	"__comment": { "message": "Levé menu" },
-	"Search": { "message": "Hledat" },
-	"MyTasks": { "message": "Mé úkoly" },
-	"My_Tasks": { "message": "" },
-	"Inbox": { "message": "Přijaté zprávy" },
-	"Tasks": { "message": "Úkoly" },
-	"PROJECTS": { "message": "PROJEKTY" },
-	"TABS": { "message": "ZÁLOŽKY" },
-	"PEOPLE": { "message": "LIDÉ" },
-	"InviteManageMembers": { "message": "Pozvat a spravovat spolupracovníky" },
-	"EditWorkspaceSettings": { "message": "Upravit nastavení pracovní plochy" },
-	"RemoveMeFromWorkspace": { "message": "Odebrat mě z této pracovní plochy" },
-	"UpgradeWorkspace": { "message": "Vylepšit pracovní plochu" },
-	"ShowArchivedProjects": { "message": "Zobrazit archivované projekty" },
-	"HideArchivedProjects": { "message": "Skrýt archivované projekty" },
-	"AccountSettings": { "message": "Nastavení účtu" },
-	"NewWorkspace": { "message": "Nová pracovní plocha" },
-	"LogOut": { "message": "Odhlásit se" },
-	"ViewProjectsTagsPeople": { "message": "Zobrazit projekty, tagy a spolupracovníky" },
-	"LEFT_NewProject": { "message": "Vytvořit projekt" },
-	"AddPerson": { "message": "Přidat spolupracovníka" },
-	"WorkspaceOverview": { "message": "Přehled pracovní plochy" },
-
-	"__comment": { "message": "Informace o úkolu" },
-	"MarkComplete": { "message": "Označit jako splněný" },
-	"MarkIncomplete": { "message": "Označit jako nehotový" },
-	"Completed": { "message": "Hotový" },
-	"AddNotes": { "message": "Přidat poznámky" },
-	"DueDate": { "message": "K datu" },
-	"Tags": { "message": "Tagy" },
-	"AttachFile": { "message": "Připojit soubor" },
-	"Assignee": { "message": "Má na starosti" },
-	"Projects": { "message": "Projekty" },
-	"AddToProject": { "message": "Přidat k projektu" },
-	"Followers": { "message": "Sledují" },
-	"AddFollowers": { "message": " přidat následovníka" },
-	"Follow": { "message": "Sledovat" },
-	"Unfollow": { "message": "Nesledovat" },
-	"DeleteTask": { "message": "Smazat úkol" },
-	"MakePriorityHeading": { "message": "Vytvořit prioritní nadpis" },
-	"NewItem": { "message": "(nová položka)" },
-	"AssignToMe": { "message": "Přiřadit mě" },
-	"AssignToTeammate": { "message": "přiřadit spolupracovníkovi" },
-	"ActivityFeed": { "message": "Aktivity" },
-	"Comment": { "message": "Komentář" },
-
-	"__comment": { "message": "Task activity" },
-	"ACT_CreatedTask": { "message": "vytvořil(a) úkol" },
-	"ACT_AddedTo": { "message": "byl(a) přidán(a) do projektu" },
-	"ACT_AssignedTo": { "message": " nastavil(a), že úkol má nyní na starosti" },
-	"ACT_ChangedDueDate": { "message": "změnil(a) deadline na" },
-	"ACT_AddedAttachment": { "message": "připojil(a) přílohu" },
-	"ACT_MarkedComplete": { "message": "označil(a) úkol jako splněný" },
-	"ACT_MarkedIncomplete": { "message": "označil(a) úkol jako nesplněný" },
-	"ACT_MarkedToday": { "message": "označil(a) úkol jako dnešní" },
-	"ACT_UnmarkedToday": { "message": "odznačil(a) úkol jako dnešní" },
-	"ACT_CreatedProject": { "message": "vytvořil(a) projekt" },
-	"ACT_MovedFrom": { "message": "přesunut z" },
-	"ACT_RemovedFrom": { "message": "odebral(a) z" },
-
-	"__comment": { "message": "Project tasks" },
-	"AddTask": { "message": "Přidat úkol" },
-	"Archive": { "message": "Archivovat" },
-	"ArchiveCompletedTasks": { "message": "Archivovat splněné úkoly" },
-	"ShowArchivedTasks": { "message": "Zobrazit archivované úkoly" },
-	"HideArchivedTasks": { "message": "Skrýt archivované úkoly" },
-	"New": { "message": "Nový" },
-	"NewPriorityHeading": { "message": "Nový prioritní nadpis" },
-	"Share": { "message": "Share" }, "__comment": { "message": "Cannot be longer than this or will break the page..." },
-	"CollapseAll": { "message": "Sbalit vše" },
-	"ExpandAll": { "message": "Rozbalit vše" },
-	"Priority": { "message": "Priorita" },
-	"Date": { "message": "Datum" },
-	"Project": { "message": "Projekt" },
-	"All": { "message": "Vše" },
-	"AddADescription": { "message": "přidat popis" },
-	"Sort": { "message": "Seřadit" },
-	"Filter": { "message": "Filtrovat" },
-
-	"__comment": { "message": "Tips" },
-	"TIP_MarkedForUpcoming": { "message": "Označen jako nadcházející. Kliknutím změníte." },
-	"TIP_MarkedForToday": { "message": "Označen jako dnešní. Kliknutím změníte." },
-	"TIP_CreateTasksAndHeadings": { "message": "Vytvořte úkoly a nadpisy" },
-	"TIP_HideCompletedTasks": { "message": "Skrýt splněné úkoly." },
-	"TIP_UnfollowTask": { "message": "Již dále nesledovat aktivitu tohoto úkolu." },
-	"TIP_FollowTask": { "message": "Sledovat aktivitu tohoto úkolu." },
-	"TIP_ActivityFeedInfo": { "message": "Informace o aktivitě" },
-	"TIP_RemoveFollower": { "message": "Odebrat následovníka" },
-	"TIP_RecentlyViewed": { "message": "Nedávno zobrazené" },
-	"TIP_MarkedFavorite": { "message": "Označen jako oblíbený" },
-
-	"__comment": { "message": "Bottom menu" },
-	"NewProject": { "message": "Nový projekt" },
-	"NewTask": { "message": "Nový úkol" },
-	"MoveDown": { "message": "Přesunout dolů" },
-	"JumpDown": { "message": "Přejít dolů" },
-	"CloseDetails": { "message": "Zavřít detaily" },
-	"QuickAdd": { "message": "Rychle přidat" },
-	"More": { "message": "více..." },
-
-	"__comment": { "message": "Days and dates" },
-	"Today": { "message": "Dnes" },
-	"Yesterday": { "message": "Včera" },
-	"Tomorrow": { "message": "Zítra" },
-	"Upcoming": { "message": "Nadcházející" },
-	"Later": { "message": "Později" },
-	"LATER": { "message": "POZDĚJI" },
-	"Monday": { "message": "Pondělí" },
-	"Tuesday": { "message": "Úterý" },
-	"Wednesday": { "message": "Středa" },
-	"Thursday": { "message": "Čtvrtek" },
-	"Friday": { "message": "Pátek" },
-	"Saturday": { "message": "Sobota" },
-	"Sunday": { "message": "Neděle" }
-
+    "Follow": {
+        "message": "Sledovat",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Nedávno shlédnuto",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Skrýt dokončené úkoly",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "Členové",
+        "description": ""
+    },
+    "All": {
+        "message": "Vše",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Priorita",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Nový projekt",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "Odznačené ze DNES",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Zobraz archivované úkoly",
+        "description": ""
+    },
+    "Date": {
+        "message": "Datum",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Přidat poznámky",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Odhlásit se",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Vše sbalit",
+        "description": ""
+    },
+    "LATER": {
+        "message": "POZDĚJI",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Termín",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Projekty",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Přestat se účastnit",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Jméno nebo email",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Vytvořit prioritní nadpis",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Připojit soubor",
+        "description": ""
+    },
+    "More": {
+        "message": "více...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Nový prioritní nadpis",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Včera",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Označeno za oblíbené",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Komentář",
+        "description": ""
+    },
+    "Search": {
+        "message": "Vyhledat",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Archivovat",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Zadat kolegovi",
+        "description": ""
+    },
+    "New": {
+        "message": "Nový",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Vše rozbalit",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "přidat účastníky",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Účastněte se úkolu, pokud chcete být upozorňován na aktivity, které se jej týkají.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "označeno na dnešek",
+        "description": "SOmeone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "změnil/a termín",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Sobota",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Více projektů",
+        "description": ""
+    },
+    "Later": {
+        "message": "Později",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "Popis byl změněn.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Štítek",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Ukončit sledování úkolu a zastavit tak příjem zpráv.",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Přidat úkol",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Zadat mně",
+        "description": ""
+    },
+    "Today": {
+        "message": "Dnes",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "označit za dokončené",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Neděle",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "odstranil/a z",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Nadcházející",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Čtvrtek",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Nastavení účtu",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Řešitel",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Úkoly",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Zde uvidíte historii úkolu.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Pracovní plochy",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Archivovat dokončené úkoly",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "vytvořil/a úkol",
+        "description": "Someone created the task"
+    },
+    "TIP_RemoveFollower": {
+        "message": "Odstranit účastníka",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Zobraz méně",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Označ za dokončené",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Nic není vybráno",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Upgradovat pracovní plochu",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Zobraz nedávné...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Upravit nastavení pracovní plochy",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Přesunout dolů",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Nový projekt",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Účastníci",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Smazat úkol",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Sdílejte s další osobou",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Označit za nedokončené",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Nová sekce",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Zobrazit Projekty, Štítky a Osoby",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Nový úkol",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Skrýt archivované úkoly",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "přidal/a do",
+        "description": "Someone added the task to..."
+    },
+    "PEOPLE": {
+        "message": "LIDÉ",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Přidat osobu",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "To se mi líbí",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Pátek",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Vytvořit úkoly a záhlaví",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "Přidán podúkol do úkolu",
+        "description": "Someone added a subtask to the task..."
+    },
+    "AddTasksByEmail": {
+        "message": "Přidejte úkol pomocí emailu",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Označeno za Nadcházející. Kliknutím změňte.",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "přidat k projektu",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Odstraňte mne z pracovní plochy",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Zítra",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Pozvěte a organizujte členy",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Pondělí",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Zdroj aktivit",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Skrýt archivované projekty",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "Přiloženo",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Moje úkoly",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Dokončeno",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Zobrazit archivované projekty",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Středa",
+        "description": ""
+    },
+    "Share": {
+        "message": "Sdílet",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Nápověda",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "zadal/a úkol pro",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "přidal/a přílohu",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "Přidán popis",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Feedback",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Označeno na Dnešek. Kliknutím změňte.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "ŠTÍTKY",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "vytvořil/a projekt",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "Odstraněn termín",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Označeno za nedokončené",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Zavřít detaily",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Úterý",
+        "description": ""
+    },
+    "Project": {
+        "message": "Projekt",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "přesunul/a úkol z",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(nová položka)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Rychle přidat",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Nová pracovní plocha",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Moje úkoly",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Posunout dolů",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROJEKTY",
+        "description": "Note that exceding this size will make the interface break."
+    }
 }
