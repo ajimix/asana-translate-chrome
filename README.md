@@ -20,7 +20,7 @@ Choose your flavour:
 
 **Geek install**
 
-- Download the github project
+- Download the github project or clone it.
 
 - Go to your Google Chrome extensions page or enter **chrome://extensions** into chrome url bar
 
@@ -30,7 +30,7 @@ Choose your flavour:
 
 - Navigate to downloaded folder and open it.
 
-- Enjoy!
+- Enjoy! But remember that the extension will not be automatically updated to the latest version.
 
 
 Adding more languages
@@ -38,16 +38,21 @@ Adding more languages
 
 You can add more languages and help the project.
 
-Download the project and add a new file named messages.json under _locales/lang/
-You can use the spanish one as template.
-Finally make a pull request!
+- Edit/Add the language in [Transifex](https://www.transifex.com/projects/p/asana/)
+- Then [open an issue](https://github.com/ajimix/asana-translate-chrome/issues/new) to get the language added.
+
+**Or**
+
+- Download the project and add a new file named messages.json under _locales/lang/
+- You can use the spanish one as template.
+- Finally make a pull request!
 
 
 Known issues
 ------------
 
 - Sometimes strings under task info are not translated at first but end up being translated after a second ajax call from Asana.
-- **(fixed)** In some rare cases Asana asks to refresh page.
+- Months are not translated [#16](https://github.com/ajimix/asana-translate-chrome/issues/16).
 
 
 Author
@@ -57,11 +62,13 @@ Author
 
 **GitHub:** [github.com/ajimix](https://github.com/ajimix)
 
+[Contributors](https://github.com/ajimix/asana-translate-chrome/graphs/contributors)
+
 
 Copyright and license
 ---------------------
 
-Copyright 2013 Ajimix
+Copyright 2014 Ajimix
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.
