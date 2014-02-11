@@ -1,0 +1,458 @@
+{
+    "Follow": {
+        "message": "关注",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "最近查看过的",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "隐藏已完成的任务",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "成员",
+        "description": ""
+    },
+    "All": {
+        "message": "全部",
+        "description": ""
+    },
+    "Priority": {
+        "message": "优先的",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "新项目",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "今天无标记",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "显示归档标签",
+        "description": ""
+    },
+    "Date": {
+        "message": "日期",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "添加笔记",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "注销",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "全部折叠",
+        "description": ""
+    },
+    "LATER": {
+        "message": "将来",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "截止日期",
+        "description": ""
+    },
+    "Projects": {
+        "message": "项目",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "取消关注",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "姓名或Email",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "标题使用优先级",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "附加文件",
+        "description": ""
+    },
+    "More": {
+        "message": "更多...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "新的优先级标题",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "昨天",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "标记为收藏",
+        "description": ""
+    },
+    "Comment": {
+        "message": "评论",
+        "description": ""
+    },
+    "Search": {
+        "message": "搜索",
+        "description": ""
+    },
+    "Archive": {
+        "message": "归档",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "分配给队友",
+        "description": ""
+    },
+    "New": {
+        "message": "新的",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "展开全部",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "添加 ",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "如果你想关注这个任务的活动通知.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "标记为今日",
+        "description": "SOmeone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "改变日期",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "星期六",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "更多项目",
+        "description": ""
+    },
+    "Later": {
+        "message": "将来",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "改变描述",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "标签",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "取消这个任务并停止接受消息",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "添加任务",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "分配给我",
+        "description": ""
+    },
+    "Today": {
+        "message": "今天",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "标记为完成",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "星期天",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "删除",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "即将到来",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "星期四",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "账户设置",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "负责人",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "任务",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "在这里查看任务历史记录",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "工作区",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "归档已完成的任务",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "创建任务",
+        "description": "Someone created the task"
+    },
+    "TIP_RemoveFollower": {
+        "message": "删除关注人",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "显示较少",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "标记为已完成",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "没有选定",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "升级工作区",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "显示最近...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "编辑工作区的设置",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "跳到下面",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "新项目",
+        "description": ""
+    },
+    "Followers": {
+        "message": "关注者",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "删除标签",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "与其他人分享",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "标记为未完成",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "新章节",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "查看项目，标签和人 ",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "新任务",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "隐藏归档任务",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "加入",
+        "description": "Someone added the task to..."
+    },
+    "PEOPLE": {
+        "message": "人",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "添加联系人",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "心",
+        "description": ""
+    },
+    "Friday": {
+        "message": "星期五",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "创建任务和标题",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "子任务添加到任务",
+        "description": "Someone added a subtask to the task..."
+    },
+    "AddTasksByEmail": {
+        "message": "通过Email添加任务",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "标记为即将到来。点击更改。",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "添加到项目",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "把我从工作区中删除",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "明天",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "邀请管理和成员",
+        "description": ""
+    },
+    "Monday": {
+        "message": "星期一",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Feed活动",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "隐藏已归档项目",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "附加的",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "我的任务",
+        "description": ""
+    },
+    "Completed": {
+        "message": "完成",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "显示已归档的项目",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "星期三",
+        "description": ""
+    },
+    "Share": {
+        "message": "分享",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": " 帮助",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "分配给",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "添加附件",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "补充描述",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "反馈",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "标记为今天。点击更改。",
+        "description": ""
+    },
+    "TABS": {
+        "message": "标签",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "创建项目",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "取消截至日期",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "标记为未完成",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "关闭详细信息",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "星期二",
+        "description": ""
+    },
+    "Project": {
+        "message": "项目",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "移动到",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(新项目 )",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "快速添加",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "新工作区",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "我的任务",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "向下移动",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "项目",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
