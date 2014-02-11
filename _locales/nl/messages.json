@@ -1,119 +1,458 @@
 {
-	"__comment": { "message": "This strings are used for comments, refer to: http://stackoverflow.com/questions/244777/can-i-comment-a-json-file" },
-
-	"__comment": { "message": "Left menu" },
-	"Search": { "message": "Zoeken" },
-	"MyTasks": { "message": "Mijn taken" },
-	"My_Tasks": { "message": "" },
-	"Inbox": { "message": "Inbox" },
-	"Tasks": { "message": "Taken" },
-	"PROJECTS": { "message": "PROJECTEN" },
-	"TABS": { "message": "TABS" },
-	"PEOPLE": { "message": "PERSONEN" },
-	"InviteManageMembers": { "message": "Personen uitnodigen en beheren" },
-	"EditWorkspaceSettings": { "message": "Bewerk werkruimte instellingen" },
-	"RemoveMeFromWorkspace": { "message": "Verwijder me uit werkruimte" },
-	"UpgradeWorkspace": { "message": "Workspace upgraden" },
-	"ShowArchivedProjects": { "message": "Toon gearchiveerde projecten" },
-	"HideArchivedProjects": { "message": "Verberg gearchiveerde projecten" },
-	"AccountSettings": { "message": "Account instellingen" },
-	"NewWorkspace": { "message": "Nieuwe werkruimte" },
-	"LogOut": { "message": "Uitloggen" },
-	"ViewProjectsTagsPeople": { "message": "Bekijk projecten, tags en personen" },
-	"LEFT_NewProject": { "message": "Nieuw project" },
-	"AddPerson": { "message": "Añadir Gente" },
-	"WorkspaceOverview": { "message": "Werkruimte overzicht" },
-
-	"__comment": { "message": "Task info" },
-	"MarkComplete": { "message": "Markeer als voltooid" },
-	"MarkIncomplete": { "message": "Markeer als onvoltooid" },
-	"Completed": { "message": "Voltooid" },
-	"AddNotes": { "message": "Notitie toevoegen" },
-	"DueDate": { "message": "Vervaldatum" },
-	"Tags": { "message": "Tags" },
-	"AttachFile": { "message": "Bestand toevoegen" },
-	"Assignee": { "message": "Toegewezen" },
-	"Projects": { "message": "Projecten" },
-	"AddToProject": { "message": "Toevoegen aan project" },
-	"Followers": { "message": "Volgners" },
-	"AddFollowers": { "message": " volgers toevoegen" },
-	"Follow": { "message": "Volgen" },
-	"Unfollow": { "message": "Ontvolgen" },
-	"DeleteTask": { "message": "Taak verwijderen" },
-	"MakePriorityHeading": { "message": "Prioriteit heading maken" },
-	"NewItem": { "message": "(nieuwe taak)" },
-	"AssignToMe": { "message": "Aan zelf toewijzen" },
-	"AssignToTeammate": { "message": "Aan teamgenoot toewijzen" },
-	"ActivityFeed": { "message": "Activiteitenfeed" },
-	"Comment": { "message": "Reageer" },
-
-	"__comment": { "message": "Task activity" },
-	"ACT_CreatedTask": { "message": "heeft de taak aangemaakt" },
-	"ACT_AddedTo": { "message": "de toegevoegde" },
-	"ACT_AssignedTo": { "message": "de aangewezen" },
-	"ACT_ChangedDueDate": { "message": "deadline veranderd naar" },
-	"ACT_AddedAttachment": { "message": "bestand toegevoegd" },
-	"ACT_MarkedComplete": { "message": "gemarkeerd als voltood" },
-	"ACT_MarkedIncomplete": { "message": "gemarkeerd als open" },
-	"ACT_MarkedToday": { "message": "gemarkeerd vandaag" },
-	"ACT_UnmarkedToday": { "message": "niet gemarkeerd voor vandaag" },
-	"ACT_CreatedProject": { "message": "project aangemaakt" },
-	"ACT_MovedFrom": { "message": "verplaatst door" },
-	"ACT_RemovedFrom": { "message": "verwijderd van" },
-
-	"__comment": { "message": "Project tasks" },
-	"AddTask": { "message": "Taak toevoegen" },
-	"Archive": { "message": "Archief" },
-	"ArchiveCompletedTasks": { "message": "Archiveer voltooide taken" },
-	"ShowArchivedTasks": { "message": "Toon gearchiveerde taken" },
-	"HideArchivedTasks": { "message": "Verberg gearchiveerde taken" },
-	"New": { "message": "Nieuw" },
-	"NewPriorityHeading": { "message": "Nieuwe prioriteit heading" },
-	"Share": { "message": "Delen" }, "__comment": { "message": "Cannot be longer than this or will break the page..." },
-	"CollapseAll": { "message": "Alles samenvouwen" },
-	"ExpandAll": { "message": "Alles uitvouwen" },
-	"Priority": { "message": "Prioriteit" },
-	"Date": { "message": "Datum" },
-	"Project": { "message": "Project" },
-	"All": { "message": "Alles" },
-	"AddADescription": { "message": "beschrijving toevoegen" },
-	"Sort": { "message": "Ordenen" },
-	"Filter": { "message": "Filter" },
-
-	"__comment": { "message": "Tips" },
-	"TIP_MarkedForUpcoming": { "message": "Markeer als aankomend. Klik om te wijzigen." },
-	"TIP_MarkedForToday": { "message": "Markeer als vandaag. Klik om te wijzigen." },
-	"TIP_CreateTasksAndHeadings": { "message": "Taken en headings toevoegen" },
-	"TIP_HideCompletedTasks": { "message": "Verberg voltooide taken" },
-	"TIP_UnfollowTask": { "message": "Ontvolg de taak om er niet langer berichten over te ontvangen." },
-	"TIP_FollowTask": { "message": "Volg de taak om er berichten over te ontvangen." },
-	"TIP_ActivityFeedInfo": { "message": "Hier kunt u de geschiedenis van de taak bekijken." },
-	"TIP_RemoveFollower": { "message": "Verwijder volger" },
-	"TIP_RecentlyViewed": { "message": "Recentelijk bekeken" },
-	"TIP_MarkedFavorite": { "message": "Gemarkeerd als favoriet" },
-
-	"__comment": { "message": "Bottom menu" },
-	"NewProject": { "message": "Nieuw project" },
-	"NewTask": { "message": "Nieuwe taak" },
-	"MoveDown": { "message": "Naar beneden" },
-	"JumpDown": { "message": "Naar beneden" },
-	"CloseDetails": { "message": "Details sluiten" },
-	"QuickAdd": { "message": "Snel toevoegen" },
-	"More": { "message": "Meer.." },
-
-	"__comment": { "message": "Days and dates" },
-	"Today": { "message": "Vandaag" },
-	"Yesterday": { "message": "Gisteren" },
-	"Tomorrow": { "message": "Morgen" },
-	"Upcoming": { "message": "Aankomend" },
-	"Later": { "message": "Later" },
-	"LATER": { "message": "LATER" },
-	"Monday": { "message": "maandag" },
-	"Tuesday": { "message": "dinsdag" },
-	"Wednesday": { "message": "woensdag" },
-	"Thursday": { "message": "donderdag" },
-	"Friday": { "message": "vrijdag" },
-	"Saturday": { "message": "zaterdag" },
-	"Sunday": { "message": "zondag" }
-
+    "Follow": {
+        "message": "Volgen",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Recentelijk bekeken",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Verberg voltooide taken",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "LEDEN",
+        "description": ""
+    },
+    "All": {
+        "message": "Alles",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Prioriteit",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Nieuw project",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "niet gemarkeerd voor vandaag",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Toon gearchiveerde taken",
+        "description": ""
+    },
+    "Date": {
+        "message": "Datum",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Notitie toevoegen",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Uitloggen",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Alles samenvouwen",
+        "description": ""
+    },
+    "LATER": {
+        "message": "LATER",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Vervaldatum",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Projecten",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Ontvolgen",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Naam of Email",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Prioriteit heading maken",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Bestand toevoegen",
+        "description": ""
+    },
+    "More": {
+        "message": "Meer..",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Nieuwe prioriteit heading",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Gisteren",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Gemarkeerd als favoriet",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Reageer",
+        "description": ""
+    },
+    "Search": {
+        "message": "Zoeken",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Archief",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Aan teamgenoot toewijzen",
+        "description": ""
+    },
+    "New": {
+        "message": "Nieuw",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Alles uitvouwen",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": " volgers toevoegen",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Volg de taak om er berichten over te ontvangen.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "gemarkeerd vandaag",
+        "description": "SOmeone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "deadline veranderd naar",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "zaterdag",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Meer projecten",
+        "description": ""
+    },
+    "Later": {
+        "message": "Later",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "aangepaste omschrijving",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Tags",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Ontvolg de taak om er niet langer berichten over te ontvangen.",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Taak toevoegen",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Aan zelf toewijzen",
+        "description": ""
+    },
+    "Today": {
+        "message": "Vandaag",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "gemarkeerd als voltood",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "zondag",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "verwijderd van",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Aankomend",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "donderdag",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Account instellingen",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Toegewezen",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Taken",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Hier kunt u de geschiedenis van de taak bekijken.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Werkruimte overzicht",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Archiveer voltooide taken",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "heeft de taak aangemaakt",
+        "description": "Someone created the task"
+    },
+    "TIP_RemoveFollower": {
+        "message": "Verwijder volger",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Toon minder",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Markeer als voltooid",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Niet geselecteerd",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Workspace upgraden",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Toon recenten ...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Bewerk werkruimte instellingen",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Naar beneden",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Nieuw project",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Volgners",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Taak verwijderen",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Deel met een ander",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Markeer als onvoltooid",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Nieuwe sectie",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Bekijk projecten, tags en personen",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Nieuwe taak",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Verberg gearchiveerde taken",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "de toegevoegde",
+        "description": "Someone added the task to..."
+    },
+    "PEOPLE": {
+        "message": "PERSONEN",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Añadir Gente",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Harten",
+        "description": ""
+    },
+    "Friday": {
+        "message": "vrijdag",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Taken en headings toevoegen",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "toegevoegde subtaak aan taak",
+        "description": "Someone added a subtask to the task..."
+    },
+    "AddTasksByEmail": {
+        "message": "Voeg taak toe via Email",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Markeer als aankomend. Klik om te wijzigen.",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "Toevoegen aan project",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Verwijder me uit werkruimte",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Morgen",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Personen uitnodigen en beheren",
+        "description": ""
+    },
+    "Monday": {
+        "message": "maandag",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Activiteitenfeed",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Verberg gearchiveerde projecten",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "toegevoegd",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Mijn taken",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Voltooid",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Toon gearchiveerde projecten",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "woensdag",
+        "description": ""
+    },
+    "Share": {
+        "message": "Delen",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Help",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "de aangewezen",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "bestand toegevoegd",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "toegevoegde omschrijving",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Feedback",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Markeer als vandaag. Klik om te wijzigen.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "TABS",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "project aangemaakt",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "verwijderde vervaldatum",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "gemarkeerd als open",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Details sluiten",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "dinsdag",
+        "description": ""
+    },
+    "Project": {
+        "message": "Project",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "verplaatst door",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(nieuwe taak)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Snel toevoegen",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Nieuwe werkruimte",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Mijn taken",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Naar beneden",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROJECTEN",
+        "description": "Note that exceding this size will make the interface break."
+    }
 }
