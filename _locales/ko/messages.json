@@ -1,114 +1,458 @@
 {
-	"__comment": { "message": "This strings are used for comments, refer to: http://stackoverflow.com/questions/244777/can-i-comment-a-json-file" },
-
-	"__comment": { "message": "Left menu" },
-	"Search": { "message": "검색" },
-	"MyTasks": { "message": "나의 작업" },
-	"My_Tasks": { "message": "나의 작업" },
-	"Tasks": { "message": "작업" },
-	"PROJECTS": { "message": "프로젝트" },
-	"TABS": { "message": "탭" },
-	"PEOPLE": { "message": "사람(들)" },
-	"InviteManageMembers": { "message": "관리자 초대" },
-	"EditWorkspaceSettings": { "message": "작업공간 설정 변경" },
-	"RemoveMeFromWorkspace": { "message": "작업공간에서 나가기" },
-	"UpgradeWorkspace": { "message": "작업공간 업그레이드" },
-	"ShowArchivedProjects": { "message": "보관 프로젝트 표시" },
-	"HideArchivedProjects": { "message": "보관 프로젝트 숨기기" },
-	"AccountSettings": { "message": "계정 설정" },
-	"NewWorkspace": { "message": "새 작업공간" },
-	"LogOut": { "message": "로그 아웃" },
-	"ViewProjectsTagsPeople": { "message": "프로젝트 태그 사람 보기" },
-	"LEFT_NewProject": { "message": "왼쪽_프로젝트 만들기" },
-	"AddPerson": { "message": "사용자 추가" },
-	"WorkspaceOverview": { "message": "작업공간 전체보기" },
-
-	"__comment": { "message": "Task info" },
-	"MarkComplete": { "message": "완료 표시" },
-	"MarkIncomplete": { "message": "작업중 표시" },
-	"Completed": { "message": "완료" },
-	"AddNotes": { "message": "노트 추가" },
-	"DueDate": { "message": "마감 기한" },
-	"Tags": { "message": "태그" },
-	"AttachFile": { "message": "파일 첨부" },
-	"Assignee": { "message": "지정자" },
-	"Projects": { "message": "프로젝트" },
-	"AddToProject": { "message": "프로젝트에 추가" },
-	"Followers": { "message": "팔로워" },
-	"AddFollowers": { "message": " 팔로워 추가" },
-	"Follow": { "message": "팔로우" },
-	"Unfollow": { "message": "언팔로우" },
-	"DeleteTask": { "message": "작업 삭제" },
-	"MakePriorityHeading": { "message": "우선순위 헤더 만들기" },
-	"NewItem": { "message": "(새 아이템)" },
-	"AssignToMe": { "message": "나에게 지정" },
-	"AssignToTeammate": { "message": "팀원에게 지정" },
-	"ActivityFeed": { "message": "활동 피드" },
-	"Comment": { "message": "코멘트" },
-
-	"__comment": { "message": "Task activity" },
-	"ACT_CreatedTask": { "message": "작업 만들기" },
-	"ACT_AddedTo": { "message": "추가" },
-	"ACT_AssignedTo": { "message": "지정" },
-	"ACT_ChangedDueDate": { "message": "마감 기한 변경" },
-	"ACT_AddedAttachment": { "message": "첨부 파일" },
-	"ACT_MarkedComplete": { "message": "완료 표시" },
-	"ACT_MarkedIncomplete": { "message": "작업중 표시" },
-	"ACT_MarkedToday": { "message": "오늘로 표시" },
-	"ACT_UnmarkedToday": { "message": "오늘 아닌것으로 표시" },
-	"ACT_CreatedProject": { "message": "프로젝트 생성" },
-	"ACT_MovedFrom": { "message": "...에서 이동" },
-	"ACT_RemovedFrom": { "message": "...에서 해제" },
-
-	"__comment": { "message": "Project tasks" },
-	"AddTask": { "message": "작업 추가" },
-	"Archive": { "message": "보관" },
-	"ArchiveCompletedTasks": { "message": "완료된 작업 보관" },
-	"ShowArchivedTasks": { "message": "보관 작업 표시" },
-	"HideArchivedTasks": { "message": "보관 작업 숨기기" },
-	"New": { "message": "새" },
-	"NewPriorityHeading": { "message": "새로운 우선 순위 헤더" },
-	"Share": { "message": "공유" }, "__comment": { "message": "이 이상이 되면 페이지가 제대로 보이지 않습니다..." },
-	"CollapseAll": { "message": "모두 축소" },
-	"ExpandAll": { "message": "모두 확장" },
-	"Priority": { "message": "우선 순위" },
-	"Date": { "message": "날짜" },
-	"Project": { "message": "프로젝트" },
-	"All": { "message": "모든" },
-
-	"__comment": { "message": "Tips" },
-	"TIP_MarkedForUpcoming": { "message": "예정으로 표시 변경합니다." },
-	"TIP_MarkedForToday": { "message": "오늘로 표시 변경합니다." },
-	"TIP_CreateTasksAndHeadings": { "message": "작업과 헤더 생성" },
-	"TIP_HideCompletedTasks": { "message": "완료 작업 숨기기" },
-	"TIP_UnfollowTask": { "message": "작업 언팔로우, 메일 수신 거부."},
-	"TIP_FollowTask": { "message": "메세지를 받기 원하는 경우 작업 유지."},
-	"TIP_ActivityFeedInfo": { "message": "활동 피드를 볼 수 있습니다." },
-	"TIP_RemoveFollower": { "message": "팔로워 삭제" },
-	"TIP_RecentlyViewed": { "message": "최근 목록" },
-	"TIP_MarkedFavorite": { "message": "즐겨찾기로 표기" },
-
-	"__comment": { "message": "Bottom menu" },
-	"NewProject": { "message": "새 프로젝트" },
-	"NewTask": { "message": "새 작업" },
-	"MoveDown": { "message": "아래로 이동" },
-	"JumpDown": { "message": "뛰어 내리다" },
-	"CloseDetails": { "message": "세부 정보 닫기" },
-	"QuickAdd": { "message": "빠른 추가" },
-	"More": { "message": "더" },
-
-	"__comment": { "message": "Days and dates" },
-	"Today": { "message": "오늘" },
-	"Yesterday": { "message": "어제" },
-	"Tomorrow": { "message": "내일" },
-	"Upcoming": { "message": "곧 출시" },
-	"Later": { "message": "후에" },
-	"LATER": { "message": "후에" },
-	"Monday": { "message": "월요일" },
-	"Tuesday": { "message": "화요일" },
-	"Wednesday": { "message": "수요일" },
-	"Thursday": { "message": "목요일" },
-	"Friday": { "message": "금요일" },
-	"Saturday": { "message": "토요일" },
-	"Sunday": { "message": "일요일" }
+    "Follow": {
+        "message": "추종하기",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "최근 목록",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "완료 작업 숨기기",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "구성원들",
+        "description": ""
+    },
+    "All": {
+        "message": "모두",
+        "description": ""
+    },
+    "Priority": {
+        "message": "우선 순위",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "새 프로젝트",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "이(가) 오늘 표시를 지움",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "보관된 작업 표시",
+        "description": ""
+    },
+    "Date": {
+        "message": "날짜",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "노트 추가",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "로그 아웃",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "모두 접기",
+        "description": ""
+    },
+    "LATER": {
+        "message": "나중에",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "마감 기한",
+        "description": ""
+    },
+    "Projects": {
+        "message": "프로젝트",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "추종안하기",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "이름이나 이메일",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "우선순위 머리말 만들기",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "파일 첨부",
+        "description": ""
+    },
+    "More": {
+        "message": "더 많은...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "새로운 우선 순위 머리말",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "어제",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "즐겨찾기로 표기",
+        "description": ""
+    },
+    "Comment": {
+        "message": "댓글",
+        "description": ""
+    },
+    "Search": {
+        "message": "검색",
+        "description": ""
+    },
+    "Archive": {
+        "message": "보관하기",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "팀원에게 지정",
+        "description": ""
+    },
+    "New": {
+        "message": "새로운",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "모두 펼치기",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "추종자 추가",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "작업 활동 알림을 받기 원한다면 작업을 추종하세요",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "오늘로 표시",
+        "description": "SOmeone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "마감 기한 변경",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "토요일",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "더 많은 프로젝트",
+        "description": ""
+    },
+    "Later": {
+        "message": "나중에",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "변경된 설명",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "태그",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "메세지 수신 정리를 위해 작업 추종안하기. ",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "작업 추가",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "나에게 할당",
+        "description": ""
+    },
+    "Today": {
+        "message": "오늘",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "이(가) 완료됨으로 표시함",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "일요일",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "이(가) 다음에서 제거됨",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "예정",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "목요일",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "계정 설정",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "할당한사람",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "작업",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "여기서 작업 이력을 볼 수 있습니다.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "작업공간 전체보기",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "완료된 작업 보관",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "(이)가 작업 생성함",
+        "description": "Someone created the task"
+    },
+    "TIP_RemoveFollower": {
+        "message": "추종자 제거하기",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "더 적게 보기",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "완료됨 표시",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "아무것도 선택안됨",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "작업공간 업그레이드",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "최근 것 보이기...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "작업공간 설정 변경",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "건너뛰어 내려가기",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "새 프로젝트",
+        "description": ""
+    },
+    "Followers": {
+        "message": "추종자",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "작업 삭제",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "다른 사람과 공유하기",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "미완료로 표시",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "새 영역",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "프로젝트, 태그, 사람 보기",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "새 작업",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "보관된 작업 숨기기",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "이(가) 다음에 추가",
+        "description": "Someone added the task to..."
+    },
+    "PEOPLE": {
+        "message": "사람(들)",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "사용자 추가",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "마음",
+        "description": ""
+    },
+    "Friday": {
+        "message": "금요일",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "작업과 머리말 생성",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "작업에 추가된 하위작업",
+        "description": "Someone added a subtask to the task..."
+    },
+    "AddTasksByEmail": {
+        "message": "이메일로 작업 추가",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "예정으로 표시됨. 클릭하면 변경.",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "프로젝트에 추가",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "작업공간에서 나가기",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "내일",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "구성원 초대하고 관리하기",
+        "description": ""
+    },
+    "Monday": {
+        "message": "월요일",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "활동 피드",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "보관된 프로젝트 숨기기",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "첨부됨",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "나의 작업",
+        "description": ""
+    },
+    "Completed": {
+        "message": "완료됨",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "보관된 프로젝트 표시",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "수요일",
+        "description": ""
+    },
+    "Share": {
+        "message": "공유",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "도움말",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "이 다음에 할당",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "이(가) 첨부물을 추가함",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "추가된 설명",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "환류",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "오늘로 표시됨. 바꾸려면 클릭.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "태그",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "가 프로젝트를 생성함",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "제거된 마감 날짜",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "미완료로 표시됨",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "세부 정보 닫기",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "화요일",
+        "description": ""
+    },
+    "Project": {
+        "message": "프로젝트",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "이 다음으로부터 제거함",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(새 아이템)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "빠른 추가",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "새 작업공간",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "나의 작업",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "아래로 내리기",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "프로젝트",
+        "description": "Note that exceding this size will make the interface break."
+    }
 }
