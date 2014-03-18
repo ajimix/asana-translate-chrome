@@ -1,0 +1,458 @@
+{
+    "Follow": {
+        "message": "Sekvi",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Lastatempe viditaj",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Malaperigi plenumigajn taskojn",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "MEMBROJ",
+        "description": ""
+    },
+    "All": {
+        "message": "Ĉiu",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Prioritato",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Nova projekto",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "malindikis kiel hodiaŭa",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Montri arkivajn taskojn",
+        "description": ""
+    },
+    "Date": {
+        "message": "Dato",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Aldoni notojn",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Elsaluti",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Maletendi ĉiujn",
+        "description": ""
+    },
+    "LATER": {
+        "message": "MALPLI FRUE",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Limdato",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Projektoj",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Malsekvi",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Nomo aŭ repoŝto",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Fari prioritan titolon",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Aldoni fajlon",
+        "description": ""
+    },
+    "More": {
+        "message": "pli…",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Nova prioritata titolo",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "hieraŭ",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Favorata",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Kommento",
+        "description": ""
+    },
+    "Search": {
+        "message": "Serĉi",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Arkivi",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Atribui al kurlaboranto",
+        "description": ""
+    },
+    "New": {
+        "message": "Nova",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Etendi ĉion",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "aldoni sekvantojn",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Sekvu la taskon se vi deziras esti sciigita pri la taska aktiveco.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "Por hodiaŭ",
+        "description": "SOmeone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "ŝanĝis la limdaton",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "sabato",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Pli da projektoj",
+        "description": ""
+    },
+    "Later": {
+        "message": "Poste",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "ŝanĝis la priskribon.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "etikedoj",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Malsekvu taskon por ne plu recevi mesaĝojn.",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Aldoni taskon",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Atribui al mi",
+        "description": ""
+    },
+    "Today": {
+        "message": "hodiaŭ",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "Plenumita",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "dimanĉo",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "forviŝis el",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Baldaŭ",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "jaŭdo",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Konta agordoj",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Atribuulo",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Taskoj",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Aperos tien la taska historio.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Laborspacoj",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Arkivi plenumigitajn taskojn",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "aldonis la taskon",
+        "description": "Someone created the task"
+    },
+    "TIP_RemoveFollower": {
+        "message": "Forviŝi sekvanton",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Montri malpli",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Farita",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Nenio selektita",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Promocii laborspacon",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Montri lastaj…",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Redakti la laborspacajn agordojn",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Sube salti",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Nova projekto",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Sekvantoj",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Forviŝi taskon",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Komunigu kun alian homon",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Malplenumigita",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Nova sekcio",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Vidi projektoj, etikedojn kaj homoj",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Nova tasko",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Malaperigi arkivajn taskojn",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "aldonis al",
+        "description": "Someone added the task to..."
+    },
+    "PEOPLE": {
+        "message": "HOMOJ",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Aldoni homon",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Favorataj",
+        "description": ""
+    },
+    "Friday": {
+        "message": "vendredo",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Krei taskojn kaj titolojn",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "aldonis subtaskon al tasko",
+        "description": "Someone added a subtask to the task..."
+    },
+    "AddTasksByEmail": {
+        "message": "Aldoni taskojn tra retmesaĝo",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Por baldaŭ. Klaku por ŝanĝi.",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "aldoni al projekto",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Forviŝu min el laborspaco",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "morgaŭ",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Inviti kaj administri membrojn",
+        "description": ""
+    },
+    "Monday": {
+        "message": "lundo",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Aktivaĵaj Fluoj",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Malaperigi arkivitajn projektojn",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "aldonis la dosieron ",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Miaj taskoj",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Plenumigita",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Montri arkivajn projektojn",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "merkredo",
+        "description": ""
+    },
+    "Share": {
+        "message": "Komunigi",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Helpo",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "atribuis al",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "aldonis kunsendaĵon",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "aldonis priskribon.",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Rimarkoj",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Por hodiaŭ. Klaku por ŝanĝi.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "ETIKEDOJ",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "kreis la projekton",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "forviŝis limdaton",
+        "description": "Someone removed due date"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Malplenumigita",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Fermi detalojn",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "mardo",
+        "description": ""
+    },
+    "Project": {
+        "message": "Projekto",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "movigis el",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(nova ero)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Aldoni rapide",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Nova laborspaco",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Miaj taskojn",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Movigi sube",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROJEKTOJ",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
