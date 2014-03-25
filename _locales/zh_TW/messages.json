@@ -1,0 +1,458 @@
+{
+    "Follow": {
+        "message": "追蹤",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "最近瀏覽",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "隱藏完成任務資訊",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "成員",
+        "description": ""
+    },
+    "All": {
+        "message": "全部",
+        "description": ""
+    },
+    "Priority": {
+        "message": "優先順序",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "新增專案",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "由今日標示中去除",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "顯示歷史任務",
+        "description": ""
+    },
+    "Date": {
+        "message": "日期",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "新增筆記",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "登出",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "全部收合",
+        "description": ""
+    },
+    "LATER": {
+        "message": "稍後",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "到期日",
+        "description": ""
+    },
+    "Projects": {
+        "message": "專案",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "未追蹤",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "名字或Email",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "製作優先順序標題",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "附檔",
+        "description": ""
+    },
+    "More": {
+        "message": "更多...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "新優先順序標題",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "昨日",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "標示為最愛",
+        "description": ""
+    },
+    "Comment": {
+        "message": "評論",
+        "description": ""
+    },
+    "Search": {
+        "message": "搜尋",
+        "description": ""
+    },
+    "Archive": {
+        "message": "封存",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "委派至專案成員",
+        "description": ""
+    },
+    "New": {
+        "message": "新增",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "全部展開",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "新增從屬",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "追蹤任務如果您想被告知任務活動狀態",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "標示為今日",
+        "description": "SOmeone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "變更到期日",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "星期六",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "更多專案",
+        "description": ""
+    },
+    "Later": {
+        "message": "稍後",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "變更敘述",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "標籤",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "撤銷追蹤以停止接收訊息",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "新增任務",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "委派給我",
+        "description": ""
+    },
+    "Today": {
+        "message": "今日",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "標示為完成",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "星期日",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "移出",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "即將",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "星期四",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "帳號設定",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "代理人",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "任務",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "您將會在此瀏覽歷史任務",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "工作區",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "封存完成任務",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "已建立任務",
+        "description": "Someone created the task"
+    },
+    "TIP_RemoveFollower": {
+        "message": "移除從屬",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "減少顯示",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "標示為完成",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "未選取",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "升級工作區",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "顯示最近...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "編輯工作區設定",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "跳至下方",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "新專案",
+        "description": ""
+    },
+    "Followers": {
+        "message": "從屬",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "刪除任務",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "與其他人員分享",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "標示為未完成",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "新區段",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "瀏覽專案, 標籤與人員",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "新增任務",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "隱藏歷史任務",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "增加至",
+        "description": "Someone added the task to..."
+    },
+    "PEOPLE": {
+        "message": "人員",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "新增人員",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "心",
+        "description": ""
+    },
+    "Friday": {
+        "message": "星期五",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "建立任務與標題",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "增加次任務至任務",
+        "description": "Someone added a subtask to the task..."
+    },
+    "AddTasksByEmail": {
+        "message": "以email新增任務",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "標示為即將執行. 點選變更.",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "新增至專案",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "將我由工作區移除",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "明日",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "邀請與管理成員",
+        "description": ""
+    },
+    "Monday": {
+        "message": "星期一",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "活動匯入",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "隱藏封存專案",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "附屬",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "我的任務",
+        "description": ""
+    },
+    "Completed": {
+        "message": "完成",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "顯示歷史專案",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "星期三",
+        "description": ""
+    },
+    "Share": {
+        "message": "分享",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "求助",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "委派",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "新增附件",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "增加敘述",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "意見回饋",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "標示為今日. 點選變更.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "標籤",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "已建立任務",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "移除到期日",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "標示為未完成",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "關閉詳細資料",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "星期二",
+        "description": ""
+    },
+    "Project": {
+        "message": "專案",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "移出",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(新項目)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "快速加入",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "新工作區",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "我的任務",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "下移",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "專案",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
