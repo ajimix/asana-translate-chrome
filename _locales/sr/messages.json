@@ -1,0 +1,458 @@
+{
+    "Follow": {
+        "message": "Prati",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Skoro Pregledani",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Sakrij Kompletirane Zadatke",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "ČLANOVI",
+        "description": ""
+    },
+    "All": {
+        "message": "Sve",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Prioritet",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Novi Projekat",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "je odznačio od danas",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Prikaži Arhivirane Zadatke",
+        "description": ""
+    },
+    "Date": {
+        "message": "Datum",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Dodaj Beleške",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Izloguj se",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Skupi Sve",
+        "description": ""
+    },
+    "LATER": {
+        "message": "KASNIJE",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Rok",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Projekti",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Prestani sa praćenjem",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Ime ili Email",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Napravi Naslov Prioriteta",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Prikači Fajl",
+        "description": ""
+    },
+    "More": {
+        "message": "još...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Novi Naslov Prioriteta",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Juče",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Obeležen kao Omiljeni",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Komentariši",
+        "description": ""
+    },
+    "Search": {
+        "message": "Pretraga",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Arhiviraj",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Dodeli Kolegi",
+        "description": ""
+    },
+    "New": {
+        "message": "Novi",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Proširi Sve",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "dodaj pratioce",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Prati zadatak ako želiš da budeš obavešten od aktivnostima zadatka.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "označeno za danas",
+        "description": "SOmeone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "je promenio rok",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Subota",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Još projekata",
+        "description": ""
+    },
+    "Later": {
+        "message": "Kasnije",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "je promenio opis.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Tagovi",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Prestani da pratiš zadatak da prestaneš da dobijaš poruke.",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Dodaj Zadatak",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Dodeli Meni",
+        "description": ""
+    },
+    "Today": {
+        "message": "Danas",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "je obeležio kao završeno",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Nedelja",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "je uklonio iz",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Nadolazeći",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Četvrtak",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Podešavanja Naloga",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Osoba kojoj je dodeljeno",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Zadaci",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Ovde možeš videti istoriju zadatka.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Radni Prostori",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Arhiviraj Završene Zadatke",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "je kreirao zadatak",
+        "description": "Someone created the task"
+    },
+    "TIP_RemoveFollower": {
+        "message": "Ukloni pratioca",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Prikaži manje",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Obeleži kao Završeno",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Ništa nije Izabrano",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Nadogradi Radni Prostor",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Prikaži skorašnje...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Izmeni Podešavanja Radnog Prostora",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Skoči Dole",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Novi Projekat",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Pratioci",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Izbriši Zadatak",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Podeli sa drugom osobom",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Obeleži kao Nezavršeno",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Nova Sekcija",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Vidi Projekte, Tagove i Osobe",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Novi Zadatak",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Sakrij Arhivirane Zadatke",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "je dodao u",
+        "description": "Someone added the task to..."
+    },
+    "PEOPLE": {
+        "message": "OSOBE",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Dodaj Osobu",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Srca",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Petak",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Kreiraj zadatke i naslove.",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "je dodao podzadak zadatku",
+        "description": "Someone added a subtask to the task..."
+    },
+    "AddTasksByEmail": {
+        "message": "Dodaj zadatke email-om",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Označeno kao Nadolazeće. Klikni da promeniš.",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "dodaj projektu",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Ukloni me iz Radnog Prostora",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Sutra",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Pozovi i Upravljaj Članovima",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Ponedeljak",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Izvor Aktivnosti",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Sakrij Arhivirane Projekte",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "je prikačio",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Moji Zadaci",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Završeno",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Prikaži Arhivirane Projekte",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Sreda",
+        "description": ""
+    },
+    "Share": {
+        "message": "Deli",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Pomoć",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "je dodelio",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "je prikačio fajl",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "je dodao opis.",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Povratna informacija",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Označeno za danas. Klikni da promeniš.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "TAGOVI",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "je kreirao projekat",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "je uklonio rok",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Obeleži kao Nezavršeno",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Zatvori Detalje",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Utorak",
+        "description": ""
+    },
+    "Project": {
+        "message": "Projekat",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "je premestio iz",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(novi predmet)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Brzo Dodavanje",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Novi Radni Prostor",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Moji Zadaci",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Pomeri Dole",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROJEKTI",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
