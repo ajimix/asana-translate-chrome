@@ -177,6 +177,13 @@ var stringToElement = function ( element, string, property ) {
 		} );
 		// replaceFromElement( $$( '.comment-content' ), { ' completed this task': 'ACT_MarkedComplete' } ); // Removed as it causes conflict with the show more button in the comments.
 
+		// Top buttons above Project tasks and My tasks
+		stringToElement( $$( '.list-button .new-button-text' ), 'List' );
+		stringToElement( $$( '.calendar-button .new-button-text' ), 'Calendar' );
+		stringToElement( $$( '#new_menu .new-button-text' ), 'New' );
+		stringToElement( $$( '#new_menu_item_new_task .dropdown-menu-item-label' ), 'NewTask' );
+		stringToElement( $$( '#new_menu_item_new_section .dropdown-menu-item-label' ), 'NewSection' ); // does not work
+
 		// Project tasks
 		// replaceFromElement( $$( '.upcoming_group .group_header' ), { 'Upcoming': 'Upcoming' }); // Crashes ASANA
 		// replaceFromElement( $$( '.today_group .group_header' ), { 'Today': 'Today' }); // Crashes ASANA
@@ -186,14 +193,12 @@ var stringToElement = function ( element, string, property ) {
 		stringToElement( $$( '#archive_menu .new-button-text' ), 'Archive' );
 		stringToElement( $( 'archive_menu_item' ), 'ArchiveCompletedTasks' );
 		replaceFromElement( $( 'toggle_archived_menu_item' ), { 'Show archived tasks': 'ShowArchivedTasks', 'Hide archived tasks': 'HideArchivedTasks' } );
-		stringToElement( $$( '#new_menu .new-button-text' ), 'New' );
-		stringToElement( $$( '#new_menu_item_new_task .dropdown-menu-item-label' ), 'NewTask' );
-		stringToElement( $$( '#new_menu_item_new_section .dropdown-menu-item-label' ), 'NewSection' );
 		stringToElement( $( 'new_menu_item_new_priority_heading' ), 'NewPriorityHeading' );
 		stringToElement( $$( '#project_share_button .button-text' ), 'Share' );
 		stringToElement( $$( '.share-dropdown-members .header' ), 'MEMBERS' );
 		stringToElement( $$( '.share-dropdown-footer .header' ), 'ShareWithAnotherPerson' );
 		replaceFromElement( $$( '.collapse-expand-all .button-text' ), { 'Collapse All': 'CollapseAll', 'Expand All': 'ExpandAll' } );
+		stringToElement( $$( '.drop-indicator .toggle-link' ), 'Collapse' );
 		stringToElement( $$( '#group_by_priority .dropdown-menu-item-label' ), 'Priority' );
 		stringToElement( $$( '#group_by_assignee .dropdown-menu-item-label' ), 'Assignee' );
 		stringToElement( $$( '#group_by_due_date .dropdown-menu-item-label' ), 'Date' );
