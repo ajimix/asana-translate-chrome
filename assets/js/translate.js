@@ -29,13 +29,20 @@ var _DEBUG_ = false,
 
 	/**
 	 * Quick and short function to get an element by selector.
-	 * @param  {String} selector CSS selector.
+	 * @param  {String} cssSelector CSS selector.
+	 * @param  {Bool} firstElement Options, if true, returns just the first found element.
 	 * @return {Array} Array of found objects.
 	 */
-	all = function ( selector ) {
-		var elements = doc.querySelectorAll( selector );
-		if ( _DEBUG_ && elements.length === 0 ) {
-			console.error( 'Selector not found: ' + selector );
+	sel = function ( cssSelector, firstElement ) {
+		var elements;
+		if ( firstElement !== _UNDEFINED_ && firstElement  === true ) {
+			elements = doc.querySelector( cssSelector );
+		} else {
+			elements = doc.querySelectorAll( cssSelector );
+		}
+
+		if ( _DEBUG_ && ( elements === null || elements.length === 0 ) ) {
+			console.error( 'Selector not found: ' + cssSelector );
 		}
 		return elements;
 	},
@@ -136,81 +143,85 @@ var _DEBUG_ = false,
 
 		// Left menu
 		stringToElement( id( 'nav_search_input' ), 'Search', 'placeholder' );
-		replaceFromElement( all( '.atm-name' ), {
+		replaceFromElement( sel( '.atm-name' ), {
 			'My Tasks': 'MyTasks',
 			'My': 'My_Tasks',
 			'Tasks': 'Tasks'
 		});
-		stringToElement( all( '.list-item.feed .list-item-caption' ), 'Inbox' );
-		replaceFromElement( all( '.recents-zipper .more-link' ), { 'Show Recents and more…': 'ShowRecents', 'Show less': 'ShowLess'} );
-		stringToElement( all( '#list_navigation_view__new_pot_button .button-text' ), 'NewProject' );
+		stringToElement( sel( '.list-item.feed .list-item-caption' ), 'Inbox' );
+		replaceFromElement( sel( '.recents-zipper .more-link' ), { 'Show Recents and more…': 'ShowRecents', 'Show less': 'ShowLess'} );
 		stringToElement( id( 'manage_members' ), 'InviteManageMembers' );
+		stringToElement( sel( '.group-invite-overlay', true ), 'InvitePeople' );
 		stringToElement( id( 'edit_workspace_settings' ), 'EditWorkspaceSettings' );
 		stringToElement( id( 'remove_self' ), 'RemoveMeFromWorkspace' );
 		stringToElement( id( 'upgrade_workspace' ), 'UpgradeWorkspace' );
-		replaceFromElement( all( '.team-projects .more-link' ), { 'More Projects': 'MoreProjects', 'Show Archived Projects': 'ShowArchivedProjects', 'Hide Archived Projects': 'HideArchivedProjects' } );
+		replaceFromElement( sel( '#show_tags .dropdown-menu-item-label', true ), { 'Show Tags List': 'ShowTagsList', 'Hide Tags List': 'HideTagsList' } );
+		replaceFromElement( sel( '#toggle_show_archived_projects .dropdown-menu-item-label', true ), { 'Show Archived Projects': 'ShowArchivedProjects', 'Hide Archived Projects': 'HideArchivedProjects' } );
+		replaceFromElement( sel( '.team-projects .more-link' ), { 'More Projects': 'MoreProjects', 'Show Archived Projects': 'ShowArchivedProjects', 'Hide Archived Projects': 'HideArchivedProjects' } );
 		stringToElement( id( 'user_menu_account_settings' ), 'AccountSettings' );
 		stringToElement( id( 'user_menu_new_workspace' ), 'NewWorkspace' );
 		stringToElement( id( 'user_menu_logout' ), 'LogOut' );
-		stringToElement( all( '.workspace-link' ), 'ViewProjectsTagsPeople' );
-		stringToElement( all( '#add_project_button .button-text' ), 'LEFT_NewProject' );
-		stringToElement( all( '#add_person_button .button-text' ), 'AddPerson' );
-		replaceFromElement( all( '#navigation_dock_header .title-text' ), { 'Workspace Overview': 'WorkspaceOverview' } );
-		stringToElement( all( '#new_workspace' ), 'LEFT_NewWorkspace' );
-		//replaceFromElement( all( '#navigation_dock_workspace' ), { 'Inbox': 'Inbox' });  // Crashes ASANA
+		stringToElement( sel( '.workspace-link', true ), 'ViewProjectsTagsPeople' );
+		stringToElement( sel( '#add_project_button .button-text', true ), 'LEFT_NewProject' );
+		stringToElement( sel( '#add_person_button .button-text', true ), 'AddPerson' );
+		replaceFromElement( sel( '#navigation_dock_header .title-text' ), { 'Workspace Overview': 'WorkspaceOverview' } );
+		stringToElement( sel( '#new_workspace', true ), 'LEFT_NewWorkspace' );
+		//replaceFromElement( sel( '#navigation_dock_workspace' ), { 'Inbox': 'Inbox' });  // Crashes ASANA
 
 		// Left tabs under menu
-		stringToElement( all( '.projects_tab' ), 'PROJECTS' );
-		stringToElement( all( '.new-project-text' ), 'PROJECTS' );
+		stringToElement( sel( '.projects_tab' ), 'PROJECTS' );
+		stringToElement( sel( '.new-project-text' ), 'PROJECTS' );
 		replaceFromElement( id( 'tags_browser' ), { 'Tags': 'TAGS' });
-		stringToElement( all( '.people_tab' ), 'PEOPLE' );
+		stringToElement( sel( '.people_tab' ), 'PEOPLE' );
 
 		// Left menu bottom
-		stringToElement( all( '.feedback-link' ), 'Feedback' );
-		stringToElement( all( '.help-menu-label' ), 'Help' );
-		stringToElement( all( '#about_menu' ), 'About' );
+		stringToElement( sel( '.feedback-link' ), 'Feedback' );
+		stringToElement( sel( '.help-menu-label' ), 'Help' );
+		replaceFromElement( id( 'about_menu' ), { 'About': 'About' } );
 
 		// Task info
-		replaceFromElement( all( '.complete-text' ), { 'Mark Complete': 'MarkComplete', 'Mark Incomplete': 'MarkIncomplete', 'Completed': 'Completed' } );
-		stringToElement( all( '.description .placeholder-content' ), 'AddNotes' );
-		stringToElement( all( '.assigned_to .property-name' ), 'Assignee' );
-		stringToElement( all( '.projects .placeholder' ), 'AddToProject' );
-		if( !stringToElement( all( '.due_date.property-name' ), 'DueDate' ) ) { // This is for assigned due dates
-			stringToElement( all( '.due_date .property-name' ), 'DueDate' ); // Unassigned ones
+		replaceFromElement( sel( '.complete-text' ), { 'Mark Complete': 'MarkComplete', 'Mark Incomplete': 'MarkIncomplete', 'Completed': 'Completed' } );
+		stringToElement( sel( '.description .placeholder-content' ), 'AddNotes' );
+		stringToElement( sel( '.assigned_to .property-name' ), 'Assignee' );
+		stringToElement( sel( '.projects .placeholder' ), 'AddToProject' );
+		if( !stringToElement( sel( '.due_date.property-name' ), 'DueDate' ) ) { // This is for assigned due dates
+			stringToElement( sel( '.due_date .property-name' ), 'DueDate' ); // Unassigned ones
 		}
-		if( !stringToElement( all( '.tags.property-name' ), 'Tags' ) ) { // This is for assigned tags
-			stringToElement( all( '.tags .property-name' ), 'Tags' ); // Unassigned ones
+		if( !stringToElement( sel( '.tags.property-name' ), 'Tags' ) ) { // This is for assigned tags
+			stringToElement( sel( '.tags .property-name' ), 'Tags' ); // Unassigned ones
 		}
-		stringToElement( all( '.attach-label' ), 'AttachFile' );
-		stringToElement( all( '.followers_du .property-name' ), 'Followers' );
-		stringToElement( all( '.followers_du .placeholder' ), 'AddFollowers' );
-		replaceFromElement( all( '.follow-button .button-text' ), { 'Follow': 'Follow', 'Unfollow': 'Unfollow' } );
-		stringToElement( all( '.status-toggle-group .status-text' )[0], 'Today' );
-		stringToElement( all( '.status-toggle-group .status-text' )[1], 'Upcoming' );
-		stringToElement( all( '.status-toggle-group .status-text' )[2], 'Later' );
-		stringToElement( all( '#delete_items .dropdown-menu-item-label' )[0], 'DeleteTask' );
+		stringToElement( sel( '.attach-label' ), 'AttachFile' );
+		stringToElement( sel( '.followers_du .property-name' ), 'Followers' );
+		stringToElement( sel( '.followers_du .placeholder' ), 'AddFollowers' );
+		replaceFromElement( sel( '.follow-button .button-text' ), { 'Follow': 'Follow', 'Unfollow': 'Unfollow' } );
+		replaceFromElement( sel( '.drop-indicator .expandable' ), { 'Today': 'Today', 'Upcoming': 'Upcoming', 'Later': 'Later' } );
+		stringToElement( sel( '#delete_items .dropdown-menu-item-label', true ), 'DeleteTask' );
+		stringToElement( sel( '#duplicate_task .dropdown-menu-item-label', true ), 'MakeACopy' );
+		stringToElement( sel( '#print_task .dropdown-menu-item-label', true ), 'Print' );
+		stringToElement( sel( '#close_as_duplicate .dropdown-menu-item-label', true ), 'MergeDuplicateTasks' );
+		stringToElement( sel( '#maximize_details .dropdown-menu-item-label', true ), 'Expand' );
 		stringToElement( id( 'make_priority_heading' ), 'MakePriorityHeading' );
-		stringToElement( all( '.details-pane-title .header-name' )[2], 'NewItem', 'placeholder' );
-		stringToElement( all( '.assign-to-me-button .button-text' ), 'AssignToMe' );
-		stringToElement( all( '.assignee-field-name' ), 'Assignee' );
+		stringToElement( sel( '.details-pane-title .header-name' )[2], 'NewItem', 'placeholder' );
+		stringToElement( sel( '.assign-to-me-button .button-text' ), 'AssignToMe' );
+		stringToElement( sel( '.assignee-field-name' ), 'Assignee' );
 		stringToElement( id( 'assignee_popup_typeahead_input' ), 'NameOrEmail', 'placeholder' );
-		stringToElement( all( '.assigned_to .placeholder' ), 'AssignToTeammate' );
-		stringToElement( all( '.comments .section-name' ), 'ActivityFeed' );
-		stringToElement( all( '.comment-placeholder' ), 'Comment' );
+		stringToElement( sel( '.assigned_to .placeholder' ), 'AssignToTeammate' );
+		stringToElement( sel( '.comments .section-name' ), 'ActivityFeed' );
+		stringToElement( sel( '.comment-row.body .composer-placeholder .hotkey-hinted-string', true ), 'WriteComment' );
+		stringToElement( sel( '#details_property_sheet__new_comment_button .new-button-text', true ), 'Comment' );
 
-		stringToElement( all( '#ical' ), 'ICal' );
-		stringToElement( all( '#print' ), 'Print' );
-		stringToElement( all( '#duplicate_project' ), 'DuplicateProject' );
-		stringToElement( all( '#task_creation_email .dropdown-menu-item-label' ), 'AddTasksByEmail' );
-		stringToElement( all( '#set_archived_pot' ), 'ArchiveProject' );
-		stringToElement( all( '#delete_pot' ), 'DeleteProject' );
-		stringToElement( all( '#convert_pot' ), 'ConvertProjectToTag' );
-		stringToElement( all( '#details_property_sheet__new_comment_button .button-text' ), 'BUTTON_Comment' );
+		stringToElement( sel( '#ical' ), 'ICal' );
+		stringToElement( sel( '#print' ), 'Print' );
+		stringToElement( sel( '#duplicate_project' ), 'DuplicateProject' );
+		stringToElement( sel( '#task_creation_email .dropdown-menu-item-label' ), 'AddTasksByEmail' );
+		stringToElement( sel( '#set_archived_pot .dropdown-menu-item-label', true ), 'ArchiveProject' );
+		stringToElement( sel( '#delete_pot .dropdown-menu-item-label', true ), 'DeleteProject' );
+		stringToElement( sel( '#convert_pot .dropdown-menu-item-label', true ), 'ConvertProjectToTag' );
 
-		stringToElement( all( '.nothing-selected-text' ), 'NothingSelected' ); // en: Select a task to view its details. Displays in right pane when no task is selected
+		stringToElement( sel( '.nothing-selected-text' ), 'NothingSelected' ); // en: Select a task to view its details. Displays in right pane when no task is selected
 
 		// Task activity
-		replaceFromElement( all( '.comments .feed-story .comment-text' ), {
+		replaceFromElement( sel( '.comments .feed-story .comment-text' ), {
 			'created task': 'ACT_CreatedTask',
 			'added to': 'ACT_AddedTo',
 			'assigned to': 'ACT_AssignedTo',
@@ -230,42 +241,43 @@ var _DEBUG_ = false,
 			// 'added the description.': 'ACT_AddedDescription',
 			// 'changed the description.': 'ACT_ChangedDescription'
 		} );
-		// replaceFromElement( all( '.comment-content' ), { ' completed this task': 'ACT_MarkedComplete' } ); // Removed as it causes conflict with the show more button in the comments.
+		// replaceFromElement( sel( '.comment-content' ), { ' completed this task': 'ACT_MarkedComplete' } ); // Removed as it causes conflict with the show more button in the comments.
 
 		// Top buttons above Project tasks and My tasks
-		stringToElement( all( '.list-button .new-button-text' ), 'List' );
-		stringToElement( all( '.calendar-button .new-button-text' ), 'Calendar' );
-		stringToElement( all( '#new_menu .new-button-text' ), 'New' );
-		stringToElement( all( '#new_menu_item_new_task .dropdown-menu-item-label' ), 'NewTask' );
-		stringToElement( all( '#new_menu_item_new_section .dropdown-menu-item-label' ), 'NewSection' ); // does not work
+		stringToElement( sel( '.list-button .new-button-text', true ), 'List' );
+		stringToElement( sel( '.calendar-button .new-button-text', true ), 'Calendar' );
+		stringToElement( sel( '#new_menu .new-button-text' ), 'New' );
+		stringToElement( sel( '#new_menu_item_new_task .dropdown-menu-item-label' ), 'NewTask' );
+		stringToElement( sel( '#new_menu_item_new_section .dropdown-menu-item-label' ), 'NewSection' ); // does not work
 
 		// Project tasks
-		// replaceFromElement( all( '.upcoming_group .group_header' ), { 'Upcoming': 'Upcoming' }); // Crashes ASANA
-		// replaceFromElement( all( '.today_group .group_header' ), { 'Today': 'Today' }); // Crashes ASANA
-		stringToElement( all( '.all-my-tasks-bar .label' ), 'LATER' );
-		replaceFromElement( all( '.grid_due_date' ), days );
-		stringToElement( all( '.grid_pseudorow_no_prioritized .grid_cell_string' ), 'AddTask' );
-		stringToElement( all( '#archive_menu .new-button-text' ), 'Archive' );
+		// replaceFromElement( sel( '.upcoming_group .group_header' ), { 'Upcoming': 'Upcoming' }); // Crashes ASANA
+		// replaceFromElement( sel( '.today_group .group_header' ), { 'Today': 'Today' }); // Crashes ASANA
+		stringToElement( sel( '.all-my-tasks-bar .label' ), 'LATER' );
+		replaceFromElement( sel( '.grid_due_date' ), days );
+		stringToElement( sel( '.grid_pseudorow_no_prioritized .grid_cell_string' ), 'AddTask' );
+		stringToElement( sel( '#archive_menu .new-button-text' ), 'Archive' );
 		stringToElement( id( 'archive_menu_item' ), 'ArchiveCompletedTasks' );
 		replaceFromElement( id( 'toggle_archived_menu_item' ), { 'Show archived tasks': 'ShowArchivedTasks', 'Hide archived tasks': 'HideArchivedTasks' } );
 		stringToElement( id( 'new_menu_item_new_priority_heading' ), 'NewPriorityHeading' );
-		stringToElement( all( '#project_share_button .button-text' ), 'Share' );
-		stringToElement( all( '.share-dropdown-members .header' ), 'MEMBERS' );
-		stringToElement( all( '.share-dropdown-footer .header' ), 'ShareWithAnotherPerson' );
-		replaceFromElement( all( '.collapse-expand-all .button-text' ), { 'Collapse All': 'CollapseAll', 'Expand All': 'ExpandAll' } );
-		stringToElement( all( '.drop-indicator .toggle-link' ), 'Collapse' );
-		stringToElement( all( '#group_by_priority .dropdown-menu-item-label' ), 'Priority' );
-		stringToElement( all( '#group_by_assignee .dropdown-menu-item-label' ), 'Assignee' );
-		stringToElement( all( '#group_by_due_date .dropdown-menu-item-label' ), 'Date' );
-		stringToElement( all( '#group_by_project .dropdown-menu-item-label' ), 'Project' );
-		stringToElement( all( '#group_by_heart .dropdown-menu-item-label' ), 'Hearts' );
-		stringToElement( all( '.filter-buttons > .toggle-button > .button-text' ), 'All' );
-		stringToElement( all( '#project_notes .description-placeholder' ), 'AddADescription' );
-		stringToElement( all( '.sort-button .new-button-text' ), 'Sort' );
-		stringToElement( all( '.filter-button .new-button-text' ), 'Filter' );
+		stringToElement( sel( '#project_share_button .button-text' ), 'Share' );
+		stringToElement( sel( '.share-dropdown-members .header' ), 'MEMBERS' );
+		stringToElement( sel( '.share-dropdown-footer .header' ), 'ShareWithAnotherPerson' );
+		replaceFromElement( sel( '.collapse-expand-all .button-text' ), { 'Collapse All': 'CollapseAll', 'Expand All': 'ExpandAll' } );
+		stringToElement( sel( '.drop-indicator .toggle-link' ), 'Collapse' );
+		stringToElement( sel( '#group_by_priority .dropdown-menu-item-label' ), 'Priority' );
+		stringToElement( sel( '#group_by_assignee .dropdown-menu-item-label' ), 'Assignee' );
+		stringToElement( sel( '#group_by_due_date .dropdown-menu-item-label' ), 'Date' );
+		stringToElement( sel( '#group_by_project .dropdown-menu-item-label' ), 'Project' );
+		stringToElement( sel( '#group_by_heart .dropdown-menu-item-label' ), 'Hearts' );
+		stringToElement( sel( '.filter-buttons > .toggle-button > .button-text' ), 'All' );
+		stringToElement( sel( '#project_notes .description-placeholder' ), 'AddADescription' );
+		stringToElement( sel( '.sort-button .new-button-text' ), 'Sort' );
+		stringToElement( sel( '.filter-button .new-button-text' ), 'Filter' );
 
 		// Tips info
-		replaceFromElement( all( '.tooltip-body' ), {
+		replaceFromElement( sel( '.tooltip-body' ), {
+			'Create a project': 'NewProject',
 			'Marked for Upcoming. Click to change.': 'TIP_MarkedForUpcoming',
 			'Marked for Today. Click to change.': 'TIP_MarkedForToday',
 			'Create tasks and headings': 'TIP_CreateTasksAndHeadings',
@@ -279,14 +291,17 @@ var _DEBUG_ = false,
 		} );
 
 		// Bottom buttons
-		stringToElement( all( '#new_button .key-action' ), 'NewTask' );
-		// stringToElement( all( '.key-action:contains("Mark Complete")' ), 'MarkComplete' ); @todo
-		stringToElement( all( '#delete_button .key-action' ), 'DeleteTask' );
-		// stringToElement( all( '.key-action:contains("Move Down")' ), 'MoveDown' ); @todo
-		// stringToElement( all( '.key-action:contains("Jump Down")' ), 'JumpDown' ); @todo
-		stringToElement( all( '#close_details_button .key-action' ), 'CloseDetails' );
-		stringToElement( all( '#quick_add_button .key-action' ), 'QuickAdd' );
+		stringToElement( sel( '#new_button .key-action' ), 'NewTask' );
+		stringToElement( sel( '#delete_button .key-action' ), 'DeleteTask' );
+		stringToElement( sel( '#close_details_button .key-action' ), 'CloseDetails' );
+		stringToElement( sel( '#open_details_button .key-action' ), 'OpenDetails' );
+		stringToElement( sel( '#quick_add_button .key-action' ), 'QuickAdd' );
 		stringToElement( id( 'more_shortcuts_link' ), 'More' );
+		replaceFromElement( sel( '.key-action' ), {
+			'Mark Complete': 'MarkComplete',
+			'Move Down': 'MoveDown',
+			'Jump Down': 'JumpDown'
+		});
 
 		console.timeEnd( 'Asana translate:' );
 
