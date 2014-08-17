@@ -3,6 +3,10 @@
         "message": "Seguir",
         "description": ""
     },
+    "WriteAComment": {
+        "message": "Comentar",
+        "description": ""
+    },
     "TIP_RecentlyViewed": {
         "message": "Visto Recentemente",
         "description": ""
@@ -43,6 +47,10 @@
         "message": "Adicionar Notas",
         "description": ""
     },
+    "Calendar": {
+        "message": "Calendário",
+        "description": ""
+    },
     "LogOut": {
         "message": "Sair",
         "description": ""
@@ -57,6 +65,10 @@
     },
     "DueDate": {
         "message": "Data Limite",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Duplicar Projeto",
         "description": ""
     },
     "Projects": {
@@ -119,6 +131,10 @@
         "message": "Expandir Tudo",
         "description": ""
     },
+    "Expand": {
+        "message": "Expandir",
+        "description": ""
+    },
     "AddFollowers": {
         "message": " adicionar seguidores",
         "description": ""
@@ -129,7 +145,7 @@
     },
     "ACT_MarkedToday": {
         "message": "marcou para hoje",
-        "description": "SOmeone marked the task for today"
+        "description": "Someone marked the task for today"
     },
     "ACT_ChangedDueDate": {
         "message": "mudou a data limite para",
@@ -159,8 +175,16 @@
         "message": "Deixar de seguir a tarefa para não recebir mais e-mails sobre ela.",
         "description": ""
     },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
     "AddTask": {
         "message": "Adicionar uma tarefa",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Fechar Tags",
         "description": ""
     },
     "AssignToMe": {
@@ -219,12 +243,24 @@
         "message": "criou uma tarefa",
         "description": "Someone created the task"
     },
+    "ArchiveProject": {
+        "message": "Arquivo de Projetos",
+        "description": ""
+    },
     "TIP_RemoveFollower": {
         "message": "Eliminar seguidor",
         "description": ""
     },
+    "InvitePeople": {
+        "message": "Convidar",
+        "description": ""
+    },
     "ShowLess": {
         "message": "Mostrar menos",
+        "description": ""
+    },
+    "List": {
+        "message": "Lista",
         "description": ""
     },
     "MarkComplete": {
@@ -233,6 +269,10 @@
     },
     "NothingSelected": {
         "message": "Nada selecionado",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Mesclar Tarefas",
         "description": ""
     },
     "UpgradeWorkspace": {
@@ -291,6 +331,14 @@
         "message": "a adicionou à",
         "description": "Someone added the task to..."
     },
+    "OpenDetails": {
+        "message": "Detalhes",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Comentário",
+        "description": "Comment button for adding a comment"
+    },
     "PEOPLE": {
         "message": "PESSOAS",
         "description": ""
@@ -315,12 +363,20 @@
         "message": "adicionada a sub-tarefa à tarefa",
         "description": "Someone added a subtask to the task..."
     },
+    "Print": {
+        "message": "Imprimir",
+        "description": ""
+    },
     "AddTasksByEmail": {
         "message": "Adicionar tarefa via e-mail",
         "description": ""
     },
     "TIP_MarkedForUpcoming": {
         "message": "Marcada como próxima. Clique para mudar.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Copiar",
         "description": ""
     },
     "AddToProject": {
@@ -395,6 +451,10 @@
         "message": "Retorno",
         "description": ""
     },
+    "ShowTagsList": {
+        "message": "Abrir Tags",
+        "description": ""
+    },
     "TIP_MarkedForToday": {
         "message": "Marcada para Hoje. Clique para mudar.",
         "description": ""
@@ -421,6 +481,10 @@
     },
     "Tuesday": {
         "message": "Terça",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Deletar Projeto",
         "description": ""
     },
     "Project": {
