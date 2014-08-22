@@ -3,12 +3,20 @@
         "message": "Követés",
         "description": ""
     },
+    "WriteAComment": {
+        "message": "Megjegyzés írása",
+        "description": ""
+    },
     "TIP_RecentlyViewed": {
         "message": "Nemrég megnézett",
         "description": ""
     },
     "TIP_HideCompletedTasks": {
         "message": "Kész feladatok elrejtése",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "TAGOK",
         "description": ""
     },
     "All": {
@@ -39,6 +47,10 @@
         "message": "Jegyzet hozzáadása",
         "description": ""
     },
+    "Calendar": {
+        "message": "Naptár",
+        "description": ""
+    },
     "LogOut": {
         "message": "Kijelentkezés",
         "description": ""
@@ -55,12 +67,20 @@
         "message": "Határidő",
         "description": ""
     },
+    "DuplicateProject": {
+        "message": "Projekt másolása",
+        "description": ""
+    },
     "Projects": {
         "message": "Projektek",
         "description": ""
     },
     "Unfollow": {
         "message": "Nem követem",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Név vagy email",
         "description": ""
     },
     "MakePriorityHeading": {
@@ -111,6 +131,10 @@
         "message": "Minden megnyitása",
         "description": ""
     },
+    "Expand": {
+        "message": "Kinyit",
+        "description": ""
+    },
     "AddFollowers": {
         "message": "követők hozzáadása",
         "description": ""
@@ -121,7 +145,7 @@
     },
     "ACT_MarkedToday": {
         "message": "mára tervezve",
-        "description": "SOmeone marked the task for today"
+        "description": "Someone marked the task for today"
     },
     "ACT_ChangedDueDate": {
         "message": "határidő megváltoztatva",
@@ -131,9 +155,17 @@
         "message": "Szombat",
         "description": ""
     },
+    "MoreProjects": {
+        "message": "Több projekt",
+        "description": ""
+    },
     "Later": {
         "message": "Később",
         "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "megváltoztatta a leírást.",
+        "description": "Someone changed the description."
     },
     "Tags": {
         "message": "Tag-ek",
@@ -143,8 +175,16 @@
         "message": "Szüntesd meg a követést, ha nem akarsz értesítést kapni.",
         "description": ""
     },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
     "AddTask": {
         "message": "Feladat hozzásadása",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Címke lista elrejtése",
         "description": ""
     },
     "AssignToMe": {
@@ -203,17 +243,45 @@
         "message": "feladat elkészítve",
         "description": "Someone created the task"
     },
+    "ArchiveProject": {
+        "message": "Projekt archiválása",
+        "description": ""
+    },
     "TIP_RemoveFollower": {
         "message": "Követő eltávolítása",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "Résztvevő meghívása",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Mutasson kevesebbet",
+        "description": ""
+    },
+    "List": {
+        "message": "Lista",
         "description": ""
     },
     "MarkComplete": {
         "message": "Készként jelöl",
         "description": ""
     },
+    "NothingSelected": {
+        "message": "Semmi nincs kiválasztva",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Duplikált feladatok összevonása",
+        "description": ""
+    },
     "UpgradeWorkspace": {
         "message": "Munkaállomás fejlesztése",
         "description": ""
+    },
+    "ShowRecents": {
+        "message": "Mutassa a legutolsókat...",
+        "description": "Leave the three dots ..."
     },
     "EditWorkspaceSettings": {
         "message": "Munkaállomás beállításainak módosítása",
@@ -235,8 +303,16 @@
         "message": "Feladat törlése",
         "description": ""
     },
+    "ShareWithAnotherPerson": {
+        "message": "Megosztás mással",
+        "description": ""
+    },
     "MarkIncomplete": {
         "message": "Még nincs kész",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Új szekció",
         "description": ""
     },
     "ViewProjectsTagsPeople": {
@@ -255,12 +331,24 @@
         "message": "hozzáadva",
         "description": "Someone added the task to..."
     },
+    "OpenDetails": {
+        "message": "Részletek megjelenítése",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Megjegyzés",
+        "description": "Comment button for adding a comment"
+    },
     "PEOPLE": {
         "message": "EMBEREK",
         "description": ""
     },
     "AddPerson": {
         "message": "Személy hozzáadása",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Szívek",
         "description": ""
     },
     "Friday": {
@@ -271,8 +359,24 @@
         "message": "Feladatok és főcímek készítése",
         "description": ""
     },
+    "ACT_AddedSubtask": {
+        "message": "Alfeladat hozzáadása a feladathoz",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "Nyomtatás",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "Feladat létrehozása email-en keresztül",
+        "description": ""
+    },
     "TIP_MarkedForUpcoming": {
         "message": "Később-nek jelölve. Klikk a változtatásért.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Másolat készítése",
         "description": ""
     },
     "AddToProject": {
@@ -303,6 +407,10 @@
         "message": "Archivált projektek elrejtése",
         "description": ""
     },
+    "ACT_Attached": {
+        "message": "csatolt",
+        "description": "Someone attached something to the task..."
+    },
     "MyTasks": {
         "message": "Feladataim",
         "description": ""
@@ -323,6 +431,10 @@
         "message": "Megosztás",
         "description": "Note that changing that to a longer string will make the interface break."
     },
+    "Help": {
+        "message": "Segítség",
+        "description": ""
+    },
     "ACT_AssignedTo": {
         "message": "felelőssé tette",
         "description": "Someone assigned the task to..."
@@ -330,6 +442,18 @@
     "ACT_AddedAttachment": {
         "message": "csatolmány hozzáadva",
         "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "leírást adott hozzá.",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Visszajelzés",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "Címke lista megjelenítése",
+        "description": ""
     },
     "TIP_MarkedForToday": {
         "message": "Mára tervezve. Klikk a változtatásért.",
@@ -343,6 +467,10 @@
         "message": "projekt létrehozva",
         "description": "Someone created the project"
     },
+    "ACT_RemovedDueDate": {
+        "message": "eltávolította a határidőt",
+        "description": "Someone removed due date///"
+    },
     "ACT_MarkedIncomplete": {
         "message": "Jelölve: Még nincs kész",
         "description": ""
@@ -353,6 +481,10 @@
     },
     "Tuesday": {
         "message": "Kedd",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Projekt törlése",
         "description": ""
     },
     "Project": {
@@ -385,6 +517,6 @@
     },
     "PROJECTS": {
         "message": "PROJEKTEK",
-        "description": "Note that exceding this size will make the interface brea."
+        "description": "Note that exceding this size will make the interface break."
     }
 }
