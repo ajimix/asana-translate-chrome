@@ -3,6 +3,10 @@
         "message": "ติดตาม",
         "description": ""
     },
+    "WriteAComment": {
+        "message": "เขียนความคิดเห็น",
+        "description": ""
+    },
     "TIP_RecentlyViewed": {
         "message": "ดูล่าสุด",
         "description": ""
@@ -28,7 +32,7 @@
         "description": ""
     },
     "ACT_UnmarkedToday": {
-        "message": "นำออกจากวันนี้แล้ว",
+        "message": "เอางานนี้ออกจากวันนี้แล้ว",
         "description": "Someone unmarked the task from today"
     },
     "ShowArchivedTasks": {
@@ -40,7 +44,11 @@
         "description": ""
     },
     "AddNotes": {
-        "message": "เพิ่มโน้ต",
+        "message": "เพิ่มบันทึก",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "ปฏิทิน",
         "description": ""
     },
     "LogOut": {
@@ -59,6 +67,10 @@
         "message": "วันครบกำหนด",
         "description": ""
     },
+    "DuplicateProject": {
+        "message": "โครงการซ้ำ",
+        "description": ""
+    },
     "Projects": {
         "message": "โครงการ",
         "description": ""
@@ -72,19 +84,19 @@
         "description": ""
     },
     "MakePriorityHeading": {
-        "message": "Make Priority Heading",
+        "message": "ทำเครื่องหมายให้เป็นหัวข้อสำคัญ",
         "description": ""
     },
     "AttachFile": {
-        "message": "แนบไฟล์",
+        "message": "ไฟล์แนบ",
         "description": ""
     },
     "More": {
-        "message": "เพิ่มเติม",
+        "message": "เพิ่มเติม...",
         "description": ""
     },
     "NewPriorityHeading": {
-        "message": "New Priority Heading",
+        "message": "สร้างหัวข้อสำคัญใหม่",
         "description": ""
     },
     "Yesterday": {
@@ -116,7 +128,11 @@
         "description": ""
     },
     "ExpandAll": {
-        "message": "แสดงทั้งหมด",
+        "message": "ขยายทั้งหมด",
+        "description": ""
+    },
+    "Expand": {
+        "message": "ขยาย",
         "description": ""
     },
     "AddFollowers": {
@@ -124,12 +140,12 @@
         "description": ""
     },
     "TIP_FollowTask": {
-        "message": "ติดตามงานเพื่อรับการแจ้งเตือน",
+        "message": "ติดตามงานนี้หากต้องการการแจ้งเตือน",
         "description": ""
     },
     "ACT_MarkedToday": {
-        "message": "ทำเครื่องหมายว่าเป็นวันนี้",
-        "description": "SOmeone marked the task for today"
+        "message": "ได้กำหนดงานเป็นวันนี้",
+        "description": "Someone marked the task for today"
     },
     "ACT_ChangedDueDate": {
         "message": "เปลี่ยนวันครบกำหนดแล้ว",
@@ -144,11 +160,11 @@
         "description": ""
     },
     "Later": {
-        "message": "ทีหลัง",
+        "message": "ภายหลัง",
         "description": ""
     },
     "ACT_ChangedDescription": {
-        "message": "ได้เปลี่ยนแปลงรายละเอียด",
+        "message": "ได้เปลี่ยนแปลงคำอธิบาย",
         "description": "Someone changed the description."
     },
     "Tags": {
@@ -159,8 +175,16 @@
         "message": "เลิกติดตามงานนี้เพื่กยกเลิกการแจ้งเตือน",
         "description": ""
     },
+    "ICal": {
+        "message": "โปรแกรม iCal",
+        "description": ""
+    },
     "AddTask": {
         "message": "เพิ่มงาน",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "ซ่อนรายการป้าย",
         "description": ""
     },
     "AssignToMe": {
@@ -180,7 +204,7 @@
         "description": ""
     },
     "ACT_RemovedFrom": {
-        "message": "ได้ลบจาก",
+        "message": "ได้ลบงานจาก",
         "description": "Someone removed the task from..."
     },
     "Upcoming": {
@@ -216,15 +240,27 @@
         "description": ""
     },
     "ACT_CreatedTask": {
-        "message": "งานได้ถูกสร้าง",
+        "message": "ได้สร้างงานใหม่แล้ว",
         "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "เก็บโครงการ",
+        "description": ""
     },
     "TIP_RemoveFollower": {
         "message": "ลบผู้ติดตาม",
         "description": ""
     },
+    "InvitePeople": {
+        "message": "เชิญผู้คน",
+        "description": ""
+    },
     "ShowLess": {
-        "message": "ซ่อน",
+        "message": "แสดงให้น้อยสุด",
+        "description": ""
+    },
+    "List": {
+        "message": "รายการ",
         "description": ""
     },
     "MarkComplete": {
@@ -232,7 +268,11 @@
         "description": ""
     },
     "NothingSelected": {
-        "message": "ไม่ได้เลือก",
+        "message": "ยังไม่มีการเลือก",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "รวมงานที่ชื่อซ้ำกัน",
         "description": ""
     },
     "UpgradeWorkspace": {
@@ -240,7 +280,7 @@
         "description": ""
     },
     "ShowRecents": {
-        "message": "แสดงล่าสุด..",
+        "message": "แสดงล่าสุด...",
         "description": "Leave the three dots ..."
     },
     "EditWorkspaceSettings": {
@@ -272,7 +312,7 @@
         "description": ""
     },
     "NewSection": {
-        "message": "สร้างหมวดใหม่",
+        "message": "สร้างหมวดหมู่ใหม่",
         "description": ""
     },
     "ViewProjectsTagsPeople": {
@@ -288,15 +328,23 @@
         "description": ""
     },
     "ACT_AddedTo": {
-        "message": "เพิ่มไปยัง",
+        "message": "เพิ่มงานไปยัง",
         "description": "Someone added the task to..."
     },
+    "OpenDetails": {
+        "message": "เปิดรายละเอียด",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "ความคิดเห็น",
+        "description": "Comment button for adding a comment"
+    },
     "PEOPLE": {
-        "message": "คน",
+        "message": "ผู้คน",
         "description": ""
     },
     "AddPerson": {
-        "message": "เพิ่มคน",
+        "message": "เพิ่มผู้คน",
         "description": ""
     },
     "Hearts": {
@@ -312,15 +360,23 @@
         "description": ""
     },
     "ACT_AddedSubtask": {
-        "message": "เพิ่มงานย่อย",
+        "message": "ได้เพิ่มงานย่อย",
         "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "พิมพ์",
+        "description": ""
     },
     "AddTasksByEmail": {
         "message": "เพิ่มงานจากอีเมล",
         "description": ""
     },
     "TIP_MarkedForUpcoming": {
-        "message": "ได้เลือกเป็น \"เร็วๆ นี้\", คลิกเพื่อเปลี่ยน",
+        "message": "ทำเครื่องหมายว่าเร็วๆนี้แล้ว, คลิกเพื่อเปลี่ยน",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "ทำการคัดลอก",
         "description": ""
     },
     "AddToProject": {
@@ -344,11 +400,11 @@
         "description": ""
     },
     "ActivityFeed": {
-        "message": "แสดงกิจกรรม",
+        "message": "กิจกรรม",
         "description": ""
     },
     "HideArchivedProjects": {
-        "message": "โครงการที่เก็บไว้",
+        "message": "ซ่อนโครงการที่เก็บไว้",
         "description": ""
     },
     "ACT_Attached": {
@@ -360,7 +416,7 @@
         "description": ""
     },
     "Completed": {
-        "message": "เสร็จ",
+        "message": "เสร็จสมบูรณ์",
         "description": ""
     },
     "ShowArchivedProjects": {
@@ -368,7 +424,7 @@
         "description": ""
     },
     "Wednesday": {
-        "message": "วันพุทธ",
+        "message": "วันพุธ",
         "description": ""
     },
     "Share": {
@@ -388,15 +444,19 @@
         "description": "Someone added an attachment to the task"
     },
     "ACT_AddedDescription": {
-        "message": "ได้เพิ่มรายละเอียด",
+        "message": "ได้เพิ่มคำอธิบาย",
         "description": "Someone added a description."
     },
     "Feedback": {
         "message": "ข้อเสนอแนะ",
         "description": ""
     },
+    "ShowTagsList": {
+        "message": "แสดงรายการป้าย",
+        "description": ""
+    },
     "TIP_MarkedForToday": {
-        "message": "ได้เลือกเป็น \"วันนี้\", คลิกเพื่อนเปลี่ยน",
+        "message": "ทำเครื่องหมายเป็นวันนี้แล้ว, คลิกเพื่อนเปลี่ยน",
         "description": ""
     },
     "TABS": {
@@ -404,11 +464,11 @@
         "description": ""
     },
     "ACT_CreatedProject": {
-        "message": "ได้สร้างโครงการ",
+        "message": "ได้สร้างโครงการแล้ว",
         "description": "Someone created the project"
     },
     "ACT_RemovedDueDate": {
-        "message": "ลบวันครบกำหนด",
+        "message": "ได้ลบวันครบกำหนด",
         "description": "Someone removed due date///"
     },
     "ACT_MarkedIncomplete": {
@@ -416,11 +476,15 @@
         "description": ""
     },
     "CloseDetails": {
-        "message": "ซ่อนรายละเอียด",
+        "message": "ปิดรายละเอียด",
         "description": ""
     },
     "Tuesday": {
         "message": "วันอังคาร",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "ลบโครงการ",
         "description": ""
     },
     "Project": {
@@ -428,7 +492,7 @@
         "description": ""
     },
     "ACT_MovedFrom": {
-        "message": "ได้ย้ายมาจาก",
+        "message": "ได้ย้ายงานมาจาก",
         "description": "Someone moved the task from"
     },
     "NewItem": {
@@ -436,7 +500,7 @@
         "description": ""
     },
     "QuickAdd": {
-        "message": "เพิ่ม",
+        "message": "เพิ่มด่วน",
         "description": ""
     },
     "NewWorkspace": {
