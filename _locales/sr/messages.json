@@ -3,6 +3,10 @@
         "message": "Prati",
         "description": ""
     },
+    "WriteAComment": {
+        "message": "Napiši Komentar",
+        "description": ""
+    },
     "TIP_RecentlyViewed": {
         "message": "Skoro Pregledani",
         "description": ""
@@ -43,6 +47,10 @@
         "message": "Dodaj Beleške",
         "description": ""
     },
+    "Calendar": {
+        "message": "Kalendar",
+        "description": ""
+    },
     "LogOut": {
         "message": "Izloguj se",
         "description": ""
@@ -57,6 +65,10 @@
     },
     "DueDate": {
         "message": "Rok",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Dupliraj Projekat",
         "description": ""
     },
     "Projects": {
@@ -119,6 +131,10 @@
         "message": "Proširi Sve",
         "description": ""
     },
+    "Expand": {
+        "message": "Proširi",
+        "description": ""
+    },
     "AddFollowers": {
         "message": "dodaj pratioce",
         "description": ""
@@ -129,7 +145,7 @@
     },
     "ACT_MarkedToday": {
         "message": "označeno za danas",
-        "description": "SOmeone marked the task for today"
+        "description": "Someone marked the task for today"
     },
     "ACT_ChangedDueDate": {
         "message": "je promenio rok",
@@ -159,8 +175,16 @@
         "message": "Prestani da pratiš zadatak da prestaneš da dobijaš poruke.",
         "description": ""
     },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
     "AddTask": {
         "message": "Dodaj Zadatak",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Sakrij Listu Tagova",
         "description": ""
     },
     "AssignToMe": {
@@ -219,12 +243,24 @@
         "message": "je kreirao zadatak",
         "description": "Someone created the task"
     },
+    "ArchiveProject": {
+        "message": "Arhiviraj Projekat",
+        "description": ""
+    },
     "TIP_RemoveFollower": {
         "message": "Ukloni pratioca",
         "description": ""
     },
+    "InvitePeople": {
+        "message": "Pozovi Ljude",
+        "description": ""
+    },
     "ShowLess": {
         "message": "Prikaži manje",
+        "description": ""
+    },
+    "List": {
+        "message": "Lista",
         "description": ""
     },
     "MarkComplete": {
@@ -233,6 +269,10 @@
     },
     "NothingSelected": {
         "message": "Ništa nije Izabrano",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Spoji Duplirane Zadatke",
         "description": ""
     },
     "UpgradeWorkspace": {
@@ -291,6 +331,14 @@
         "message": "je dodao u",
         "description": "Someone added the task to..."
     },
+    "OpenDetails": {
+        "message": "Otvori Detalje",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Komentariši",
+        "description": "Comment button for adding a comment"
+    },
     "PEOPLE": {
         "message": "OSOBE",
         "description": ""
@@ -315,12 +363,20 @@
         "message": "je dodao podzadak zadatku",
         "description": "Someone added a subtask to the task..."
     },
+    "Print": {
+        "message": "Štampaj",
+        "description": ""
+    },
     "AddTasksByEmail": {
         "message": "Dodaj zadatke email-om",
         "description": ""
     },
     "TIP_MarkedForUpcoming": {
         "message": "Označeno kao Nadolazeće. Klikni da promeniš.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Napravi Kopiju",
         "description": ""
     },
     "AddToProject": {
@@ -395,6 +451,10 @@
         "message": "Povratna informacija",
         "description": ""
     },
+    "ShowTagsList": {
+        "message": "Prikaži Listu Tagova",
+        "description": ""
+    },
     "TIP_MarkedForToday": {
         "message": "Označeno za danas. Klikni da promeniš.",
         "description": ""
@@ -421,6 +481,10 @@
     },
     "Tuesday": {
         "message": "Utorak",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Izbriši Projekat",
         "description": ""
     },
     "Project": {
