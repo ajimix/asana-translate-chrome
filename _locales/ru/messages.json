@@ -518,5 +518,346 @@
     "PROJECTS": {
         "message": "ПРОЕКТЫ",
         "description": "Note that exceding this size will make the interface break."
-    }
+    },
+    
+	  "Personal projects": {
+      	"message": "Персональные проекты",
+        "description": ""
+	 },
+	 "My overview": {
+      	"message": "Обзор",
+        "description": ""
+	 },
+	 "RECOMMENDED VIEWS": {
+      	"message": "Рекомендуемые страницы",
+        "description": ""
+	 },
+	 "Tasks to do": {
+      	"message": "Задачи в работу",
+        "description": ""
+	 },
+	 "Recently Completed Tasks": {
+      	"message": "Недавно законченные задачи",
+        "description": ""
+	 },
+	 "Tasks By Project": {
+      	"message": "Задачи по проектам",
+        "description": ""
+	 },
+	 "Tasks by Due Date": {
+      	"message": "Задачи, отсортированные по времени истечения",
+        "description": ""
+	 },
+	 "Save as Default View for Everyone": {
+      	"message": "Сохранить как невыполненную для всех",
+        "description": ""
+	 },
+	 "Filter and Customize View": {
+      	"message": "Фильтр и индивидуальный просмотр",
+        "description": ""
+	 },
+	 "Intro to Asana": {
+      	"message": "Введение в Асану",
+        "description": ""
+	 },
+	 "Teamwork Without Email": {
+      	"message": "Работа команды без email",
+        "description": ""
+	 },
+	 "Set Goals with Calendars": {
+      	"message": "Связять задачи с календарем",
+        "description": ""
+	 },
+	 "Plan Your Day": {
+      	"message": "Спланируй свой день",
+        "description": ""
+	 },
+	 "Plan&Run Meetings": {
+      	"message": "Встречи",
+        "description": ""
+	 },
+	 "My Project Color": {
+      	"message": "Цвет проекта",
+        "description": ""
+	 },
+	 "Remove color": {
+      	"message": "Удалить цвет",
+        "description": ""
+	 },
+	 "More": {
+      	"message": "Больше",
+        "description": ""
+	 },
+	 "Integrations": {
+      	"message": "Интеграция",
+        "description": ""
+	 },
+	 "Jobs": {
+      	"message": "Работа",
+        "description": ""
+	 },
+	 "About": {
+      	"message": "О продукте",
+        "description": ""
+	 },
+	 "Contact": {
+      	"message": "Контакты",
+        "description": ""
+	 },
+	 "Terms": {
+      	"message": "Правила",
+        "description": ""
+	 },
+	 "Privacy ": {
+      	"message": "Политика конфиденциальности",
+        "description": ""
+	 },
+	 "Get started with a project": {
+      	"message": "Начните с создания проекта",
+        "description": ""
+	 },
+	 "APPLICATION": {
+      	"message": "Приложение",
+        "description": ""
+	 },
+	 "Quick Add Task": {
+      	"message": "Быстро добавить задачу",
+        "description": ""
+	 },
+	 "Search for a project, tag, person, or task": {
+      	"message": "Поиск проекта, тэга, сотрудника или задачи",
+        "description": ""
+	 },
+	 "Show Keyboard Shortcuts": {
+      	"message": "Горячие клавиши",
+        "description": ""
+	 },
+	 "TASK LIST": {
+      	"message": "Список задач",
+        "description": ""
+	 },
+	 "Create New Task": {
+      	"message": "Создать новую задачу",
+        "description": ""
+	 },
+	 "Create a section by adding a colon at the end of a task name": {
+      	"message": "Создать секцию, добавив двоеточие в конце задачи",
+        "description": ""
+	 },
+	 "Delete Selected Task(s)": {
+      	"message": "Удалить выбранную задачу(и)",
+        "description": ""
+	 },
+	 "(or: backspace when task name is empty)": {
+      	"message": "(или: пробел когда название задачи пустое)",
+        "description": ""
+	 },
+	 "Complete Selected Task(s)": {
+      	"message": "Закончить выбранные задачи",
+        "description": ""
+	 },
+	 "Assign to Me": {
+      	"message": "Закрепить за мной",
+        "description": ""
+	 },
+	 "Selected Task": {
+      	"message": "Избранные задачи",
+        "description": ""
+	 },
+	 "Mark as Today": {
+      	"message": "Сделать сегодня",
+        "description": ""
+	 },
+	 "Mark as Upcoming": {
+      	"message": "Поставить в очередь",
+        "description": ""
+	 },
+	 "Mark as Later": {
+      	"message": "Сделать позже",
+        "description": ""
+	 },
+	 "Close Task Panel": {
+      	"message": "Закрыть панель задач",
+        "description": ""
+	 },
+	 "Open Task Panel": {
+      	"message": "Открыть панель задач",
+        "description": ""
+	 },
+	 "Change Selection": {
+      	"message": "Изменить выбор",
+        "description": ""
+	 },
+	 "Jump Up/Down to the next section": {
+      	"message": "Выше/ниже к следующей секции",
+        "description": ""
+	 },
+	 "Move Up/Down": {
+      	"message": "Перейти выше/ниже",
+        "description": ""
+	 },
+	 "Multi-select Individual Task": {
+      	"message": "Множественный выбор индивидуальных задач",
+        "description": ""
+	 },
+	 "Select Range": {
+      	"message": "Выбрать диапазон",
+        "description": ""
+	 },
+	 "Copy Multi-Selected Tasks": {
+      	"message": "Копировать несколько выбранных задач",
+        "description": ""
+	 },
+	 "Paste Tasks (One per line)": {
+      	"message": "Вставить задачи (одна задача-одна строка)",
+        "description": ""
+	 },
+	 "TASK PANE": {
+      	"message": "ПАНЕЛЬ ЗАДАЧ",
+        "description": ""
+	 },
+	 "Jump to Comment Field": {
+      	"message": "Перейти в поле комментариев",
+        "description": ""
+	 },
+	 "Assign Selected Task": {
+      	"message": "Назначить выбранные задачи",
+        "description": ""
+	 },
+	 "Set Due Date": {
+      	"message": "Установить дату выполнения",
+        "description": ""
+	 },
+	 "Add Follower": {
+      	"message": "Добавить подписчика",
+        "description": ""
+	 },
+	 "Add Project": {
+      	"message": "Добавить проект",
+        "description": ""
+	 },
+	 "Add Tag": {
+      	"message": "Добаить тэг",
+        "description": ""
+	 },
+	 "Focus Subtasks": {
+      	"message": "Перейти к подзадаче",
+        "description": ""
+	 },
+	 "Jump to the task list": {
+      	"message": "Перейти к списку задач",
+        "description": ""
+	 },
+	 "Full Screen Task Pane": {
+      	"message": "Вывести панель задач на полный экран",
+        "description": ""
+	 },
+	 "TEXT FORMATTING": {
+      	"message": "Форматирование текста",
+        "description": ""
+	 },
+	 "Bold": {
+      	"message": "Полужирное начертание",
+        "description": ""
+	 },
+	 "Italic": {
+      	"message": "Курсив",
+        "description": ""
+	 },
+	 "Underline": {
+      	"message": "Подчеркивание",
+        "description": ""
+	 },
+	 "Monospace": {
+      	"message": "Моноширинный шрифт",
+        "description": ""
+	 },
+	 "Numbered List": {
+      	"message": "Нумерованный список",
+        "description": ""
+	 },
+	 "Bulleted List": {
+      	"message": "Маркированный список",
+        "description": ""
+	 },
+	 "Increase Indent": {
+      	"message": "Увеличить отступ",
+        "description": ""
+	 },
+	 "Decrease Indent": {
+      	"message": "Уменьшить отступ",
+        "description": ""
+	 },
+	 "Hide Read Items": {
+      	"message": "Скрыть прочитанные письма",
+        "description": ""
+	 },
+	 "Show Read Items": {
+      	"message": "Показать прочитанные письма",
+        "description": ""
+	 },
+	 "Follow or Unfollow": {
+      	"message": "Подписаться или отписаться",
+        "description": ""
+	 },
+	 "Keep Unread": {
+      	"message": "Оставить непрочитанным",
+        "description": ""
+	 },
+	 "Stop Keeping Unread": {
+      	"message": "Перевести в прочитанное",
+        "description": ""
+	 },
+	 "No new messages in your Inbox": {
+      	"message": "Нет новых сообщений",
+        "description": ""
+	 },
+	 "Activity on tasks and projects you're following will appear here": {
+      	"message": "Активность по задачам и проектам, на которые вы подписаны, будет отображаться здесь",
+        "description": ""
+	 },
+	 "Mark All as Read": {
+      	"message": "Пометить все как прочитанное",
+        "description": ""
+	 },
+	 "Hide Read Messages": {
+      	"message": "Скрыть прочитанные сообщения",
+        "description": ""
+	 },
+      "Find Tasks": {
+      	"message": "Найти задачи",
+        "description": ""
+	 },
+	  "Contains the words": {
+      	"message": "Содержит слова",
+        "description": ""
+	 },
+	  "assigned to": {
+      	"message": "назначена для",
+        "description": ""
+	 },
+	  "In projects and sections": {
+      	"message": "В проектах и секциях",
+        "description": ""
+	 },
+	  "Tagged with": {
+      	"message": "Помеченный тэгом",
+        "description": ""
+	 },
+	  "Attachments Only ": {
+      	"message": "Только с вложениями",
+        "description": ""
+	 },
+	  "Any": {
+      	"message": "Любой",
+        "description": ""
+	 },
+	  "Completed": {
+      	"message": "Закончена",
+        "description": ""
+	 },
+	  "Incomplete": {
+      	"message": "Не завершена",
+        "description": ""
+	 }
 }
