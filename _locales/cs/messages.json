@@ -3,6 +3,10 @@
         "message": "Sledovat",
         "description": ""
     },
+    "WriteAComment": {
+        "message": "Napsat komentář",
+        "description": ""
+    },
     "TIP_RecentlyViewed": {
         "message": "Nedávno shlédnuto",
         "description": ""
@@ -43,6 +47,10 @@
         "message": "Přidat poznámky",
         "description": ""
     },
+    "Calendar": {
+        "message": "Kalendář",
+        "description": ""
+    },
     "LogOut": {
         "message": "Odhlásit se",
         "description": ""
@@ -57,6 +65,10 @@
     },
     "DueDate": {
         "message": "Termín",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Kopírovat projekt",
         "description": ""
     },
     "Projects": {
@@ -119,6 +131,10 @@
         "message": "Vše rozbalit",
         "description": ""
     },
+    "Expand": {
+        "message": "Rozbalit",
+        "description": ""
+    },
     "AddFollowers": {
         "message": "přidat účastníky",
         "description": ""
@@ -129,7 +145,7 @@
     },
     "ACT_MarkedToday": {
         "message": "označeno na dnešek",
-        "description": "SOmeone marked the task for today"
+        "description": "Someone marked the task for today"
     },
     "ACT_ChangedDueDate": {
         "message": "změnil/a termín",
@@ -159,8 +175,16 @@
         "message": "Ukončit sledování úkolu a zastavit tak příjem zpráv.",
         "description": ""
     },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
     "AddTask": {
         "message": "Přidat úkol",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Skrýt seznam tagů",
         "description": ""
     },
     "AssignToMe": {
@@ -219,12 +243,24 @@
         "message": "vytvořil/a úkol",
         "description": "Someone created the task"
     },
+    "ArchiveProject": {
+        "message": "Archivovat projekt",
+        "description": ""
+    },
     "TIP_RemoveFollower": {
         "message": "Odstranit účastníka",
         "description": ""
     },
+    "InvitePeople": {
+        "message": "Pozvat osoby",
+        "description": ""
+    },
     "ShowLess": {
         "message": "Zobraz méně",
+        "description": ""
+    },
+    "List": {
+        "message": "Seznam",
         "description": ""
     },
     "MarkComplete": {
@@ -233,6 +269,10 @@
     },
     "NothingSelected": {
         "message": "Nic není vybráno",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Spojit duplikované úkoly",
         "description": ""
     },
     "UpgradeWorkspace": {
@@ -291,6 +331,14 @@
         "message": "přidal/a do",
         "description": "Someone added the task to..."
     },
+    "OpenDetails": {
+        "message": "Otevřít detaily",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Komentář",
+        "description": "Comment button for adding a comment"
+    },
     "PEOPLE": {
         "message": "LIDÉ",
         "description": ""
@@ -315,12 +363,20 @@
         "message": "Přidán podúkol do úkolu",
         "description": "Someone added a subtask to the task..."
     },
+    "Print": {
+        "message": "Tisk",
+        "description": ""
+    },
     "AddTasksByEmail": {
         "message": "Přidejte úkol pomocí emailu",
         "description": ""
     },
     "TIP_MarkedForUpcoming": {
         "message": "Označeno za Nadcházející. Kliknutím změňte.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Vytvořit kopii",
         "description": ""
     },
     "AddToProject": {
@@ -395,6 +451,10 @@
         "message": "Feedback",
         "description": ""
     },
+    "ShowTagsList": {
+        "message": "Zobraz seznam tagů",
+        "description": ""
+    },
     "TIP_MarkedForToday": {
         "message": "Označeno na Dnešek. Kliknutím změňte.",
         "description": ""
@@ -421,6 +481,10 @@
     },
     "Tuesday": {
         "message": "Úterý",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Smazat projekt",
         "description": ""
     },
     "Project": {
