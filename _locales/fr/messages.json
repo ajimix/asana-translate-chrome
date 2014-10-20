@@ -3,6 +3,10 @@
         "message": "Suivre",
         "description": ""
     },
+    "WriteAComment": {
+        "message": "Écrire un commentaire",
+        "description": ""
+    },
     "TIP_RecentlyViewed": {
         "message": "Vue récemment",
         "description": ""
@@ -43,6 +47,10 @@
         "message": "Ajouter des notes",
         "description": ""
     },
+    "Calendar": {
+        "message": "Calendrier",
+        "description": ""
+    },
     "LogOut": {
         "message": "Déconnexion",
         "description": ""
@@ -57,6 +65,10 @@
     },
     "DueDate": {
         "message": "Échéance",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Dupliquer le projet",
         "description": ""
     },
     "Projects": {
@@ -119,6 +131,10 @@
         "message": "Tout montrer",
         "description": ""
     },
+    "Expand": {
+        "message": "Agrandir",
+        "description": ""
+    },
     "AddFollowers": {
         "message": "ajouter des abonnés",
         "description": ""
@@ -129,7 +145,7 @@
     },
     "ACT_MarkedToday": {
         "message": "Pour aujourd’hui",
-        "description": "SOmeone marked the task for today"
+        "description": "Someone marked the task for today"
     },
     "ACT_ChangedDueDate": {
         "message": "a modifié l’échéance",
@@ -159,8 +175,16 @@
         "message": "Ne plus suivre la tâche pour ne plus recevoir de messages.",
         "description": ""
     },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
     "AddTask": {
         "message": "Ajouter une tâche",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Masquer la liste des mots-clés",
         "description": ""
     },
     "AssignToMe": {
@@ -219,12 +243,24 @@
         "message": "tâche créée",
         "description": "Someone created the task"
     },
+    "ArchiveProject": {
+        "message": "Archiver le projet",
+        "description": ""
+    },
     "TIP_RemoveFollower": {
         "message": "Retirer l’abonné",
         "description": ""
     },
+    "InvitePeople": {
+        "message": "Inviter des personnes",
+        "description": ""
+    },
     "ShowLess": {
         "message": "Masquer",
+        "description": ""
+    },
+    "List": {
+        "message": "Liste",
         "description": ""
     },
     "MarkComplete": {
@@ -233,6 +269,10 @@
     },
     "NothingSelected": {
         "message": "Aucun élément sélectionné",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Fusionner les tâches en double",
         "description": ""
     },
     "UpgradeWorkspace": {
@@ -291,6 +331,14 @@
         "message": "ajoutée à",
         "description": "Someone added the task to..."
     },
+    "OpenDetails": {
+        "message": "Afficher les détails",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Commenter",
+        "description": "Comment button for adding a comment"
+    },
     "PEOPLE": {
         "message": "PERSONNES",
         "description": ""
@@ -315,12 +363,20 @@
         "message": "a ajouter une sous-tâche",
         "description": "Someone added a subtask to the task..."
     },
+    "Print": {
+        "message": "Imprimer",
+        "description": ""
+    },
     "AddTasksByEmail": {
         "message": "Ajouter une tâche par courriel",
         "description": ""
     },
     "TIP_MarkedForUpcoming": {
         "message": "Pour bientôt. Cliquer pour changer.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Faire une copie",
         "description": ""
     },
     "AddToProject": {
@@ -395,6 +451,10 @@
         "message": "Retours",
         "description": ""
     },
+    "ShowTagsList": {
+        "message": "Afficher la liste des mots-clés",
+        "description": ""
+    },
     "TIP_MarkedForToday": {
         "message": "Pou aujourd’hui. Cliquer pour changer.",
         "description": ""
@@ -421,6 +481,10 @@
     },
     "Tuesday": {
         "message": "mardi",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Supprimer le projet",
         "description": ""
     },
     "Project": {
