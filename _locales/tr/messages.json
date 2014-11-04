@@ -1,116 +1,522 @@
 {
-	"__comment": { "message": "This strings are used for comments, refer to: http://stackoverflow.com/questions/244777/can-i-comment-a-json-file" },
-	"__comment": { "message": "Turkish Translation" },
-
-	"__comment": { "message": "Left menu" },
-	"Search": { "message": "Ara" },
-	"MyTasks": { "message": "Görevlerim" },
-	"My_Tasks": { "message": "Görevlerim" },
-	"Tasks": { "message": "Görevler" },
-	"PROJECTS": { "message": "PROJELER" },
-	"TABS": { "message": "SEKMELER" },
-	"PEOPLE": { "message": "KİŞİLER" },
-	"InviteManageMembers": { "message": "Üyeleri Davet Et ve Yönet" },
-	"EditWorkspaceSettings": { "message": "Çalışma Alanı Ayarları" },
-	"RemoveMeFromWorkspace": { "message": "Beni Çalışma Alanından Çıkar" },
-	"UpgradeWorkspace": { "message": "Çalışma Alanı Yükselt" },
-	"ShowArchivedProjects": { "message": "Arşivlenmiş Projeleri Göster" },
-	"HideArchivedProjects": { "message": "Arşivlenmiş Projeleri Gizle" },
-	"AccountSettings": { "message": "Hesap Ayarları" },
-	"NewWorkspace": { "message": "Yeni Çalışma Alanı" },
-	"LogOut": { "message": "Çıkış" },
-	"ViewProjectsTagsPeople": { "message": "Proje Etiketleri ve Kişileri Göster" },
-	"LEFT_NewProject": { "message": "Yeni Proje" },
-	"AddPerson": { "message": "Kişi Ekle" },
-	"WorkspaceOverview": { "message": "Çalışma Alanları Özeti" },
-
-	"__comment": { "message": "Task info" },
-	"MarkComplete": { "message": "Tamamlandı Yap" },
-	"MarkIncomplete": { "message": "Tamamlanmadı Yap" },
-	"Completed": { "message": "Tamamlandı" },
-	"AddNotes": { "message": "Not Ekle" },
-	"DueDate": { "message": "Bitiş Tarihi" },
-	"Tags": { "message": "Etiketler" },
-	"AttachFile": { "message": "Dosya ekle" },
-	"Assignee": { "message": "Atanan" },
-	"Projects": { "message": "Projeler" },
-	"AddToProject": { "message": "Projeye Ekle" },
-	"Followers": { "message": "Takipçiler" },
-	"AddFollowers": { "message": " Takipçi Ekle" },
-	"Follow": { "message": "Takip Et" },
-	"Unfollow": { "message": "Takip Kaldır" },
-	"DeleteTask": { "message": "Görev Sil" },
-	"MakePriorityHeading": { "message": "Başlık Yap" },
-	"NewItem": { "message": "(Yeni Öğe)" },
-	"AssignToMe": { "message": "Bana Ata" },
-	"AssignToTeammate": { "message": "Başkasına Ata" },
-	"ActivityFeed": { "message": "Aktivite Bildirimi" },
-	"Comment": { "message": "Yorum" },
-
-	"__comment": { "message": "Task activity" },
-	"ACT_CreatedTask": { "message": "görev oluşturdu" },
-	"ACT_AddedTo": { "message": "şu projeye ekledi:" },
-	"ACT_AssignedTo": { "message": "şu kişiye atadı:" },
-	"ACT_ChangedDueDate": { "message": "bitiş tarihini değiştirdi:" },
-	"ACT_AddedAttachment": { "message": "dosya ekledi:" },
-	"ACT_MarkedComplete": { "message": "tamamlandı yaptı" },
-	"ACT_MarkedIncomplete": { "message": "tamamlanmadı yaptı" },
-	"ACT_MarkedToday": { "message": "bugün olarak işaretledi" },
-	"ACT_UnmarkedToday": { "message": "bugün işaretini kaldırdı" },
-	"ACT_CreatedProject": { "message": "projesini oluşturdu:" },
-	"ACT_MovedFrom": { "message": "şuradan taşıdı:" },
-	"ACT_RemovedFrom": { "message": "şuradan kaldırdı:" },
-
-	"__comment": { "message": "Project tasks" },
-	"AddTask": { "message": "Görev Ekle" },
-	"Archive": { "message": "Arşiv" },
-	"ArchiveCompletedTasks": { "message": "Tamamlanan görevleri arşivle" },
-	"ShowArchivedTasks": { "message": "Arşivlenen görevleri göster" },
-	"HideArchivedTasks": { "message": "Arşivlenen görevleri gizle" },
-	"New": { "message": "Yeni Görev" },
-	"NewPriorityHeading": { "message": "Yeni Başlık" },
-	"Share": { "message": "Pylaş" }, "__comment": { "message": "Cannot be longer than this or will break the page..." },
-	"CollapseAll": { "message": "Tümünü daralt" },
-	"ExpandAll": { "message": "Tümünü genişlet" },
-	"Priority": { "message": "Öncelik" },
-	"Date": { "message": "Tarih" },
-	"Project": { "message": "Proje" },
-	"All": { "message": "Tüm görevler" },
-
-	"__comment": { "message": "Tips" },
-	"TIP_MarkedForUpcoming": { "message": "Yakında olarak işaretlendi. Değiştirmek için tıklayınız." },
-	"TIP_MarkedForToday": { "message": "Bugün olarak işaretlendi. Değiştirmek için tıklayınız." },
-	"TIP_CreateTasksAndHeadings": { "message": "Görevler ve başlıklar oluştur" },
-	"TIP_HideCompletedTasks": { "message": "Tamamlanan görevleri gizle" },
-	"TIP_UnfollowTask": { "message": "Görevi takip etme." },
-	"TIP_FollowTask": { "message": "Görevi takip et." },
-	"TIP_ActivityFeedInfo": { "message": "Geçmiş aktivite bilgisi." },
-	"TIP_RemoveFollower": { "message": "Takipçi kaldır" },
-	"TIP_RecentlyViewed": { "message": "Yakında görüntülenen" },
-	"TIP_MarkedFavorite": { "message": "Favori olarak işaretlenmiş" },
-
-	"__comment": { "message": "Bottom menu" },
-	"NewProject": { "message": "Yeni Proje" },
-	"NewTask": { "message": "Yeni Görev" },
-	"MoveDown": { "message": "Aşağı kaydır" },
-	"JumpDown": { "message": "Yukarı çıkar" },
-	"CloseDetails": { "message": "Detayları Kapat" },
-	"QuickAdd": { "message": "Hızlı Ekle" },
-	"More": { "message": "dahası..." },
-
-	"__comment": { "message": "Days and dates" },
-	"Today": { "message": "Bugün" },
-	"Yesterday": { "message": "Dün" },
-	"Tomorrow": { "message": "Yarın" },
-	"Upcoming": { "message": "Yakında" },
-	"Later": { "message": "Daha sonra" },
-	"LATER": { "message": "DAHA SONRA" },
-	"Monday": { "message": "Pazartesi" },
-	"Tuesday": { "message": "Salı" },
-	"Wednesday": { "message": "Çarşamba" },
-	"Thursday": { "message": "Perşembe" },
-	"Friday": { "message": "Cuma" },
-	"Saturday": { "message": "Cumartesi" },
-	"Sunday": { "message": "Pazar" }
-
+    "Follow": {
+        "message": "Takip Et",
+        "description": ""
+    },
+    "WriteAComment": {
+        "message": "Yorum Yaz",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Yakında görüntülenen",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Tamamlanan görevleri gizle",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "ÜYELER",
+        "description": ""
+    },
+    "All": {
+        "message": "Tüm görevler",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Öncelik",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Yeni Proje",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "bugün işaretini kaldırdı",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Arşivlenen görevleri göster",
+        "description": ""
+    },
+    "Date": {
+        "message": "Tarih",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Not Ekle",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "Takvim",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Çıkış",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Tümünü daralt",
+        "description": ""
+    },
+    "LATER": {
+        "message": "DAHA SONRA",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Bitiş Tarihi",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Kopya Proje",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Projeler",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Takip Kaldır",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Ad veya Eposta",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Başlık Yap",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Dosya ekle",
+        "description": ""
+    },
+    "More": {
+        "message": "dahası...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Yeni Başlık",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Dün",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Favori olarak işaretlenmiş",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Yorum",
+        "description": ""
+    },
+    "Search": {
+        "message": "Ara",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Arşiv",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Başkasına Ata",
+        "description": ""
+    },
+    "New": {
+        "message": "Yeni Görev",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Tümünü genişlet",
+        "description": ""
+    },
+    "Expand": {
+        "message": "Genişlet",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": " Takipçi Ekle",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Görevi takip et.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "bugün olarak işaretledi",
+        "description": "Someone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "bitiş tarihini değiştirdi:",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Cumartesi",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Diğer projeler",
+        "description": ""
+    },
+    "Later": {
+        "message": "Daha sonra",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "açıklama değiştirildi.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Etiketler",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Görevi takip etme.",
+        "description": ""
+    },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Görev Ekle",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Etiket Listesi Gizle",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Bana Ata",
+        "description": ""
+    },
+    "Today": {
+        "message": "Bugün",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "tamamlandı yaptı",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Pazar",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "şuradan kaldırdı:",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Yakında",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Perşembe",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Hesap Ayarları",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Atanan",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Görevler",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Geçmiş aktivite bilgisi.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Çalışma Alanları Özeti",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Tamamlanan görevleri arşivle",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "görev oluşturdu",
+        "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "Proje Arşivi",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "Takipçi kaldır",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "İnsanları Davet Et",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Az göster",
+        "description": ""
+    },
+    "List": {
+        "message": "Liste",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Tamamlandı Yap",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Hiçbiri Seçilmedi",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Kopya Görevleri Birleştir",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Çalışma Alanı Yükselt",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Son kullanılanlar...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Çalışma Alanı Ayarları",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Yukarı çıkar",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Yeni Proje",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Takipçiler",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Görev Sil",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Başka bir kişi ile paylaş",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Tamamlanmadı Yap",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Yeni Bölüm",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Proje Etiketleri ve Kişileri Göster",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Yeni Görev",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Arşivlenen görevleri gizle",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "şu projeye ekledi:",
+        "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "Detayları Aç",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Yorum",
+        "description": "Comment button for adding a comment"
+    },
+    "PEOPLE": {
+        "message": "KİŞİLER",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Kişi Ekle",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Kalpler",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Cuma",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Görevler ve başlıklar oluştur",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "alt görev göreve eklendi",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "Yazdır",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "Görevleri Eposta ile Ekle",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Yakında olarak işaretlendi. Değiştirmek için tıklayınız.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Kopyasını Oluştur",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "Projeye Ekle",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Beni Çalışma Alanından Çıkar",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Yarın",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Üyeleri Davet Et ve Yönet",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Pazartesi",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Aktivite Bildirimi",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Arşivlenmiş Projeleri Gizle",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "yüklendi",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Görevlerim",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Tamamlandı",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Arşivlenmiş Projeleri Göster",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Çarşamba",
+        "description": ""
+    },
+    "Share": {
+        "message": "Pylaş",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Yardım",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "şu kişiye atadı:",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "dosya ekledi:",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "açıklama eklendi.",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Geri Bildirim",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "Etiket Listesini Göster",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Bugün olarak işaretlendi. Değiştirmek için tıklayınız.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "SEKMELER",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "projesini oluşturdu:",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "bitiş tarihi silindi",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "tamamlanmadı yaptı",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Detayları Kapat",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Salı",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Projeyi Sil",
+        "description": ""
+    },
+    "Project": {
+        "message": "Proje",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "şuradan taşıdı:",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(Yeni Öğe)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Hızlı Ekle",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Yeni Çalışma Alanı",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Görevlerim",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Aşağı kaydır",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROJELER",
+        "description": "Note that exceding this size will make the interface break."
+    }
 }
