@@ -3,6 +3,10 @@
         "message": "Volgen",
         "description": ""
     },
+    "WriteAComment": {
+        "message": "Schrijf Commentaar",
+        "description": ""
+    },
     "TIP_RecentlyViewed": {
         "message": "Recentelijk bekeken",
         "description": ""
@@ -24,11 +28,11 @@
         "description": ""
     },
     "LEFT_NewProject": {
-        "message": "Nieuw project",
+        "message": "Nieuw Project",
         "description": ""
     },
     "ACT_UnmarkedToday": {
-        "message": "niet gemarkeerd voor vandaag",
+        "message": "Niet Gemarkeerd voor Vandaag",
         "description": "Someone unmarked the task from today"
     },
     "ShowArchivedTasks": {
@@ -43,12 +47,16 @@
         "message": "Notitie toevoegen",
         "description": ""
     },
+    "Calendar": {
+        "message": "Kalender",
+        "description": ""
+    },
     "LogOut": {
         "message": "Uitloggen",
         "description": ""
     },
     "CollapseAll": {
-        "message": "Alles samenvouwen",
+        "message": "Alles Samenvouwen",
         "description": ""
     },
     "LATER": {
@@ -57,6 +65,10 @@
     },
     "DueDate": {
         "message": "Vervaldatum",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Dupliceer Project",
         "description": ""
     },
     "Projects": {
@@ -84,7 +96,7 @@
         "description": ""
     },
     "NewPriorityHeading": {
-        "message": "Nieuwe prioriteit heading",
+        "message": "Nieuwe prioriteit Tite",
         "description": ""
     },
     "Yesterday": {
@@ -108,7 +120,7 @@
         "description": ""
     },
     "AssignToTeammate": {
-        "message": "Aan teamgenoot toewijzen",
+        "message": "Toewijzen aan Teamgenoot",
         "description": ""
     },
     "New": {
@@ -117,6 +129,10 @@
     },
     "ExpandAll": {
         "message": "Alles uitvouwen",
+        "description": ""
+    },
+    "Expand": {
+        "message": "Uitbreiden",
         "description": ""
     },
     "AddFollowers": {
@@ -129,14 +145,14 @@
     },
     "ACT_MarkedToday": {
         "message": "gemarkeerd vandaag",
-        "description": "SOmeone marked the task for today"
+        "description": "Someone marked the task for today"
     },
     "ACT_ChangedDueDate": {
-        "message": "deadline veranderd naar",
+        "message": "Deadline veranderd naar",
         "description": "Someone changed due date"
     },
     "Saturday": {
-        "message": "zaterdag",
+        "message": "Zaterdag",
         "description": ""
     },
     "MoreProjects": {
@@ -152,19 +168,27 @@
         "description": "Someone changed the description."
     },
     "Tags": {
-        "message": "Tags",
+        "message": "Labels",
         "description": ""
     },
     "TIP_UnfollowTask": {
         "message": "Ontvolg de taak om er niet langer berichten over te ontvangen.",
         "description": ""
     },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
     "AddTask": {
         "message": "Taak toevoegen",
         "description": ""
     },
+    "HideTagsList": {
+        "message": "Verberg Labellijst",
+        "description": ""
+    },
     "AssignToMe": {
-        "message": "Aan zelf toewijzen",
+        "message": "Aan mezelf toewijzen",
         "description": ""
     },
     "Today": {
@@ -176,7 +200,7 @@
         "description": "Someone marked the task as complete"
     },
     "Sunday": {
-        "message": "zondag",
+        "message": "Zondag",
         "description": ""
     },
     "ACT_RemovedFrom": {
@@ -188,7 +212,7 @@
         "description": ""
     },
     "Thursday": {
-        "message": "donderdag",
+        "message": "Donderdag",
         "description": ""
     },
     "AccountSettings": {
@@ -219,12 +243,24 @@
         "message": "heeft de taak aangemaakt",
         "description": "Someone created the task"
     },
+    "ArchiveProject": {
+        "message": "Archiveer Project",
+        "description": ""
+    },
     "TIP_RemoveFollower": {
         "message": "Verwijder volger",
         "description": ""
     },
+    "InvitePeople": {
+        "message": "Nodig Personen Uit",
+        "description": ""
+    },
     "ShowLess": {
         "message": "Toon minder",
+        "description": ""
+    },
+    "List": {
+        "message": "Lijst",
         "description": ""
     },
     "MarkComplete": {
@@ -232,7 +268,11 @@
         "description": ""
     },
     "NothingSelected": {
-        "message": "Niet geselecteerd",
+        "message": "Niets geselecteerd",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Samenvoegen van Dubbele Taken",
         "description": ""
     },
     "UpgradeWorkspace": {
@@ -256,7 +296,7 @@
         "description": ""
     },
     "Followers": {
-        "message": "Volgners",
+        "message": "Volgers",
         "description": ""
     },
     "DeleteTask": {
@@ -268,7 +308,7 @@
         "description": ""
     },
     "MarkIncomplete": {
-        "message": "Markeer als onvoltooid",
+        "message": "Markeer als Onvoltooid",
         "description": ""
     },
     "NewSection": {
@@ -276,7 +316,7 @@
         "description": ""
     },
     "ViewProjectsTagsPeople": {
-        "message": "Bekijk projecten, tags en personen",
+        "message": "Bekijk Projecten, Labes en Personen",
         "description": ""
     },
     "NewTask": {
@@ -288,15 +328,23 @@
         "description": ""
     },
     "ACT_AddedTo": {
-        "message": "de toegevoegde",
+        "message": "Toegevoegd aan",
         "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "Open Details",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Commentaar",
+        "description": "Comment button for adding a comment"
     },
     "PEOPLE": {
         "message": "PERSONEN",
         "description": ""
     },
     "AddPerson": {
-        "message": "Añadir Gente",
+        "message": "Toevoegen Persoon ",
         "description": ""
     },
     "Hearts": {
@@ -304,7 +352,7 @@
         "description": ""
     },
     "Friday": {
-        "message": "vrijdag",
+        "message": "Vrijdag",
         "description": ""
     },
     "TIP_CreateTasksAndHeadings": {
@@ -315,12 +363,20 @@
         "message": "toegevoegde subtaak aan taak",
         "description": "Someone added a subtask to the task..."
     },
+    "Print": {
+        "message": "Afdrukken",
+        "description": ""
+    },
     "AddTasksByEmail": {
         "message": "Voeg taak toe via Email",
         "description": ""
     },
     "TIP_MarkedForUpcoming": {
         "message": "Markeer als aankomend. Klik om te wijzigen.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Maak een Kopie",
         "description": ""
     },
     "AddToProject": {
@@ -340,7 +396,7 @@
         "description": ""
     },
     "Monday": {
-        "message": "maandag",
+        "message": "Maandag",
         "description": ""
     },
     "ActivityFeed": {
@@ -348,11 +404,11 @@
         "description": ""
     },
     "HideArchivedProjects": {
-        "message": "Verberg gearchiveerde projecten",
+        "message": "Verberg Gearchiveerde Projecten",
         "description": ""
     },
     "ACT_Attached": {
-        "message": "toegevoegd",
+        "message": "aangehecht",
         "description": "Someone attached something to the task..."
     },
     "MyTasks": {
@@ -368,7 +424,7 @@
         "description": ""
     },
     "Wednesday": {
-        "message": "woensdag",
+        "message": "Woensdag",
         "description": ""
     },
     "Share": {
@@ -380,7 +436,7 @@
         "description": ""
     },
     "ACT_AssignedTo": {
-        "message": "de aangewezen",
+        "message": "Toegewezen aan",
         "description": "Someone assigned the task to..."
     },
     "ACT_AddedAttachment": {
@@ -395,12 +451,16 @@
         "message": "Feedback",
         "description": ""
     },
+    "ShowTagsList": {
+        "message": "toon Labellijst",
+        "description": ""
+    },
     "TIP_MarkedForToday": {
-        "message": "Markeer als vandaag. Klik om te wijzigen.",
+        "message": "Markeer voor vandaag. Klik om te wijzigen.",
         "description": ""
     },
     "TABS": {
-        "message": "TABS",
+        "message": "LABELS",
         "description": ""
     },
     "ACT_CreatedProject": {
@@ -412,7 +472,7 @@
         "description": "Someone removed due date///"
     },
     "ACT_MarkedIncomplete": {
-        "message": "gemarkeerd als open",
+        "message": "Gemarkeerd als Onvoltooid",
         "description": ""
     },
     "CloseDetails": {
@@ -420,7 +480,11 @@
         "description": ""
     },
     "Tuesday": {
-        "message": "dinsdag",
+        "message": "Dinsdag",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Verwijder Project",
         "description": ""
     },
     "Project": {
@@ -428,7 +492,7 @@
         "description": ""
     },
     "ACT_MovedFrom": {
-        "message": "verplaatst door",
+        "message": "verplaatst van",
         "description": "Someone moved the task from"
     },
     "NewItem": {
@@ -440,11 +504,11 @@
         "description": ""
     },
     "NewWorkspace": {
-        "message": "Nieuwe werkruimte",
+        "message": "Nieuwe Werkruimte",
         "description": ""
     },
     "My_Tasks": {
-        "message": "Mijn taken",
+        "message": "Mijn Taken",
         "description": ""
     },
     "MoveDown": {
