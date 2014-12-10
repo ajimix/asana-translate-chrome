@@ -1,116 +1,522 @@
 {
-	"__comment": { "message": "This strings are used for comments, refer to: http://stackoverflow.com/questions/244777/can-i-comment-a-json-file" },
-
-	"__comment": { "message": "Left menu" },
-	"Search": { "message": "検索" },
-	"MyTasks": { "message": "自分のタスク" },
-	"My_Tasks": { "message": "" },
-	"Tasks": { "message": "タスク" },
-	"PROJECTS": { "message": "プロジェクト" },
-	"TABS": { "message": "タブ" },
-	"PEOPLE": { "message": "メンバー" },
-	"InviteManageMembers": { "message": "メンバーを管理" },
-	"EditWorkspaceSettings": { "message": "ワークスペースの設定を変更" },
-	"RemoveMeFromWorkspace": { "message": "ワークスペースから自分のアカウントを削除" },
-	"UpgradeWorkspace": { "message": "ワークスペースをアップグレード" },
-	"ShowArchivedProjects": { "message": "アーカイブされたプロジェクトを表示" },
-	"HideArchivedProjects": { "message": "アーカイブされたプロジェクトを隠す" },
-	"AccountSettings": { "message": "アカウントの設定" },
-	"NewWorkspace": { "message": "新規ワークスペース" },
-	"LogOut": { "message": "ログアウト" },
-	"ViewProjectsTagsPeople": { "message": "プロジェクト・タグ・メンバー" },
-	"LEFT_NewProject": { "message": "新規プロジェクト" }, 
-	"AddPerson": { "message": "メンバー" }, "__comment": { "message": "「新規」を入れるとレイアウトが崩れるので"},
-	"WorkspaceOverview": { "message": "ワークスペースの概要" },
-
-	"__comment": { "message": "Task info" },
-	"MarkComplete": { "message": "完了にする" },
-	"MarkIncomplete": { "message": "未完了にする" },
-	"Completed": { "message": "完了" },
-	"AddNotes": { "message": "ノートを追加" },
-	"DueDate": { "message": "期限" },
-	"Tags": { "message": "タグ" },
-	"AttachFile": { "message": "ファイルを追加" },
-	"Assignee": { "message": "担当者" },
-	"Projects": { "message": "プロジェクト" },
-	"AddToProject": { "message": "プロジェクトに追加" },
-	"Followers": { "message": "フォロワー" },
-	"AddFollowers": { "message": "フォロワーを追加" },
-	"Follow": { "message": "フォロー" },
-	"Unfollow": { "message": "フォローをやめる" },
-	"DeleteTask": { "message": "タスクを削除" },
-	"MakePriorityHeading": { "message": "プライオリティヘッダーを作成" },
-	"NewItem": { "message": "(新規アイテム)" },
-	"AssignToMe": { "message": "自分にアサイン" },
-	"AssignToTeammate": { "message": "メンバーにアサイン" },
-	"ActivityFeed": { "message": "アクティビティフィード" },
-	"Comment": { "message": "コメント" },
-
-	"__comment": { "message": "Task activity" },
-	"ACT_CreatedTask": { "message": "タスクを作成しました: " },
-	"ACT_AddedTo": { "message": "追加しました: " },
-	"ACT_AssignedTo": { "message": "アサインしました: " },
-	"ACT_ChangedDueDate": { "message": "期限を変更しました: " },
-	"ACT_AddedAttachment": { "message": "ファイルを添付しました: " },
-	"ACT_MarkedComplete": { "message": "完了にしました: " },
-	"ACT_MarkedIncomplete": { "message": "未完了にしました: " },
-	"ACT_MarkedToday": { "message": "今日にしました: " },
-	"ACT_UnmarkedToday": { "message": "今日のマークを外しました: " },
-	"ACT_CreatedProject": { "message": "プロジェクトを作成しました: " },
-	"ACT_MovedFrom": { "message": "移動しました: " },
-	"ACT_RemovedFrom": { "message": "削除しました: " },
-
-	"__comment": { "message": "Project tasks" },
-	"AddTask": { "message": "タスクを追加" },
-	"Archive": { "message": "アーカイブ" },
-	"ArchiveCompletedTasks": { "message": "完了したタスクをアーカイブ" },
-	"ShowArchivedTasks": { "message": "アーカイブしたタスクを表示" },
-	"HideArchivedTasks": { "message": "アーカイブしたタスクを隠す" },
-	"New": { "message": "新規" },
-	"NewPriorityHeading": { "message": "新しいプライオリティヘッダーを作成" },
-	"Share": { "message": "シェア" }, "__comment": { "message": "Cannot be longer than this or will break the page..." },
-	"CollapseAll": { "message": "閉じる" },
-	"ExpandAll": { "message": "開く" },
-	"Priority": { "message": "優先順位" },
-	"Date": { "message": "日付" },
-	"Project": { "message": "プロジェクト" },
-	"All": { "message": "全て" },
-
-	"__comment": { "message": "Tips" },
-	"TIP_MarkedForUpcoming": { "message": "次" },
-	"TIP_MarkedForToday": { "message": "今日" },
-	"TIP_CreateTasksAndHeadings": { "message": "タスクと見出しを作成" },
-	"TIP_HideCompletedTasks": { "message": "完了したタスクを隠す" },
-	"TIP_UnfollowTask": { "message": "タスクのフォローをやめる" },
-	"TIP_FollowTask": { "message": "タスクをフォローする" },
-	"TIP_ActivityFeedInfo": { "message": "アクティビティフィードの情報" },
-	"TIP_RemoveFollower": { "message": "フォロワーを削除する" },
-	"TIP_RecentlyViewed": { "message": "最近見たタスク" },
-	"TIP_MarkedFavorite": { "message": "お気に入りタスク" },
-
-	"__comment": { "message": "Bottom menu" },
-	"NewProject": { "message": "新規プロジェクト" },
-	"NewTask": { "message": "新規タスク" },
-	"MoveDown": { "message": "下に移動" },
-	"JumpDown": { "message": "下にジャンプ" },
-	"CloseDetails": { "message": "詳細を隠す" },
-	"QuickAdd": { "message": "クイック追加" },
-	"More": { "message": "もっと見る..." },
-
-	"__comment": { "message": "Days and dates" },
-	"Today": { "message": "今日" },
-	"TODAY": { "message": "今日" },
-	"Yesterday": { "message": "昨日" },
-	"Tomorrow": { "message": "明日" },
-	"Upcoming": { "message": "次" },
-	"UPCOMING": { "message": "次" },
-	"Later": { "message": "あとで" },
-	"LATER": { "message": "あとで" },
-	"Monday": { "message": "月曜" },
-	"Tuesday": { "message": "火曜" },
-	"Wednesday": { "message": "水曜" },
-	"Thursday": { "message": "木曜" },
-	"Friday": { "message": "金曜" },
-	"Saturday": { "message": "土曜" },
-	"Sunday": { "message": "日曜" }
+    "Follow": {
+        "message": "フォロー",
+        "description": ""
+    },
+    "WriteAComment": {
+        "message": "コメントを書く",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "最近見たタスク",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "完了タスクの非表示",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "メンバー",
+        "description": ""
+    },
+    "All": {
+        "message": "全て",
+        "description": ""
+    },
+    "Priority": {
+        "message": "優先順位",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "新規プロジェクト",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "本日マーク除外済み: ",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "アーカイブ済みタスク表示",
+        "description": ""
+    },
+    "Date": {
+        "message": "日付",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "ノート追加",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "カレンダー",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "ログアウト",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "閉じる",
+        "description": ""
+    },
+    "LATER": {
+        "message": "後付け",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "期日",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "プロジェクト複製",
+        "description": ""
+    },
+    "Projects": {
+        "message": "プロジェクト",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "フォロー停止",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "名前またはメール",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "見出し優先順位付け",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "ファイルを追加",
+        "description": ""
+    },
+    "More": {
+        "message": "もっと見る...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "新規見出し優先順位付け",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "昨日",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "お気に入りマーク済み",
+        "description": ""
+    },
+    "Comment": {
+        "message": "コメント",
+        "description": ""
+    },
+    "Search": {
+        "message": "検索",
+        "description": ""
+    },
+    "Archive": {
+        "message": "アーカイブ",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "メンバーへ割振り",
+        "description": ""
+    },
+    "New": {
+        "message": "新規",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "開く",
+        "description": ""
+    },
+    "Expand": {
+        "message": "拡げる",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "フォロワー追加",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "タスクをフォロー",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "本日マーク済み: ",
+        "description": "Someone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "期日変更済み: ",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "土曜日",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "表示プロジェクト数を増やす",
+        "description": ""
+    },
+    "Later": {
+        "message": "後付け",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "変更済み詳細",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "タグ",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "タスクのフォロー停止",
+        "description": ""
+    },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "タスクを追加",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "タグ一覧非表示",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "自分に割振り",
+        "description": ""
+    },
+    "Today": {
+        "message": "本日",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "完了マーク済みタスク: ",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "日曜日",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "タスク削除済み: ",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "次",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "木曜日",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "アカウント設定",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "担当者",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "タスク",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "履歴フィード情報",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "ワークスペース概要",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "完了タスクのアーカイブ",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "作成済みタスク: ",
+        "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "プロジェクトのアーカイブ",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "フォロワーを削除する",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "招待する",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "表示を少なく",
+        "description": ""
+    },
+    "List": {
+        "message": "一覧",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "完了にマーク済み",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "何も選ばれていません",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "重複タスクのマージ",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "作業スペースを更新",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "最近の項目を表示する…",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "ワークスペースの設定を変更",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "下にジャンプ",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "新規プロジェクト",
+        "description": ""
+    },
+    "Followers": {
+        "message": "フォロワー",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "タスクを削除",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "他の人と共有する",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "未完了にマーク済み",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "新規セクション",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "プロジェクト・タグ・メンバー",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "新規タスク",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "アーカイブ済みタスクの非表示",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "タスク追加済み: ",
+        "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "詳細を開く",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "コメント",
+        "description": "Comment button for adding a comment"
+    },
+    "PEOPLE": {
+        "message": "メンバー",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "メンバー",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "お気に入り",
+        "description": ""
+    },
+    "Friday": {
+        "message": "金曜日",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "タスクと見出しの作成",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "タスクに追加済みのサブタスク",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "印刷",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "メールでタスク追加する",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "そろそろにマーク済み",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "コピーする",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "プロジェクトに追加",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "作業スペースから自分のアカウントを削除",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "明日",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "メンバーを管理",
+        "description": ""
+    },
+    "Monday": {
+        "message": "月曜日",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "アクティビティフィード",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "アーカイブ済みプロジェクトの非表示",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "添付済みタスク",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "自分のタスク",
+        "description": ""
+    },
+    "Completed": {
+        "message": "完了",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "アーカイブされたプロジェクトを表示",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "水曜日",
+        "description": ""
+    },
+    "Share": {
+        "message": "シェア",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "ヘルプ",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "割振り済みタスク: ",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "ファイル添付済みタスク: ",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "詳細追加済み",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "感想を送る",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "タグ一覧表示",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "本日にマーク済み",
+        "description": ""
+    },
+    "TABS": {
+        "message": "タブ",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "作成済みプロジェクト: ",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "削除済み期日",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "未完了にマーク済み: ",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "詳細の非表示",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "火曜",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "プロジェクト削除",
+        "description": ""
+    },
+    "Project": {
+        "message": "プロジェクト",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "タスク移動済み: ",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(新規アイテム)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "クイック追加",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "新規作業スペース",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "自分のタスク",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "下に移動",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "プロジェクト",
+        "description": "Note that exceding this size will make the interface break."
+    }
 }
