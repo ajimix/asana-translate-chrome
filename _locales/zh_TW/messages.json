@@ -3,6 +3,10 @@
         "message": "追蹤",
         "description": ""
     },
+    "WriteAComment": {
+        "message": "撰寫評論",
+        "description": ""
+    },
     "TIP_RecentlyViewed": {
         "message": "最近瀏覽",
         "description": ""
@@ -43,6 +47,10 @@
         "message": "新增筆記",
         "description": ""
     },
+    "Calendar": {
+        "message": "日曆",
+        "description": ""
+    },
     "LogOut": {
         "message": "登出",
         "description": ""
@@ -57,6 +65,10 @@
     },
     "DueDate": {
         "message": "到期日",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "複製專案",
         "description": ""
     },
     "Projects": {
@@ -119,6 +131,10 @@
         "message": "全部展開",
         "description": ""
     },
+    "Expand": {
+        "message": "展開",
+        "description": ""
+    },
     "AddFollowers": {
         "message": "新增從屬",
         "description": ""
@@ -129,7 +145,7 @@
     },
     "ACT_MarkedToday": {
         "message": "標示為今日",
-        "description": "SOmeone marked the task for today"
+        "description": "Someone marked the task for today"
     },
     "ACT_ChangedDueDate": {
         "message": "變更到期日",
@@ -159,8 +175,16 @@
         "message": "撤銷追蹤以停止接收訊息",
         "description": ""
     },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
     "AddTask": {
         "message": "新增任務",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "隱藏標籤清單",
         "description": ""
     },
     "AssignToMe": {
@@ -219,12 +243,24 @@
         "message": "已建立任務",
         "description": "Someone created the task"
     },
+    "ArchiveProject": {
+        "message": "封存專案",
+        "description": ""
+    },
     "TIP_RemoveFollower": {
         "message": "移除從屬",
         "description": ""
     },
+    "InvitePeople": {
+        "message": "邀請人員",
+        "description": ""
+    },
     "ShowLess": {
         "message": "減少顯示",
+        "description": ""
+    },
+    "List": {
+        "message": "清單",
         "description": ""
     },
     "MarkComplete": {
@@ -233,6 +269,10 @@
     },
     "NothingSelected": {
         "message": "未選取",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "合併重覆任務",
         "description": ""
     },
     "UpgradeWorkspace": {
@@ -291,6 +331,14 @@
         "message": "增加至",
         "description": "Someone added the task to..."
     },
+    "OpenDetails": {
+        "message": "開啟詳細資料",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "評論",
+        "description": "Comment button for adding a comment"
+    },
     "PEOPLE": {
         "message": "人員",
         "description": ""
@@ -315,12 +363,20 @@
         "message": "增加次任務至任務",
         "description": "Someone added a subtask to the task..."
     },
+    "Print": {
+        "message": "列印",
+        "description": ""
+    },
     "AddTasksByEmail": {
         "message": "以email新增任務",
         "description": ""
     },
     "TIP_MarkedForUpcoming": {
         "message": "標示為即將執行. 點選變更.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "建立複本",
         "description": ""
     },
     "AddToProject": {
@@ -395,6 +451,10 @@
         "message": "意見回饋",
         "description": ""
     },
+    "ShowTagsList": {
+        "message": "顯示標籤清單",
+        "description": ""
+    },
     "TIP_MarkedForToday": {
         "message": "標示為今日. 點選變更.",
         "description": ""
@@ -421,6 +481,10 @@
     },
     "Tuesday": {
         "message": "星期二",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "刪除專案",
         "description": ""
     },
     "Project": {
