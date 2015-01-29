@@ -1,0 +1,522 @@
+{
+    "Follow": {
+        "message": "Sekti",
+        "description": ""
+    },
+    "WriteAComment": {
+        "message": "Rašyti komentarą",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Paskutinės žiūrėtos",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Nerodyti atliktų užduočių",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "NARIAI",
+        "description": ""
+    },
+    "All": {
+        "message": "Visi",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Pirmenybė",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Naujas projektas",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "nebepriskirta atlikti šiandien",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Rodyti užduotis iš archyvo",
+        "description": ""
+    },
+    "Date": {
+        "message": "Data",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Pridėti pastabas",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "Kalendorius",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Atsijungti",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Viską suskleisti",
+        "description": ""
+    },
+    "LATER": {
+        "message": "VĖLESNI",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Atlikti iki",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Dubliuoti projektą",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Projektai",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Nebesekti",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Vardas arba el. paštas",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Padaryti pirmenybine antrašte",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Prisegti priedą",
+        "description": ""
+    },
+    "More": {
+        "message": "daugiau...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Nauja pirmenybinė antraštė",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Vakar",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Pažymėta kaip mėgstama",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Komentaras",
+        "description": ""
+    },
+    "Search": {
+        "message": "Paieška",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Archyvas",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Priskirti komandos nariui",
+        "description": ""
+    },
+    "New": {
+        "message": "Nauja",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Viską išskleisti",
+        "description": ""
+    },
+    "Expand": {
+        "message": "Išskleisti",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "pridėti sekėjus",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Sekite užduotį jei norite gauti jos būsenos pranešimus ",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "priskirta atlikti šiandien",
+        "description": "Someone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "pasikeitė atlikimo terminas",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Šeštadienis",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Daugiau projektų",
+        "description": ""
+    },
+    "Later": {
+        "message": "Vėliau",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "pakeistas aprašymas.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Žymės",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Atsisakyti užduoties sekimo ir nebegauti jos būsenos pranešimų",
+        "description": ""
+    },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Pridėti užduotį",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Neberodyti žymių sąrašo",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Priskirta man",
+        "description": ""
+    },
+    "Today": {
+        "message": "Šiandien",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "pažymėta kaip atlikta",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Sekmadienis",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "pašalinta iš",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Artėjančios",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Ketvirtadienis",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Paskyros nustatymai",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Priskirti",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Užduotys",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Čia rasi užduočių istoriją",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Darbalaukiai",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Atliktas užduotis perkelti į archyvą",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "sukūrė užduotį",
+        "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "Perkelti projektą į archyvą",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "Pašalinti sekėją",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "Pakviesti narius",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Rodyti mažiau",
+        "description": ""
+    },
+    "List": {
+        "message": "Sarašas",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Pažymėti kaip atlikta",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Nieko nepasirinkta",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Sujungti besidubliuojančias užduotis",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Patobulinti darbalaukį",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Rodyti paskutines...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Redaguoti darbalaukio nustatymus",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Peršokti žemyn",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Naujas projektas",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Sekėjai",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Ištrinti užduotį",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Dalintis su kitu asmeniu",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Pažymėti kaip nebaigtą",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Nauja sekcija",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Peržiūrėti projektus, žymes ir narius",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Nauja užduotis",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Nerodyti užduočių iš archyvo",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "pridėta į",
+        "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "Rodyti detales",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Komentaras",
+        "description": "Comment button for adding a comment"
+    },
+    "PEOPLE": {
+        "message": "ŽMONĖS",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Pridėti narį",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Meilė",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Penktadienis",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Kurti užduotis ir antraštes.",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "pridėta dukterinė užduotis",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "Spausdinti",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "Pridėti užduotį el. paštu",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Pažymėta atlikti artimiausiu metu. Spauskite čia norėdami pakeisti.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Nukopijuoti",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "pridėti į projektą",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Pašalinti iš darbalaukio",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Rytoj",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Pakviesti ir valdyti narius",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Pirmadienis",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Veiklos srautas",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Nerodyti projektų iš archyvo",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "prisegta",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Mano užduotys",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Atlikta",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Rodyti projektus iš archyvo",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Trečiadienis",
+        "description": ""
+    },
+    "Share": {
+        "message": "Dalintis",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Pagalba",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "priskirta",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "prisegtas priedas",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "pridėtas aprašymas.",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Grįžtamasis ryšys",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "Rodyti žymių sąrašą",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Priskirta šiandienai. Spauskite čia norėdami pakeisti.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "ŽYMĖS",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "sukūrė projektą",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "pašalintas atlikimo terminas",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Pažymėta kaip nebaigta",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Uždaryti detalizaciją",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Antradienis",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Ištrinti projektą",
+        "description": ""
+    },
+    "Project": {
+        "message": "Projektas",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "perkelta iš",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(naujas elementas)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Greitas pridėjimas",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Naujas darbalaukis",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Mano užduotys",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Pastumti žemyn",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROJEKTAI",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
