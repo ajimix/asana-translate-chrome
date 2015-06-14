@@ -1,0 +1,522 @@
+{
+    "Follow": {
+        "message": "Segir",
+        "description": ""
+    },
+    "WriteAComment": {
+        "message": "Escreva um comentário",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Vizualizado recentemente",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Arquivar tarefas concluídas",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "MEMBROS",
+        "description": ""
+    },
+    "All": {
+        "message": "Todos",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Prioridade",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Novo Projeto",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "desmarcado a partir de hoje",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Mostrar tarefas arquivadas",
+        "description": ""
+    },
+    "Date": {
+        "message": "Data",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Adicionar Anotações",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "Calendário",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Sair",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Recolher Todos",
+        "description": ""
+    },
+    "LATER": {
+        "message": "DEPOIS",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Data de Entrega",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Duplicar Projeto",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Projetos",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Deixar de Seguir",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Nome ou E-mail",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Marcar título prioritário",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Anexar arquivo",
+        "description": ""
+    },
+    "More": {
+        "message": "mais...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Novo cabeçalho prioritário",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Ontem",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Marcada como Favotira",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Comentário",
+        "description": ""
+    },
+    "Search": {
+        "message": "Busca",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Arquivo",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Atribuir a um companheiro de equipe",
+        "description": ""
+    },
+    "New": {
+        "message": "Novo",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Expandir Todos",
+        "description": ""
+    },
+    "Expand": {
+        "message": "Expandir",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "adicionar seguidores",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Siga a tarefa se você quiser ser notificado de suas atividades.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "marcou para hoje",
+        "description": "Someone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "data de vencimento alterada",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "sábado",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "mais projetos",
+        "description": ""
+    },
+    "Later": {
+        "message": "mais tarde",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "mudou a descrição.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Tags",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Deixar de seguir a tarefa para parar de receber mensagens.",
+        "description": ""
+    },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Adicionar uma Tarefa",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Esconder Lista de Tags",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Atribuir a Mim",
+        "description": ""
+    },
+    "Today": {
+        "message": "Hoje",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "marcou como concluída",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Domingo",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "removido do",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Breve",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "quinta-feira",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Configurações da Conta",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Assignee",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Tarefas",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Aqui você verá o histórico de tarefas.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Áreas de trabalho",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Arquivar tarefas concluídas",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "criou a tarefa",
+        "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "Arquivar Projetos",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "Remover segidor",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "Convidar Pessoas",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "mostrar menos",
+        "description": ""
+    },
+    "List": {
+        "message": "Lista",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Marcar com Concluída",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Nenhuma Selecão",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Combinar tarefas duplicadas",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "atualize Workspace ",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Mostrar Recentes ...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Editar as Configurações da Área de Trabalho",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "salte para baixo",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Novo Projeto",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Seguidores",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Apagar Tarefa",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Compartilhe com outra pessoa.",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Marcar com incompleta",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "nova Seção",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Visualizar Projetos, Tags e Pessoas ",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Nova Tarefa",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Ocultar tarefas arquivadas",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "adicionado para",
+        "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "Abrir Detalhes",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Comentar",
+        "description": "Comment button for adding a comment"
+    },
+    "PEOPLE": {
+        "message": "PESSOAS",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Adicionar um Pessoa",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "corações",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Sexta",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Criar tarefas e títulos.",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "subtarefa adicionado à tarefa",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "imprimir",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "Adicionar tarefas por e-mail",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Marcado para Breve. Clique para mudar.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Fazer uma Cópia",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "adicionar ao projeto",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Remover-me do Workspace",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Amanhã",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Convide e Gerencie os Membros",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Segunda",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "atividade feed",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Ocultar projetos arquivados",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "anexado",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Minhas Tarefas",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Completa",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Mostrar Projetos arquivados",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Quarta",
+        "description": ""
+    },
+    "Share": {
+        "message": "Compartilhar",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Ajuda",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "atribuído a",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "adicionou um anexo",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "adicionou descrição",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "comentários",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "Mostrar Lista de Tags",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Marcado para hoje. Clique para mudar.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "TAGS",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "criou o projeto",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "removed due date",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Marcada com Incompleta",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Fechar Detalhes",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Terça",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "excluir projeto",
+        "description": ""
+    },
+    "Project": {
+        "message": "Projeto",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "movido de",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(novo item)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Adição rápida",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Nova Área de Trabalho",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Minhas Tarefas",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Mover para Baixo",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "Projetos",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}

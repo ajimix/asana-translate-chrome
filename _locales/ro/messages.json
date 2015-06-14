@@ -1,0 +1,522 @@
+{
+    "Follow": {
+        "message": "Urmărește",
+        "description": ""
+    },
+    "WriteAComment": {
+        "message": "Scrie un Comentariu",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Recent Vizualizat",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Ascunde Sarcinile Finalizate",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "MEMBRI",
+        "description": ""
+    },
+    "All": {
+        "message": "Totul",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Prioritate",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Nou Proiect",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "șters marcajul pentru azi",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Arată Sarcinile Arhivate",
+        "description": ""
+    },
+    "Date": {
+        "message": "Data",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Adaugă Însemnări",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "Calendar",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Deconectare",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Restrânge-le pe Toate",
+        "description": ""
+    },
+    "LATER": {
+        "message": "MAI TÂRZIU",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Data Finalizării",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Duplică Proiect",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Proiecte",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Nu mai urmări",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Nume sau Email",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Crează Rubrică de Prioritate",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Atașează fișier",
+        "description": ""
+    },
+    "More": {
+        "message": "mai mult...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Nouă Rubrică de Prioritate",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Ieri",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Marcat ca Favorit",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Comentariu",
+        "description": ""
+    },
+    "Search": {
+        "message": "Caută",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Arhivează",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Atribuie unui Membru al echipei",
+        "description": ""
+    },
+    "New": {
+        "message": "Nou",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Extinde-le pe Toate",
+        "description": ""
+    },
+    "Expand": {
+        "message": "Extinde",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "adaugă urmăritori",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Urmărește sarcina dacă vrei să fii notificat despre activitatea sa.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "marcat pentru azi",
+        "description": "Someone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "a schimbat data finalizării",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Sâmbătă",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Mai multe Proiecte",
+        "description": ""
+    },
+    "Later": {
+        "message": "Mai târziu",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "a schimbat descrierea.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Taguri",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Nu mai urmări sarcina pentru a stopa primirea mesajelor.",
+        "description": ""
+    },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Adaugă Sarcină",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Ascunde Listă Taguri",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Atribuie mie",
+        "description": ""
+    },
+    "Today": {
+        "message": "Azi",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "marchează ca finalizat",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Duminică",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "eliminat din",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "În viitor",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Joi",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Setările Contului",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Responsabil",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Sarcini",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Aici vei vedea istoricul sarcinilor.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Spații de lucru",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Arhivează Sarcinile Finalizate",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "a creat sarcina",
+        "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "Arhivează Proiect",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "Elimină urmăritor",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "Invită Persoane",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Arată mai puțin",
+        "description": ""
+    },
+    "List": {
+        "message": "Listă",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Marchează ca Finalizat",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Nimic Selectat",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Îmbină Sarcini Duplicat",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Upgradează Spațiul de lucru",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Arată recente...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Editează setările Spațiului de lucru",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Sari Jos",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Proiect Nou",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Urmăritori",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Șterge Sarcină",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Distribuie catre o altă persoană",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Marchează ca Nefinalizat",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Nouă Secțiune",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Vezi Proiecte, Taguri și Persoane",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Nouă Sarcină",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Ascunde Sarcini Arhivate",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "adăugat la",
+        "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "Deschide Detalii",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Comentariu",
+        "description": "Comment button for adding a comment"
+    },
+    "PEOPLE": {
+        "message": "PERSOANE",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Adaugă o Persoană",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Inimioare",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Vineri",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Crează sarcini și rubrici",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "a adăugat sub-sarcină la sarcina",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "Imprimă",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "Adaugă sarcini prin email",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Marcat pentru În viitor. Click pentru a schimba.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Fă o copie",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "adaugă la proiect",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Elimină-mă din Spațiul de lucru",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Mâine",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Invită și Administrează Membri",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Luni",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Flux de Activități",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Ascunde Proiectele Arhivate",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "a atașat",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Sarcinile Mele",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Finalizat",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Arată Proiecte Arhivate",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Miercuri",
+        "description": ""
+    },
+    "Share": {
+        "message": "Distribuie",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Ajutor",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "atribuit către",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "a adăugat un fișier",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "a adăugat descriere.",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Feedback",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "Arată Listă Taguri",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Marcat pentru Azi. Click pentru a schimba.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "TAGURI",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "a creat proiectul",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "a eliminat data finalizării",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Marcat ca Nefinalizat",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Închide Detalii",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Marți",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Sterge Proiect",
+        "description": ""
+    },
+    "Project": {
+        "message": "Proiect",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "s-a mutat din",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(nou item)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Adaugă rapid",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Nou Spațiu de lucru",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Sarcinile mele",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Mută în Jos",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROIECTE",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}

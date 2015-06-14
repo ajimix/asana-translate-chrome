@@ -1,7 +1,7 @@
 {
 	"name": "ASANA Translate",
 	"description": "Because we want ASANA in our language",
-	"version": "0.51",
+	"version": "0.52",
 	"manifest_version": 2,
 	"default_locale": "en",
 	"permissions": [
