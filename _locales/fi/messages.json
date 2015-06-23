@@ -1,0 +1,522 @@
+{
+    "Follow": {
+        "message": "Seuraa",
+        "description": ""
+    },
+    "WriteAComment": {
+        "message": "Kirjoita kommentti",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Viimeksi avatut",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Piilota valmiit tehtävät",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "JÄSENET",
+        "description": ""
+    },
+    "All": {
+        "message": "Kaikki",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Prioriteetti",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Uusi projekti",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "tämän päivän merkintä poistettu",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Näytä arkistoidut tehtävät",
+        "description": ""
+    },
+    "Date": {
+        "message": "Päiväys",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Lisää muistiinpanoja",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "Kalenteri",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Kirjaudu ulos",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Kutista kaikki",
+        "description": ""
+    },
+    "LATER": {
+        "message": "MYÖHEMMIN",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Määräpäivä",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Monista projekti",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Projektit",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Älä seuraa",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Nimi tai sähköposti",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Luo prioriteettiotsikko",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Liitä tiedosto",
+        "description": ""
+    },
+    "More": {
+        "message": "lisää...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Uusi prioriteettiotsikko",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Eilen",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Merkitty suosikiksi",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Kommentti",
+        "description": ""
+    },
+    "Search": {
+        "message": "Etsi",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Arkistoi",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Määritä tiimin jäsenelle",
+        "description": ""
+    },
+    "New": {
+        "message": "Uusi",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Laajenna kaikki",
+        "description": ""
+    },
+    "Expand": {
+        "message": "Laajenna",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "lisää seuraajia",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Seuraa tehtävää, jos haluat ilmoituksia siihen liittyvästä toiminnasta.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "merkitty tälle päivälle",
+        "description": "Someone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "määräpäivä muutettu",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Lauantai",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Lisää projekteja",
+        "description": ""
+    },
+    "Later": {
+        "message": "Myöhemmin",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "kuvaus muutettu.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Tunnisteet",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Lopeta viestien lähetys valitsemalla Älä seuraa.",
+        "description": ""
+    },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Lisää tehtävä",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Piilota tunnistelista",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Määritä minulle",
+        "description": ""
+    },
+    "Today": {
+        "message": "Tänään",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "merkitty valmiiksi",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Sunnuntai",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "poistettu kohteesta",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Tulevat",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Torstai",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Tilin asetukset",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Määritetty",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Tehtävät",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Tästä näet tehtävähistorian.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Työtilat",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Arkistoi valmiit tehtävät",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "loi tehtävän",
+        "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "Arkistoi projekti",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "Poista seuraaja",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "Kutsu henkilöitä",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Näytä vähemmän",
+        "description": ""
+    },
+    "List": {
+        "message": "Lista",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Merkitse tehdyksi",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Ei valintoja",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Yhdistä tehtävien kaksoiskappaleet",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Päivitä työtila",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Näytä viimeksi avatut...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Muokkaa työtilan asetuksia",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Hyppää alaspäin",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Uusi projekti",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Seuraajat",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Poista tehtävä",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Jaa toisen henkilön kanssa",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Merkitse keskeneräiseksi",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Uusi osio",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Näytä projektit, tunnisteet ja ihmiset",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Uusi tehtävä",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Piilota arkistoidut tehtävät",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "lisätty kohteeseen",
+        "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "Avaa tiedot",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Kommentoi",
+        "description": "Comment button for adding a comment"
+    },
+    "PEOPLE": {
+        "message": "HENKILÖT",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Lisää henkilö",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Sydämet",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Perjantai",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Luo tehtäviä ja otsikoita.",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "alitehtävä lisätty tehtävään",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "Tulosta",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "Lisää tehtäviä sähköpostitse",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Merkitty tulevaksi. Muuta napsauttamalla.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Luo kopio",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "lisää projektiin",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Poista minut työtilasta",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Huomenna",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Kutsu ja hallitse jäseniä",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Maanantai",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Toimintasyöte",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Piilota arkistoidut projektit",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "liitetty",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Omat tehtävät",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Valmis",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Näytä arkistoidut projektit",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Keskiviikko",
+        "description": ""
+    },
+    "Share": {
+        "message": "Jaa",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Ohje",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "määritetty:",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "lisäsi liitteen",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "kuvaus lisätty.",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Palaute",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "Näytä tunnistelista",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Merkitty tälle päivälle. Muuta napsauttamalla.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "TUNNISTEET",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "loi projektin",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "määräpäivä poistettu",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Merkitty keskeneräiseksi",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Sulje tiedot",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Tiistai",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Poista projekti",
+        "description": ""
+    },
+    "Project": {
+        "message": "Projekti",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "siirretty kohteesta",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(uusi nimike)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Nopea lisäys",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Uusi työtila",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Omat tehtävät",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Siirrä alaspäin",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROJEKTIT",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
