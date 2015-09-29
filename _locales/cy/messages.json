@@ -1,0 +1,522 @@
+{
+    "Follow": {
+        "message": "Dilyn",
+        "description": ""
+    },
+    "WriteAComment": {
+        "message": "Ychwanegu Sylw",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Wedi'i Weld yn Ddiweddar",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Cuddio Tasgau Wedi'u Cwblhau",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "AELODAU",
+        "description": ""
+    },
+    "All": {
+        "message": "Popeth",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Blaenoriaeth",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Prosiect Newydd",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "dadfarciwyd o heddiw",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Dangos Tasgau Wedi'u Harchifo",
+        "description": ""
+    },
+    "Date": {
+        "message": "Dyddiad",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Ychwanegu Nodiadau",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "Calendr",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Allgofnodi",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Cwympo Popeth",
+        "description": ""
+    },
+    "LATER": {
+        "message": "WEDYN",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Dyddiad Cwblhau",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Dyblygu'r Prosiect",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Prosiectau",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Dad-ddilyn",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Enw neu Ebost",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Gwneud Pennawd Wedi'i Flaenoriaethu",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Atodi Ffeil",
+        "description": ""
+    },
+    "More": {
+        "message": "mwy...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Pennawd Wedi'i Flaenoriaethu Newydd",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Ddoe",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Marciwyd fel Ffefryn",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Sylw",
+        "description": ""
+    },
+    "Search": {
+        "message": "Chwilio",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Archifo",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Aseinio i Gydweithiwr",
+        "description": ""
+    },
+    "New": {
+        "message": "Newydd",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Ehangu Popeth",
+        "description": ""
+    },
+    "Expand": {
+        "message": "Ehangu",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "ychwanegu dilynwyr",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Dilynwch y dasg os ydych chi am gael eich hysbysu am weithgarwch y dasg.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "wedi'u marcio ar gyfer heddiw",
+        "description": "Someone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "wedi newid y dyddiad cwblhau",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Dydd Sadwrn",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Mwy o brosiectau",
+        "description": ""
+    },
+    "Later": {
+        "message": "Wedyn",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "newidiodd y disgrifiad.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Tagiau",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Dad-ddilynwch y dasg i stopio derbyn negeseuon.",
+        "description": ""
+    },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Ychwanegu Tasg",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Cuddio'r Rhestr Tagiau",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Neilltuo i Mi",
+        "description": ""
+    },
+    "Today": {
+        "message": "Heddiw",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "mariwyd fel wedi'i gwblhau",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Dydd Sul",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "tynnodd o",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "I Ddod",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Dydd Iau",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Gosodiadau'r Cyfrif",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Aseinai",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Tasgau",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Dyma lle welwch hanes y dasg.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Mannau gwaith",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Archifo Tasgau Wedi'u Cwblhau",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "wedi creu'r dasg",
+        "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "Archifo'r Prosiect",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "Tynnu'r dilynwr",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "Gwahodd Pobl",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Dangos llai",
+        "description": ""
+    },
+    "List": {
+        "message": "Rhestr",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Marcio fel Wedi'i Gwblhau",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Dim Wedi'i Ddewis",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Cyfuno Tasgau Wedi'u Dyblygu",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Uwchraddio'r Man Gwaith",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Dangos rhai diweddar...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Golygu Gosodiadau'r Man Gwaith",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Neidio i Lawr",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Prosiect Newydd",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Dilynwyr",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Dileu'r Dasg",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Rhannu â rhywun arall",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Marcio fel Anghyflawn",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Adran Newydd",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Gweld Prosiectau, Tagiau a Phobl",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Tasg Newydd",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Cuddio Tasgau Wedi'u Harchifo",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "ychwanegodd i",
+        "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "Agor Manylion",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Sylw",
+        "description": "Comment button for adding a comment"
+    },
+    "PEOPLE": {
+        "message": "POBL",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Ychwanegu Person",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Calonnau",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Dydd Gwener",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Creu tasgau a phenawdau.",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "ychwanegodd is-dasg i dasg",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "Argraffu",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "Ychwanegu tasgau drwy ebost",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Marciwyd fel I Ddod. Cliciwch i newid hyn.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Gwneud Copi",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "ychwanegu i'r prosiect",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Tynnu fi o'r Man Gwaith",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Yfory",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Gwahodd a Rheoli Aelodau",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Dydd Llun",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Crynodeb Gweithgarwch",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Cuddio Prosiectau Wedi'u Harchifo",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "atododd",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Fy Nhasgau",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Wedi'i Gwblhau",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Dangos Prosiectau Wedi'u Harchifo",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Dydd Mercher",
+        "description": ""
+    },
+    "Share": {
+        "message": "Rhannu",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Help",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "aseiniodd i",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "ychwanegodd atodiad",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "ychwanegodd ddisgrifiad.",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Adborth",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "Dangos y Rhestr Tagiau",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Marciwyd ar gyfer Heddiw. Cliciwch i newid hyn.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "TAGIAU",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "creodd y prosiect",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "tynnodd yr amser cwblhau",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Marcio yn Anghyflawn",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Cau Manylion",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Dydd Mawrth",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Dileu'r Prosiect",
+        "description": ""
+    },
+    "Project": {
+        "message": "Prosiect",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "symudodd o",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(eitem newydd)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Ychwanegu cyflym",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Man Gwaith Newydd",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Fy Nhasgau",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Symud i Lawr",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROSIECTAU",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
