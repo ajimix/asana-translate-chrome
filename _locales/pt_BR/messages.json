@@ -4,7 +4,7 @@
         "description": ""
     },
     "WriteAComment": {
-        "message": "Escreva um comentário",
+        "message": "Escreva um Comentário",
         "description": ""
     },
     "TIP_RecentlyViewed": {
@@ -32,7 +32,7 @@
         "description": ""
     },
     "ACT_UnmarkedToday": {
-        "message": "desmarcado a partir de hoje",
+        "message": "desmarcado para hoje",
         "description": "Someone unmarked the task from today"
     },
     "ShowArchivedTasks": {
@@ -64,7 +64,7 @@
         "description": ""
     },
     "DueDate": {
-        "message": "Data de Entrega",
+        "message": "Data de Conclusão",
         "description": ""
     },
     "DuplicateProject": {
@@ -84,11 +84,11 @@
         "description": ""
     },
     "MakePriorityHeading": {
-        "message": "Marcar título prioritário",
+        "message": "Tornar Título Prioritário",
         "description": ""
     },
     "AttachFile": {
-        "message": "Anexar arquivo",
+        "message": "Anexar Arquivo",
         "description": ""
     },
     "More": {
@@ -96,7 +96,7 @@
         "description": ""
     },
     "NewPriorityHeading": {
-        "message": "Novo cabeçalho prioritário",
+        "message": "Novo Título Prioritário",
         "description": ""
     },
     "Yesterday": {
@@ -120,7 +120,7 @@
         "description": ""
     },
     "AssignToTeammate": {
-        "message": "Atribuir a um companheiro de equipe",
+        "message": "Atribuir a um Colega de equipe",
         "description": ""
     },
     "New": {
@@ -148,23 +148,23 @@
         "description": "Someone marked the task for today"
     },
     "ACT_ChangedDueDate": {
-        "message": "data de vencimento alterada",
+        "message": "data de conclusão alterada",
         "description": "Someone changed due date"
     },
     "Saturday": {
-        "message": "sábado",
+        "message": "Sábado",
         "description": ""
     },
     "MoreProjects": {
-        "message": "mais projetos",
+        "message": "Mais Projetos",
         "description": ""
     },
     "Later": {
-        "message": "mais tarde",
+        "message": "Depois",
         "description": ""
     },
     "ACT_ChangedDescription": {
-        "message": "mudou a descrição.",
+        "message": "mududa a descrição.",
         "description": "Someone changed the description."
     },
     "Tags": {
@@ -212,7 +212,7 @@
         "description": ""
     },
     "Thursday": {
-        "message": "quinta-feira",
+        "message": "Quinta",
         "description": ""
     },
     "AccountSettings": {
@@ -220,7 +220,7 @@
         "description": ""
     },
     "Assignee": {
-        "message": "Assignee",
+        "message": "Dono",
         "description": ""
     },
     "Tasks": {
@@ -236,11 +236,11 @@
         "description": ""
     },
     "ArchiveCompletedTasks": {
-        "message": "Arquivar tarefas concluídas",
+        "message": "Arquivar Tarefas Concluídas",
         "description": ""
     },
     "ACT_CreatedTask": {
-        "message": "criou a tarefa",
+        "message": "criada a tarefa",
         "description": "Someone created the task"
     },
     "ArchiveProject": {
@@ -256,7 +256,7 @@
         "description": ""
     },
     "ShowLess": {
-        "message": "mostrar menos",
+        "message": "Mostrar Menos",
         "description": ""
     },
     "List": {
@@ -268,15 +268,15 @@
         "description": ""
     },
     "NothingSelected": {
-        "message": "Nenhuma Selecão",
+        "message": "Nada Selecionado",
         "description": ""
     },
     "MergeDuplicateTasks": {
-        "message": "Combinar tarefas duplicadas",
+        "message": "Combinar Tarefas Duplicadas",
         "description": ""
     },
     "UpgradeWorkspace": {
-        "message": "atualize Workspace ",
+        "message": "Upgrade Área de trabalho",
         "description": ""
     },
     "ShowRecents": {
@@ -304,15 +304,15 @@
         "description": ""
     },
     "ShareWithAnotherPerson": {
-        "message": "Compartilhe com outra pessoa.",
+        "message": "Compartilhe com outra pessoa",
         "description": ""
     },
     "MarkIncomplete": {
-        "message": "Marcar com incompleta",
+        "message": "Marcar com Incompleta",
         "description": ""
     },
     "NewSection": {
-        "message": "nova Seção",
+        "message": "Nova Seção",
         "description": ""
     },
     "ViewProjectsTagsPeople": {
@@ -348,7 +348,7 @@
         "description": ""
     },
     "Hearts": {
-        "message": "corações",
+        "message": "Corações",
         "description": ""
     },
     "Friday": {
@@ -360,11 +360,11 @@
         "description": ""
     },
     "ACT_AddedSubtask": {
-        "message": "subtarefa adicionado à tarefa",
+        "message": "subtarefa adicionada à tarefa",
         "description": "Someone added a subtask to the task..."
     },
     "Print": {
-        "message": "imprimir",
+        "message": "Imprimir",
         "description": ""
     },
     "AddTasksByEmail": {
@@ -384,7 +384,7 @@
         "description": ""
     },
     "RemoveMeFromWorkspace": {
-        "message": "Remover-me do Workspace",
+        "message": "Remover-me da Área de trabalho",
         "description": ""
     },
     "Tomorrow": {
@@ -400,11 +400,11 @@
         "description": ""
     },
     "ActivityFeed": {
-        "message": "atividade feed",
+        "message": "Feed de Atividade",
         "description": ""
     },
     "HideArchivedProjects": {
-        "message": "Ocultar projetos arquivados",
+        "message": "Ocultar Projetos Arquivados",
         "description": ""
     },
     "ACT_Attached": {
@@ -444,11 +444,11 @@
         "description": "Someone added an attachment to the task"
     },
     "ACT_AddedDescription": {
-        "message": "adicionou descrição",
+        "message": "adicionada descrição.",
         "description": "Someone added a description."
     },
     "Feedback": {
-        "message": "comentários",
+        "message": "Feedback",
         "description": ""
     },
     "ShowTagsList": {
@@ -464,11 +464,11 @@
         "description": ""
     },
     "ACT_CreatedProject": {
-        "message": "criou o projeto",
+        "message": "criado o projeto",
         "description": "Someone created the project"
     },
     "ACT_RemovedDueDate": {
-        "message": "removed due date",
+        "message": "removida data de conclusão",
         "description": "Someone removed due date///"
     },
     "ACT_MarkedIncomplete": {
@@ -484,7 +484,7 @@
         "description": ""
     },
     "DeleteProject": {
-        "message": "excluir projeto",
+        "message": "Excluir Projeto",
         "description": ""
     },
     "Project": {
