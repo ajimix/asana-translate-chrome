@@ -1,0 +1,522 @@
+{
+    "Follow": {
+        "message": "Следвай",
+        "description": ""
+    },
+    "WriteAComment": {
+        "message": "Напиши коментар",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Последно видяни",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Скрий завършените задачи",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "ЧЛЕНОВЕ",
+        "description": ""
+    },
+    "All": {
+        "message": "Всички",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Приоритет",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Нов Проект",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "отмаркира от днес",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Покажи архивираните задачи",
+        "description": ""
+    },
+    "Date": {
+        "message": "Дата",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Добави бележка",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "Календар",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Излез",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Свиване на всички",
+        "description": ""
+    },
+    "LATER": {
+        "message": "ПО - КЪСНО",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Срок",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Дублирай Проекта",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Проекти",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Не следвай",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Име или Имейл",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Направи приоритетно заглавие",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Прикачи файл",
+        "description": ""
+    },
+    "More": {
+        "message": "повече...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Ново приоритетно заглавие",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Вчера",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Маркирано като предпочитано",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Коментар",
+        "description": ""
+    },
+    "Search": {
+        "message": "Търси",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Архив",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Възложена на Колега от екипа",
+        "description": ""
+    },
+    "New": {
+        "message": "Нов",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Покажи всички",
+        "description": ""
+    },
+    "Expand": {
+        "message": "Разшири",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "прибави последователи",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Следвай задачата, ако искаш да бъдеш информиран за активността и.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "маркира за днес",
+        "description": "Someone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "промени срока",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Събота",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Още Проекти",
+        "description": ""
+    },
+    "Later": {
+        "message": "По - късно",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "промени описанието.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Етикети",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Спри следенето на задачата за да се спре получаването на съобщения.",
+        "description": ""
+    },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Добави задача",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Скрий списъка с етикети",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Възложи на мен",
+        "description": ""
+    },
+    "Today": {
+        "message": "Днес",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "маркира като завършено",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Неделя",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "премахнат от",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Предстоящи",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Четвъртък",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Настройки на профила",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Изпълнител",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Задачи",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Тук ще видите историята на задачата",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Работни среди",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Архивирай завършените задачи",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "създаде задачата",
+        "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "Архивирай Проекта",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "Премахнете последовател",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "Покани и други",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Покажи по - малко",
+        "description": ""
+    },
+    "List": {
+        "message": "Списък",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Маркирай като завършено",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Нищо не е избрано",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Обедини дублирани задачи",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Надгради Работната среда",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Покажи последните...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Промяна настройки работна среда",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Прескочи надолу",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Нов Проект",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Последователи",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Изтрий задачата",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Сподели с друг човек",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Маркирай като незавършено",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Нова Секция",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Прегледайте Проектите, Етикетите и Хората",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Нова задача",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Скрийте архивираните задачи",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "прибави към",
+        "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "Отвори детайли",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Коментар",
+        "description": "Comment button for adding a comment"
+    },
+    "PEOPLE": {
+        "message": "КОЛЕГИ",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Добавете Колега",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Сърца",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Петък",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Създайте задачи и заглавия",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "прибави подзадача към задача",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "Принтирай",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "Прибави задачите с имейл",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Маркирано като Предстоящо. Кликни за промяна.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Направи копие",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "добави към Проект",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Премахни ме от Работната среда",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Утре",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Покани и управлявай членове",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Понеделник",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "История на дейностите",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Скрий архивирани Проекти",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "прикачи",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Моите задачи",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Завършено",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Покажи архивирани Проекти",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Сряда",
+        "description": ""
+    },
+    "Share": {
+        "message": "Сподели",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Помощ",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "възложи на",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "добави прикачен файл",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "прибави описание.",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Отзиви",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "Покажи списъка с етикети",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Маркирана за днес. Кликни за промяна.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "ЕТИКЕТИ",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "създаде Проект",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "премахна срока",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Маркирано като незавършено",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Затвори детайли",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Вторник",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Изтрий Проекта",
+        "description": ""
+    },
+    "Project": {
+        "message": "Проект",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "премести от",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(нова позиция)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Бързо добавяне",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Нова Работна среда",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Моите задачи",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Премести надолу",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "ПРОЕКТИ",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
