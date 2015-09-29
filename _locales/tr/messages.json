@@ -68,7 +68,7 @@
         "description": ""
     },
     "DuplicateProject": {
-        "message": "Kopya Proje",
+        "message": "Projeyi kopyala",
         "description": ""
     },
     "Projects": {
@@ -76,7 +76,7 @@
         "description": ""
     },
     "Unfollow": {
-        "message": "Takip Kaldır",
+        "message": "Takip etme",
         "description": ""
     },
     "NameOrEmail": {
@@ -196,7 +196,7 @@
         "description": ""
     },
     "ACT_MarkedComplete": {
-        "message": "tamamlandı yaptı",
+        "message": "tamamlandı olarak işaretlendi",
         "description": "Someone marked the task as complete"
     },
     "Sunday": {
@@ -244,7 +244,7 @@
         "description": "Someone created the task"
     },
     "ArchiveProject": {
-        "message": "Proje Arşivi",
+        "message": "Projeyi arşivle",
         "description": ""
     },
     "TIP_RemoveFollower": {
@@ -264,7 +264,7 @@
         "description": ""
     },
     "MarkComplete": {
-        "message": "Tamamlandı Yap",
+        "message": "Tamamlandı olarak işaretle",
         "description": ""
     },
     "NothingSelected": {
@@ -272,7 +272,7 @@
         "description": ""
     },
     "MergeDuplicateTasks": {
-        "message": "Kopya Görevleri Birleştir",
+        "message": "Benzer Görevleri Birleştir",
         "description": ""
     },
     "UpgradeWorkspace": {
@@ -300,7 +300,7 @@
         "description": ""
     },
     "DeleteTask": {
-        "message": "Görev Sil",
+        "message": "Görevi Sil",
         "description": ""
     },
     "ShareWithAnotherPerson": {
@@ -308,7 +308,7 @@
         "description": ""
     },
     "MarkIncomplete": {
-        "message": "Tamamlanmadı Yap",
+        "message": "Tamamlanmadı olarak işaretle",
         "description": ""
     },
     "NewSection": {
@@ -404,7 +404,7 @@
         "description": ""
     },
     "HideArchivedProjects": {
-        "message": "Arşivlenmiş Projeleri Gizle",
+        "message": "Arşivlenmiş projeleri gizle",
         "description": ""
     },
     "ACT_Attached": {
@@ -428,7 +428,7 @@
         "description": ""
     },
     "Share": {
-        "message": "Pylaş",
+        "message": "Paylaş",
         "description": "Note that changing that to a longer string will make the interface break."
     },
     "Help": {
@@ -472,11 +472,11 @@
         "description": "Someone removed due date///"
     },
     "ACT_MarkedIncomplete": {
-        "message": "tamamlanmadı yaptı",
+        "message": "Tamamlanmadı olarak işaretlendi",
         "description": ""
     },
     "CloseDetails": {
-        "message": "Detayları Kapat",
+        "message": "Detayları kapat",
         "description": ""
     },
     "Tuesday": {
@@ -504,7 +504,7 @@
         "description": ""
     },
     "NewWorkspace": {
-        "message": "Yeni Çalışma Alanı",
+        "message": "Yeni çalışma alanı",
         "description": ""
     },
     "My_Tasks": {
