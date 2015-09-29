@@ -1,0 +1,522 @@
+{
+    "Follow": {
+        "message": "Følg",
+        "description": ""
+    },
+    "WriteAComment": {
+        "message": "Skriv en kommentar",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Nylig sett på",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Skjul gjennomførte oppgaver",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "MEDLEMMER",
+        "description": ""
+    },
+    "All": {
+        "message": "Alle",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Prioritet",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Nytt prosjekt",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "avmerket for i dag",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Vis arkiverte oppgaver",
+        "description": ""
+    },
+    "Date": {
+        "message": "Dato",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Legg til notater",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "Kalender",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Logg ut",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Lukk alle",
+        "description": ""
+    },
+    "LATER": {
+        "message": "SENERE",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Tidsfrist",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Dupliser prosjektet",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Prosjekter",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Slutt å følge",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Navn eller epost",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Lag prioritert overskrift",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Legg ved fil",
+        "description": ""
+    },
+    "More": {
+        "message": "mer...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Ny prioritert overskrift",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "I går",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Merket som favoritt",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Kommentér",
+        "description": ""
+    },
+    "Search": {
+        "message": "Søk",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Arkivér",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Tildel til en på laget",
+        "description": ""
+    },
+    "New": {
+        "message": "Ny",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Åpne alle",
+        "description": ""
+    },
+    "Expand": {
+        "message": "Utvid",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "legg til følgere",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Følg oppgave hvis du vil varsles om aktivitet i oppgaven",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "markert for i dag",
+        "description": "Someone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "endret tidsfrist",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Lørdag",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Flere prosjekter",
+        "description": ""
+    },
+    "Later": {
+        "message": "Senere",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "endret beskrivelsen",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Merker",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Slutt å følge for å slutte å få beskjeder",
+        "description": ""
+    },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Legg til oppgave",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Skjul merkelisten",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Tildel meg",
+        "description": ""
+    },
+    "Today": {
+        "message": "I dag",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "markert som gjennomført",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Søndag",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "fjernet fra",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Kommende",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Torsdag",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Kontoinnstillinger",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Tildeler",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Oppgaver",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Her kan du se oppgaveloggen",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Arbeidsområder",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Arkiver gjennomførte oppgaver",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "lagde oppgaven",
+        "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "Arkiver prosjektet",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "Fjern følger",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "Invitér folk",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Vis mindre",
+        "description": ""
+    },
+    "List": {
+        "message": "Liste",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Marker som gjennomført",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Ingenting er valgt",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Slå sammen dupliserte oppgaver",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Oppgrader arbeidsområde",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Vis nylige...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Endre innstillinger for arbeidsområde",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Hopp ned",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Nytt prosjekt",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Følgere",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Slett oppgave",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Del med en annen person",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Marker som ikke gjennomført",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Ny del",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Se prosjekter, merker og folk",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Ny oppgave",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Skjul arkiverte oppgaver",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "la til",
+        "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "Åpne detaljer",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Kommentér",
+        "description": "Comment button for adding a comment"
+    },
+    "PEOPLE": {
+        "message": "FOLK",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Legg til en person",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Hjerter",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Fredag",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Lag oppgaver og overskrifter",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "la til deloppgave til oppgaven",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "Skriv ut",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "Legg til oppgave med epost",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Markert som kommende. Klikk for å endre.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Lag en kopi",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "legg til prosjektet",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Fjern meg fra arbeidsområdet",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "I morgen",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Inviter og administrer medlemmer",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Mandag",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Aktivitetsliste",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Skjul arkiverte prosjekter",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "vedlagt",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Mine oppgaver",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Gjennomført",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Vis arkiverte prosjekter",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Onsdag",
+        "description": ""
+    },
+    "Share": {
+        "message": "Del",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Hjelp",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "tildelt til",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "la til et vedlegg",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "la til beskrivelse",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Tilbakemelding",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "Vis merkelisten",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Markert for i dag. Klikk for å endre.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "MERKER",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "opprettet prosjektet",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "fjernet tidsfrist",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Marker som ikke gjennomført",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Lukk detaljer",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Tirsdag",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Slett prosjekt",
+        "description": ""
+    },
+    "Project": {
+        "message": "Prosjekt",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "flyttet fra",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(nytt element)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Legg hurtig til",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Nytt arbeidsområde",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Mine oppgaver",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Flytt ned",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "PROSJEKTER",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
