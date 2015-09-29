@@ -1,0 +1,522 @@
+{
+    "Follow": {
+        "message": "Theo dõi",
+        "description": ""
+    },
+    "WriteAComment": {
+        "message": "Viết nhận xét",
+        "description": ""
+    },
+    "TIP_RecentlyViewed": {
+        "message": "Đã xem gần đây",
+        "description": ""
+    },
+    "TIP_HideCompletedTasks": {
+        "message": "Ẩn các tác vụ đã hoàn thành",
+        "description": ""
+    },
+    "MEMBERS": {
+        "message": "CÁC THÀNH VIÊN",
+        "description": ""
+    },
+    "All": {
+        "message": "Tất cả",
+        "description": ""
+    },
+    "Priority": {
+        "message": "Ưu tiên",
+        "description": ""
+    },
+    "LEFT_NewProject": {
+        "message": "Dự án mới",
+        "description": ""
+    },
+    "ACT_UnmarkedToday": {
+        "message": "bỏ đánh dấu từ ngày hôm nay",
+        "description": "Someone unmarked the task from today"
+    },
+    "ShowArchivedTasks": {
+        "message": "Hiển thị các tạc vụ đã lưu trữ",
+        "description": ""
+    },
+    "Date": {
+        "message": "Ngày",
+        "description": ""
+    },
+    "AddNotes": {
+        "message": "Thêm các ghi chú",
+        "description": ""
+    },
+    "Calendar": {
+        "message": "Lịch",
+        "description": ""
+    },
+    "LogOut": {
+        "message": "Đăng xuất",
+        "description": ""
+    },
+    "CollapseAll": {
+        "message": "Thu gọn tất cả",
+        "description": ""
+    },
+    "LATER": {
+        "message": "SAU ĐÓ",
+        "description": ""
+    },
+    "DueDate": {
+        "message": "Ngày đến hạn",
+        "description": ""
+    },
+    "DuplicateProject": {
+        "message": "Nhân bản dự án",
+        "description": ""
+    },
+    "Projects": {
+        "message": "Các dự án",
+        "description": ""
+    },
+    "Unfollow": {
+        "message": "Bỏ theo dõi",
+        "description": ""
+    },
+    "NameOrEmail": {
+        "message": "Tên / Email",
+        "description": ""
+    },
+    "MakePriorityHeading": {
+        "message": "Tạo đề mục ưu tiên",
+        "description": ""
+    },
+    "AttachFile": {
+        "message": "Đính kèm tệp tin",
+        "description": ""
+    },
+    "More": {
+        "message": "xem thêm...",
+        "description": ""
+    },
+    "NewPriorityHeading": {
+        "message": "Tạo đề mục ưu tiên mới",
+        "description": ""
+    },
+    "Yesterday": {
+        "message": "Hôm qua",
+        "description": ""
+    },
+    "TIP_MarkedFavorite": {
+        "message": "Đánh dấu Yêu thích",
+        "description": ""
+    },
+    "Comment": {
+        "message": "Bình luận",
+        "description": ""
+    },
+    "Search": {
+        "message": "Tìm kiếm",
+        "description": ""
+    },
+    "Archive": {
+        "message": "Lưu trữ",
+        "description": ""
+    },
+    "AssignToTeammate": {
+        "message": "Chỉ định cho một người trong nhóm",
+        "description": ""
+    },
+    "New": {
+        "message": "Mới",
+        "description": ""
+    },
+    "ExpandAll": {
+        "message": "Mở rộng tất cả",
+        "description": ""
+    },
+    "Expand": {
+        "message": "Mở rộng",
+        "description": ""
+    },
+    "AddFollowers": {
+        "message": "thêm người theo dõi",
+        "description": ""
+    },
+    "TIP_FollowTask": {
+        "message": "Theo dõi để nhận được thông báo về các hoạt động của tác vụ này.",
+        "description": ""
+    },
+    "ACT_MarkedToday": {
+        "message": "được đánh dấu cho hôm nay",
+        "description": "Someone marked the task for today"
+    },
+    "ACT_ChangedDueDate": {
+        "message": "đã đổi ngày đến hạn",
+        "description": "Someone changed due date"
+    },
+    "Saturday": {
+        "message": "Thứ bảy",
+        "description": ""
+    },
+    "MoreProjects": {
+        "message": "Các dự án khác",
+        "description": ""
+    },
+    "Later": {
+        "message": "Sau đó",
+        "description": ""
+    },
+    "ACT_ChangedDescription": {
+        "message": "đã thay đổi miêu tả.",
+        "description": "Someone changed the description."
+    },
+    "Tags": {
+        "message": "Tags",
+        "description": ""
+    },
+    "TIP_UnfollowTask": {
+        "message": "Bỏ theo dõi tác vụ để ngừng nhận các tin nhắn.",
+        "description": ""
+    },
+    "ICal": {
+        "message": "iCal",
+        "description": ""
+    },
+    "AddTask": {
+        "message": "Thêm Tác vụ",
+        "description": ""
+    },
+    "HideTagsList": {
+        "message": "Ẩn danh sách tag",
+        "description": ""
+    },
+    "AssignToMe": {
+        "message": "Giao cho tôi",
+        "description": ""
+    },
+    "Today": {
+        "message": "Hôm nay",
+        "description": ""
+    },
+    "ACT_MarkedComplete": {
+        "message": "đánh dấu đã hoành thành",
+        "description": "Someone marked the task as complete"
+    },
+    "Sunday": {
+        "message": "Chủ nhật",
+        "description": ""
+    },
+    "ACT_RemovedFrom": {
+        "message": "đã gỡ bỏ từ",
+        "description": "Someone removed the task from..."
+    },
+    "Upcoming": {
+        "message": "Sắp tới",
+        "description": ""
+    },
+    "Thursday": {
+        "message": "Thứ 5",
+        "description": ""
+    },
+    "AccountSettings": {
+        "message": "Thiết lập Tài khoản",
+        "description": ""
+    },
+    "Assignee": {
+        "message": "Người chỉ định",
+        "description": ""
+    },
+    "Tasks": {
+        "message": "Các tác vụ",
+        "description": ""
+    },
+    "TIP_ActivityFeedInfo": {
+        "message": "Bạn sẽ thấy lịch sử của tác vụ ở đây.",
+        "description": ""
+    },
+    "WorkspaceOverview": {
+        "message": "Góc làm việc",
+        "description": ""
+    },
+    "ArchiveCompletedTasks": {
+        "message": "Lưu trữ các tác vụ đã hoàn thành",
+        "description": ""
+    },
+    "ACT_CreatedTask": {
+        "message": "đã tạo tác vụ",
+        "description": "Someone created the task"
+    },
+    "ArchiveProject": {
+        "message": "Lưu trữ dự án",
+        "description": ""
+    },
+    "TIP_RemoveFollower": {
+        "message": "Xóa người theo dõi",
+        "description": ""
+    },
+    "InvitePeople": {
+        "message": "Mời thêm người",
+        "description": ""
+    },
+    "ShowLess": {
+        "message": "Hiển thị ít hơn",
+        "description": ""
+    },
+    "List": {
+        "message": "Danh sách",
+        "description": ""
+    },
+    "MarkComplete": {
+        "message": "Đánh dấu Đã đoàn thành",
+        "description": ""
+    },
+    "NothingSelected": {
+        "message": "Chưa có gì được chọn",
+        "description": ""
+    },
+    "MergeDuplicateTasks": {
+        "message": "Gộp các tác vụ bị trùng lặp",
+        "description": ""
+    },
+    "UpgradeWorkspace": {
+        "message": "Nâng cấp Góc làm việc",
+        "description": ""
+    },
+    "ShowRecents": {
+        "message": "Hiển thị gần đây...",
+        "description": "Leave the three dots ..."
+    },
+    "EditWorkspaceSettings": {
+        "message": "Sửa các thiết lập của Góc làm việc",
+        "description": ""
+    },
+    "JumpDown": {
+        "message": "Xuống dưới",
+        "description": ""
+    },
+    "NewProject": {
+        "message": "Dự án mới",
+        "description": ""
+    },
+    "Followers": {
+        "message": "Những người theo dõi",
+        "description": ""
+    },
+    "DeleteTask": {
+        "message": "Xóa tác vụ",
+        "description": ""
+    },
+    "ShareWithAnotherPerson": {
+        "message": "Chia sẻ với người khác",
+        "description": ""
+    },
+    "MarkIncomplete": {
+        "message": "Đánh dấu Chưa xong",
+        "description": ""
+    },
+    "NewSection": {
+        "message": "Thêm phần mới",
+        "description": ""
+    },
+    "ViewProjectsTagsPeople": {
+        "message": "Xem qua các dự án, tag và người tham gia",
+        "description": ""
+    },
+    "NewTask": {
+        "message": "Tác vụ mới",
+        "description": ""
+    },
+    "HideArchivedTasks": {
+        "message": "Ẩn các tác vụ đã lưu trữ",
+        "description": ""
+    },
+    "ACT_AddedTo": {
+        "message": "đã thêm vào",
+        "description": "Someone added the task to..."
+    },
+    "OpenDetails": {
+        "message": "Xem các chi tiết",
+        "description": ""
+    },
+    "BUTTON_Comment": {
+        "message": "Bình luận",
+        "description": "Comment button for adding a comment"
+    },
+    "PEOPLE": {
+        "message": "NGƯỜI",
+        "description": ""
+    },
+    "AddPerson": {
+        "message": "Thêm người",
+        "description": ""
+    },
+    "Hearts": {
+        "message": "Các lượt yêu thích",
+        "description": ""
+    },
+    "Friday": {
+        "message": "Thứ sáu",
+        "description": ""
+    },
+    "TIP_CreateTasksAndHeadings": {
+        "message": "Tạo các tác vụ và đề mục.",
+        "description": ""
+    },
+    "ACT_AddedSubtask": {
+        "message": "đã thêm tác vụ phụ vào tác vụ này",
+        "description": "Someone added a subtask to the task..."
+    },
+    "Print": {
+        "message": "In",
+        "description": ""
+    },
+    "AddTasksByEmail": {
+        "message": "Thêm các tác vụ bằng email",
+        "description": ""
+    },
+    "TIP_MarkedForUpcoming": {
+        "message": "Đã đánh dấu Sắp tới hạn. Nhấn vào để thay đổi.",
+        "description": ""
+    },
+    "MakeACopy": {
+        "message": "Tạo một bản copy",
+        "description": ""
+    },
+    "AddToProject": {
+        "message": "thêm vào dự án",
+        "description": ""
+    },
+    "RemoveMeFromWorkspace": {
+        "message": "Xoá tôi khỏi Góc làm việc",
+        "description": ""
+    },
+    "Tomorrow": {
+        "message": "Ngày mai",
+        "description": ""
+    },
+    "InviteManageMembers": {
+        "message": "Mởi và quản lý các thành viên",
+        "description": ""
+    },
+    "Monday": {
+        "message": "Thứ hai",
+        "description": ""
+    },
+    "ActivityFeed": {
+        "message": "Nguồn tin các hoạt động",
+        "description": ""
+    },
+    "HideArchivedProjects": {
+        "message": "Ẩn các dự án được lưu trữ",
+        "description": ""
+    },
+    "ACT_Attached": {
+        "message": "đã đính kèm",
+        "description": "Someone attached something to the task..."
+    },
+    "MyTasks": {
+        "message": "Các tác vụ của tôi",
+        "description": ""
+    },
+    "Completed": {
+        "message": "Đã hoàn thành",
+        "description": ""
+    },
+    "ShowArchivedProjects": {
+        "message": "Hiển thị các dự án đã lưu trữ",
+        "description": ""
+    },
+    "Wednesday": {
+        "message": "Thứ tư",
+        "description": ""
+    },
+    "Share": {
+        "message": "Chia sẻ",
+        "description": "Note that changing that to a longer string will make the interface break."
+    },
+    "Help": {
+        "message": "Trợ giúp",
+        "description": ""
+    },
+    "ACT_AssignedTo": {
+        "message": "đã chỉ định cho",
+        "description": "Someone assigned the task to..."
+    },
+    "ACT_AddedAttachment": {
+        "message": "đã thêm file đính kèm",
+        "description": "Someone added an attachment to the task"
+    },
+    "ACT_AddedDescription": {
+        "message": "đã thêm miêu tả.",
+        "description": "Someone added a description."
+    },
+    "Feedback": {
+        "message": "Phản hồi",
+        "description": ""
+    },
+    "ShowTagsList": {
+        "message": "Hiển thị danh sách tag",
+        "description": ""
+    },
+    "TIP_MarkedForToday": {
+        "message": "Đã đánh dấu cho hôm nay. Nhấn vào để thay đổi.",
+        "description": ""
+    },
+    "TABS": {
+        "message": "TAGS",
+        "description": ""
+    },
+    "ACT_CreatedProject": {
+        "message": "đã tạo dự án",
+        "description": "Someone created the project"
+    },
+    "ACT_RemovedDueDate": {
+        "message": "xoá bỏ ngày đến hạn",
+        "description": "Someone removed due date///"
+    },
+    "ACT_MarkedIncomplete": {
+        "message": "Đã đánh dấu Chưa xong",
+        "description": ""
+    },
+    "CloseDetails": {
+        "message": "Đóng các chi tiết",
+        "description": ""
+    },
+    "Tuesday": {
+        "message": "Thứ ba",
+        "description": ""
+    },
+    "DeleteProject": {
+        "message": "Xóa dự án",
+        "description": ""
+    },
+    "Project": {
+        "message": "Dự án",
+        "description": ""
+    },
+    "ACT_MovedFrom": {
+        "message": "đã di chuyển từ",
+        "description": "Someone moved the task from"
+    },
+    "NewItem": {
+        "message": "(item mới)",
+        "description": ""
+    },
+    "QuickAdd": {
+        "message": "Thêm nhanh",
+        "description": ""
+    },
+    "NewWorkspace": {
+        "message": "Góc làm việc mới",
+        "description": ""
+    },
+    "My_Tasks": {
+        "message": "Các tác vụ của tôi",
+        "description": ""
+    },
+    "MoveDown": {
+        "message": "Di chuyển xuống",
+        "description": ""
+    },
+    "PROJECTS": {
+        "message": "CÁC DỰ ÁN",
+        "description": "Note that exceding this size will make the interface break."
+    }
+}
