@@ -4,11 +4,11 @@
         "description": ""
     },
     "WriteAComment": {
-        "message": "Escribir Comentario",
+        "message": "Escribir comentario",
         "description": ""
     },
     "TIP_RecentlyViewed": {
-        "message": "Visto Recientemente",
+        "message": "Visto recientemente",
         "description": ""
     },
     "TIP_HideCompletedTasks": {
@@ -16,7 +16,7 @@
         "description": ""
     },
     "MEMBERS": {
-        "message": "PERSONAS",
+        "message": "MIEMBROS",
         "description": ""
     },
     "All": {
@@ -28,12 +28,12 @@
         "description": ""
     },
     "LEFT_NewProject": {
-        "message": "Crear Proyecto",
+        "message": "Crear proyecto",
         "description": ""
     },
     "ACT_UnmarkedToday": {
-        "message": "la desmarcó de hoy",
-        "description": "Someone unmarked the task from today"
+        "message": "desmarcó de hoy",
+        "description": "Alguien desmarcó la tarea de Hoy"
     },
     "ShowArchivedTasks": {
         "message": "Mostrar tareas archivadas",
@@ -44,7 +44,7 @@
         "description": ""
     },
     "AddNotes": {
-        "message": "Añadir Notas",
+        "message": "Añadir notas",
         "description": ""
     },
     "Calendar": {
@@ -52,11 +52,11 @@
         "description": ""
     },
     "LogOut": {
-        "message": "Desconectar",
+        "message": "Cerrar sesión",
         "description": ""
     },
     "CollapseAll": {
-        "message": "Colapsar Todo",
+        "message": "Colapsar todo",
         "description": ""
     },
     "LATER": {
@@ -64,11 +64,11 @@
         "description": ""
     },
     "DueDate": {
-        "message": "F.Límite",
+        "message": "Fecha",
         "description": ""
     },
     "DuplicateProject": {
-        "message": "Duplicar Proyecto",
+        "message": "Duplicar proyecto",
         "description": ""
     },
     "Projects": {
@@ -76,7 +76,7 @@
         "description": ""
     },
     "Unfollow": {
-        "message": "No seguir",
+        "message": "Dejar de seguir",
         "description": ""
     },
     "NameOrEmail": {
@@ -84,7 +84,7 @@
         "description": ""
     },
     "MakePriorityHeading": {
-        "message": "Hacer cabecera de prioridad",
+        "message": "Hacer Cabecera de prioridad",
         "description": ""
     },
     "AttachFile": {
@@ -92,11 +92,11 @@
         "description": ""
     },
     "More": {
-        "message": "mas...",
+        "message": "más...",
         "description": ""
     },
     "NewPriorityHeading": {
-        "message": "Nueva Cabecera de Prioridad",
+        "message": "Nueva Cabecera de prioridad",
         "description": ""
     },
     "Yesterday": {
@@ -120,7 +120,7 @@
         "description": ""
     },
     "AssignToTeammate": {
-        "message": "asignar a un compañero",
+        "message": "Asignar a un compañero",
         "description": ""
     },
     "New": {
@@ -128,7 +128,7 @@
         "description": ""
     },
     "ExpandAll": {
-        "message": "Expander Todo",
+        "message": "Expandir Todo",
         "description": ""
     },
     "Expand": {
@@ -136,20 +136,20 @@
         "description": ""
     },
     "AddFollowers": {
-        "message": " añadir seguidores",
+        "message": "Añadir seguidores",
         "description": ""
     },
     "TIP_FollowTask": {
-        "message": "Sigue la tarea si quieres recibir mensajes sobre la actividad de ella.",
+        "message": "Sigue esta tarea si quieres recibir mensajes sobre su actividad.",
         "description": ""
     },
     "ACT_MarkedToday": {
         "message": "la marcó para hoy",
-        "description": "Someone marked the task for today"
+        "description": "Alguien marcó esta tarea para hoy."
     },
     "ACT_ChangedDueDate": {
-        "message": "cambió la fecha límite a",
-        "description": "Someone changed due date"
+        "message": "cambió la Fecha límite",
+        "description": "Alguien cambió la Fecha límite."
     },
     "Saturday": {
         "message": "Sábado",
@@ -164,15 +164,15 @@
         "description": ""
     },
     "ACT_ChangedDescription": {
-        "message": "cambió la descripción.",
-        "description": "Someone changed the description."
+        "message": "cambió la descripción",
+        "description": "Alguien cambió la descripción."
     },
     "Tags": {
         "message": "Etiquetas",
         "description": ""
     },
     "TIP_UnfollowTask": {
-        "message": "Dejar de seguir la tarea para no recibir mas mensajes sobre ella.",
+        "message": "Dejar de seguir la tarea y no recibir más mensajes sobre ella.",
         "description": ""
     },
     "ICal": {
@@ -184,11 +184,11 @@
         "description": ""
     },
     "HideTagsList": {
-        "message": "Ocultar Lista de Tags",
+        "message": "Ocultar Lista de etiquetas",
         "description": ""
     },
     "AssignToMe": {
-        "message": "Asignarmela",
+        "message": "Asignármela",
         "description": ""
     },
     "Today": {
@@ -205,7 +205,7 @@
     },
     "ACT_RemovedFrom": {
         "message": "la eliminó de",
-        "description": "Someone removed the task from..."
+        "description": "Alguien eliminó la tarea de..."
     },
     "Upcoming": {
         "message": "Próximamente",
@@ -228,11 +228,11 @@
         "description": ""
     },
     "TIP_ActivityFeedInfo": {
-        "message": "Aquí podrá ver el historial de la tarea.",
+        "message": "Aquí podrás ver el historial de la tarea.",
         "description": ""
     },
     "WorkspaceOverview": {
-        "message": "Espacios de Trabajo",
+        "message": "Espacios de trabajo",
         "description": ""
     },
     "ArchiveCompletedTasks": {
@@ -241,10 +241,10 @@
     },
     "ACT_CreatedTask": {
         "message": "creó la tarea",
-        "description": "Someone created the task"
+        "description": "Alguien creó la tarea"
     },
     "ArchiveProject": {
-        "message": "Archivar Proyecto",
+        "message": "Archivar proyecto",
         "description": ""
     },
     "TIP_RemoveFollower": {
@@ -252,7 +252,7 @@
         "description": ""
     },
     "InvitePeople": {
-        "message": "Invitar Gente",
+        "message": "Invitar gente",
         "description": ""
     },
     "ShowLess": {
@@ -272,27 +272,27 @@
         "description": ""
     },
     "MergeDuplicateTasks": {
-        "message": "Juntar Tareas Duplicadas",
+        "message": "Juntar tareas duplicadas",
         "description": ""
     },
     "UpgradeWorkspace": {
-        "message": "Mejorar al Espacio de Trabajo",
+        "message": "Mejorar Espacio de trabajo",
         "description": ""
     },
     "ShowRecents": {
         "message": "Mostrar recientes...",
-        "description": "Leave the three dots ..."
+        "description": "Deja los tres puntos ..."
     },
     "EditWorkspaceSettings": {
-        "message": "Editar el Espacio de Trabajo",
+        "message": "Editar Espacio de trabajo",
         "description": ""
     },
     "JumpDown": {
-        "message": "Saltar Abajo",
+        "message": "Saltar abajo",
         "description": ""
     },
     "NewProject": {
-        "message": "Nuevo Proyecto",
+        "message": "Nuevo proyecto",
         "description": ""
     },
     "Followers": {
@@ -300,7 +300,7 @@
         "description": ""
     },
     "DeleteTask": {
-        "message": "Borrar Tarea",
+        "message": "Borrar tarea",
         "description": ""
     },
     "ShareWithAnotherPerson": {
@@ -308,15 +308,15 @@
         "description": ""
     },
     "MarkIncomplete": {
-        "message": "Marcar Incompleta",
+        "message": "Marcar como Incompleta",
         "description": ""
     },
     "NewSection": {
-        "message": "Nueva Sección",
+        "message": "Nueva sección",
         "description": ""
     },
     "ViewProjectsTagsPeople": {
-        "message": "Ver proyectos, tags y gente",
+        "message": "Ver proyectos, etiquetas y gente",
         "description": ""
     },
     "NewTask": {
@@ -332,7 +332,7 @@
         "description": "Someone added the task to..."
     },
     "OpenDetails": {
-        "message": "Ver Detalles",
+        "message": "Ver detalles",
         "description": ""
     },
     "BUTTON_Comment": {
@@ -340,11 +340,11 @@
         "description": "Comment button for adding a comment"
     },
     "PEOPLE": {
-        "message": "GENTE",
+        "message": "PERSONAS",
         "description": ""
     },
     "AddPerson": {
-        "message": "Añadir Gente",
+        "message": "Añadir persona",
         "description": ""
     },
     "Hearts": {
@@ -376,7 +376,7 @@
         "description": ""
     },
     "MakeACopy": {
-        "message": "Hacer una Copia",
+        "message": "Hacer una copia",
         "description": ""
     },
     "AddToProject": {
@@ -384,7 +384,7 @@
         "description": ""
     },
     "RemoveMeFromWorkspace": {
-        "message": "Eliminarme del Espacio de Trabajo",
+        "message": "Eliminarme del Espacio de trabajo",
         "description": ""
     },
     "Tomorrow": {
@@ -392,7 +392,7 @@
         "description": ""
     },
     "InviteManageMembers": {
-        "message": "Invitar Personas",
+        "message": "Invitar personas",
         "description": ""
     },
     "Monday": {
@@ -404,7 +404,7 @@
         "description": ""
     },
     "HideArchivedProjects": {
-        "message": "Ocultar Proyectos Archivados",
+        "message": "Ocultar proyectos archivados",
         "description": ""
     },
     "ACT_Attached": {
@@ -420,7 +420,7 @@
         "description": ""
     },
     "ShowArchivedProjects": {
-        "message": "Mostrar Proyectos Archivados",
+        "message": "Mostrar proyectos archivados",
         "description": ""
     },
     "Wednesday": {
@@ -428,7 +428,7 @@
         "description": ""
     },
     "Share": {
-        "message": "Share",
+        "message": "Compartir",
         "description": "Note that changing that to a longer string will make the interface break."
     },
     "Help": {
@@ -444,7 +444,7 @@
         "description": "Someone added an attachment to the task"
     },
     "ACT_AddedDescription": {
-        "message": "añadió la descripción.",
+        "message": "añadió una descripción.",
         "description": "Someone added a description."
     },
     "Feedback": {
@@ -452,7 +452,7 @@
         "description": ""
     },
     "ShowTagsList": {
-        "message": "Mostrar Lista de Tags",
+        "message": "Mostrar Lista de etiquetas",
         "description": ""
     },
     "TIP_MarkedForToday": {
@@ -476,7 +476,7 @@
         "description": ""
     },
     "CloseDetails": {
-        "message": "Cerrar Detalles",
+        "message": "Cerrar detalles",
         "description": ""
     },
     "Tuesday": {
@@ -484,7 +484,7 @@
         "description": ""
     },
     "DeleteProject": {
-        "message": "Borrar Proyecto",
+        "message": "Borrar proyecto",
         "description": ""
     },
     "Project": {
@@ -500,23 +500,23 @@
         "description": ""
     },
     "QuickAdd": {
-        "message": "Tarea Rápida",
+        "message": "Tarea rápida",
         "description": ""
     },
     "NewWorkspace": {
-        "message": "Nuevo Espacio de Trabajo",
+        "message": "Nuevo Espacio de trabajo",
         "description": ""
     },
     "My_Tasks": {
-        "message": "Mis Tareas",
+        "message": "Mis tareas",
         "description": ""
     },
     "MoveDown": {
-        "message": "Mover Abajo",
+        "message": "Mover abajo",
         "description": ""
     },
     "PROJECTS": {
-        "message": "PROJECTS",
+        "message": "PROYECTO",
         "description": "Note that exceding this size will make the interface break."
     }
 }
